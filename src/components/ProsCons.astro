@@ -1,0 +1,44 @@
+---
+interface Props {
+  pros: string[];
+  cons: string[];
+}
+
+const { pros, cons } = Astro.props;
+---
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 my-6">
+  <!-- Pros -->
+  <div class="bg-surface rounded-[1.5rem] border border-border p-6 border-l-[3px] border-l-positive">
+    <h4 class="font-heading font-bold text-positive text-lg mb-4">Pros</h4>
+    <ul class="space-y-3">
+      {pros.map((pro) => (
+        <li class="flex items-start gap-3 text-cream font-body text-sm leading-relaxed">
+          <span class="text-positive mt-0.5 shrink-0" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8.5l3 3 7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </span>
+          <span>{pro}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- Cons -->
+  <div class="bg-surface rounded-[1.5rem] border border-border p-6 border-l-[3px] border-l-negative">
+    <h4 class="font-heading font-bold text-negative text-lg mb-4">Cons</h4>
+    <ul class="space-y-3">
+      {cons.map((con) => (
+        <li class="flex items-start gap-3 text-cream font-body text-sm leading-relaxed">
+          <span class="text-negative mt-0.5 shrink-0" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+              <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+            </svg>
+          </span>
+          <span>{con}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</div>

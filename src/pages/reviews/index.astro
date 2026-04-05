@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import { getCollection } from 'astro:content';
+
+const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Base
+  title="Software Reviews - Field Service Stack"
+  description="In-depth reviews of field service management software. Honest assessments of scheduling, dispatch, invoicing, and CRM tools."
+>
+  <section class="py-10 md:py-14">
+    <div class="max-w-[65ch] mb-8">
+      <h1 class="mb-4">Software Reviews</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body">
+        Every review is based on real usage, not vendor demos. We test scheduling, dispatch, invoicing, mobile apps, and integrations so you know exactly what you are paying for.
+      </p>
+    </div>
+
+    {allReviews.length > 0 ? (
+      <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+        {allReviews.map((post) => (
+          <ReviewCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            slug={post.id}
+            collection="reviews"
+            category="Review"
+            rating={post.data.rating}
+            image={post.data.image}
+            imageAlt={post.data.imageAlt}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted font-body">Reviews coming soon.</p>
+    )}
+  </section>
+</Base>

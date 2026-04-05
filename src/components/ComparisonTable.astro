@@ -1,0 +1,90 @@
+---
+interface Feature {
+  name: string;
+  productA: string | boolean;
+  productB: string | boolean;
+}
+
+interface Props {
+  features: Feature[];
+  productAName: string;
+  productBName: string;
+  winnerIndex?: 0 | 1;
+}
+
+const { features, productAName, productBName, winnerIndex } = Astro.props;
+
+function renderValue(val: string | boolean): { text: string; isCheck: boolean; isX: boolean } {
+  if (typeof val === 'boolean') {
+    return val
+      ? { text: '\u2713', isCheck: true, isX: false }
+      : { text: '\u2717', isCheck: false, isX: true };
+  }
+  return { text: val, isCheck: false, isX: false };
+}
+---
+
+<div class="comparison-table-wrap overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
+  <table class="comparison-table w-full border-collapse text-sm md:text-base">
+    <thead>
+      <tr>
+        <th class="text-left font-body font-semibold text-muted py-3 px-4 border-b border-border-strong sticky top-0 bg-dark z-10">
+          Feature
+        </th>
+        <th
+          class:list={[
+            'text-left font-body font-semibold py-3 px-4 border-b border-border-strong sticky top-0 z-10',
+            winnerIndex === 0 ? 'bg-cream/5 text-cream' : 'bg-dark text-white',
+          ]}
+        >
+          {productAName}
+        </th>
+        <th
+          class:list={[
+            'text-left font-body font-semibold py-3 px-4 border-b border-border-strong sticky top-0 z-10',
+            winnerIndex === 1 ? 'bg-cream/5 text-cream' : 'bg-dark text-white',
+          ]}
+        >
+          {productBName}
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      {features.map((feature) => {
+        const valA = renderValue(feature.productA);
+        const valB = renderValue(feature.productB);
+        return (
+          <tr class="border-b border-border hover:bg-surface/50 transition-colors">
+            <td class="py-3 px-4 font-body text-cream">
+              {feature.name}
+            </td>
+            <td
+              class:list={[
+                'py-3 px-4 font-mono',
+                winnerIndex === 0 ? 'bg-cream/5' : '',
+                valA.isCheck ? 'text-positive' : valA.isX ? 'text-negative' : 'text-muted',
+              ]}
+            >
+              {valA.text}
+            </td>
+            <td
+              class:list={[
+                'py-3 px-4 font-mono',
+                winnerIndex === 1 ? 'bg-cream/5' : '',
+                valB.isCheck ? 'text-positive' : valB.isX ? 'text-negative' : 'text-muted',
+              ]}
+            >
+              {valB.text}
+            </td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .comparison-table {
+    min-width: 500px;
+  }
+</style>

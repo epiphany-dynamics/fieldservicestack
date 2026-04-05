@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import { getCollection } from 'astro:content';
+
+const allComparisons = (await getCollection('comparisons', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Base
+  title="Head-to-Head Comparisons - Field Service Stack"
+  description="Side-by-side comparisons of field service management software. See how the top platforms stack up on pricing, features, and real-world performance."
+>
+  <section class="py-10 md:py-14">
+    <div class="max-w-[65ch] mb-8">
+      <h1 class="mb-4">Head-to-Head Comparisons</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body">
+        Choosing between two platforms? We break down the differences that actually matter: pricing, scheduling, invoicing, mobile experience, and customer support.
+      </p>
+    </div>
+
+    {allComparisons.length > 0 ? (
+      <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+        {allComparisons.map((post) => (
+          <ReviewCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            slug={post.id}
+            collection="compare"
+            category="Comparison"
+            rating={post.data.rating}
+            image={post.data.image}
+            imageAlt={post.data.imageAlt}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted font-body">Comparisons coming soon.</p>
+    )}
+  </section>
+</Base>

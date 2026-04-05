@@ -1,0 +1,120 @@
+---
+import Base from './Base.astro';
+import PostMeta from '../components/PostMeta.astro';
+import RatingBadge from '../components/RatingBadge.astro';
+import AuthorCard from '../components/AuthorCard.astro';
+import CTABlock from '../components/CTABlock.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  updated?: Date;
+  tags: string[];
+  rating?: number;
+  product?: string;
+  image?: string;
+  imageAlt?: string;
+  author: string;
+  focusKeyword: string;
+  seoTitle: string;
+}
+
+const {
+  title,
+  description,
+  date,
+  updated,
+  tags,
+  rating,
+  product,
+  image,
+  imageAlt,
+  author,
+  focusKeyword,
+  seoTitle,
+} = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const formattedUpdated = updated
+  ? updated.toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    })
+  : null;
+---
+
+<Base title={seoTitle} description={description}>
+  <article class="py-8 md:py-12">
+    <!-- Post Header -->
+    <header class="max-w-[65ch] mx-auto mb-8 md:mb-12 border-b border-border pb-8">
+      <!-- Tags -->
+      {tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mb-4">
+          {tags.map((tag) => (
+            <a
+              href={`/tags/${tag}`}
+              class="inline-block text-xs font-medium uppercase tracking-wider text-muted border border-border rounded-[12rem] px-3 py-1 transition-colors hover:text-cream hover:border-border-strong"
+            >
+              {tag}
+            </a>
+          ))}
+        </div>
+      )}
+
+      <h1 class="mb-4">{title}</h1>
+
+      {image && (
+        <div class="mt-6 mb-6 -mx-4 md:-mx-8 overflow-hidden rounded-lg">
+          <img
+            src={image}
+            alt={imageAlt || title}
+            class="w-full h-auto object-cover"
+            style="max-height: 400px;"
+          />
+        </div>
+      )}
+
+      {product && (
+        <p class="text-muted text-lg mb-4 font-body">{product}</p>
+      )}
+
+      <div class="flex flex-wrap items-center gap-4">
+        <PostMeta date={formattedDate} author={author} />
+
+        {formattedUpdated && (
+          <span class="text-sm text-muted">
+            Updated {formattedUpdated}
+          </span>
+        )}
+      </div>
+
+      {rating !== undefined && (
+        <div class="mt-6">
+          <RatingBadge rating={rating} />
+        </div>
+      )}
+    </header>
+
+    <!-- Article Body -->
+    <div class="prose mx-auto">
+      <slot />
+    </div>
+
+    <!-- Author Card -->
+    <footer class="max-w-[65ch] mx-auto mt-12 pt-8 border-t border-border">
+      <AuthorCard author={author} />
+    </footer>
+  </article>
+
+  <!-- CTA Block -->
+  <section class="border-t border-border">
+    <CTABlock />
+  </section>
+</Base>

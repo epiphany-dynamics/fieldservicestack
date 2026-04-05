@@ -1,0 +1,32 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-border mt-8 md:mt-12">
+  <div class="flex flex-wrap items-center justify-between gap-4 px-4 py-4 text-sm text-muted font-body">
+    <span>&copy; {year} Field Service Stack</span>
+
+    <div class="flex items-center gap-4">
+      <a
+        href="/rss.xml"
+        class="hover:text-cream transition-colors"
+        aria-label="RSS Feed"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M4 11a9 9 0 0 1 9 9" />
+          <path d="M4 4a16 16 0 0 1 16 16" />
+          <circle cx="5" cy="19" r="1" />
+        </svg>
+      </a>
+
+      <a
+        href="https://epiphanydynamics.ai"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="hover:text-cream transition-colors"
+      >
+        Powered by Epiphany Dynamics
+      </a>
+    </div>
+  </div>
+</footer>

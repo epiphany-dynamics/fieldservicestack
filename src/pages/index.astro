@@ -1,0 +1,151 @@
+---
+import Base from '../layouts/Base.astro';
+import ReviewCard from '../components/ReviewCard.astro';
+import CTABlock from '../components/CTABlock.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import { getCollection } from 'astro:content';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+const allComparisons = await getCollection('comparisons', ({ data }) => !data.draft);
+const allGuides = await getCollection('guides', ({ data }) => !data.draft);
+const allGear = await getCollection('gear', ({ data }) => !data.draft);
+
+const collectionMap: Record<string, { path: string; label: string }> = {
+  reviews: { path: 'reviews', label: 'Review' },
+  comparisons: { path: 'compare', label: 'Comparison' },
+  guides: { path: 'guides', label: 'Guide' },
+  gear: { path: 'gear', label: 'Gear' },
+};
+
+const allPosts = [
+  ...allReviews.map((p) => ({ ...p, _col: 'reviews' as const })),
+  ...allComparisons.map((p) => ({ ...p, _col: 'comparisons' as const })),
+  ...allGuides.map((p) => ({ ...p, _col: 'guides' as const })),
+  ...allGear.map((p) => ({ ...p, _col: 'gear' as const })),
+]
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 6);
+
+const categories = [
+  {
+    title: 'Software Reviews',
+    description: 'In-depth, honest reviews of the tools field service businesses actually use.',
+    href: '/reviews/',
+  },
+  {
+    title: 'Head-to-Head Comparisons',
+    description: 'Side-by-side breakdowns so you can stop guessing and start deciding.',
+    href: '/compare/',
+  },
+  {
+    title: "Buyer's Guides",
+    description: 'Curated picks by trade. HVAC, plumbing, electrical, landscaping, and more.',
+    href: '/guides/',
+  },
+  {
+    title: 'Tools & Gear',
+    description: 'Physical tools and equipment reviewed by people who actually use them on job sites.',
+    href: '/gear/',
+  },
+];
+---
+
+<Base
+  title="Field Service Stack - Software Reviews for Service Businesses"
+  description="Independent software reviews, comparisons, and buyer's guides for field service professionals. Find the right tools for your business."
+>
+  <!-- Hero -->
+  <section class="py-10 md:py-16">
+    <div class="max-w-[65ch]">
+      <h1 class="mb-5">Find the Right Software for Your Service Business</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body max-w-[55ch]">
+        Independent reviews, head-to-head comparisons, and buyer's guides written by someone who has actually worked in the field. No affiliate rankings. No pay-to-play. Just honest assessments of the software and gear that field service businesses depend on every day.
+      </p>
+    </div>
+  </section>
+
+  <!-- Latest Reviews -->
+  <section>
+    <h2 class="mb-6">Latest</h2>
+    <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+      {allPosts.map((post) => (
+        <ReviewCard
+          title={post.data.title}
+          description={post.data.description}
+          date={post.data.date}
+          slug={post.id}
+          collection={collectionMap[post._col].path}
+          category={collectionMap[post._col].label}
+          rating={post.data.rating}
+          image={post.data.image}
+          imageAlt={post.data.imageAlt}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section>
+    <h2 class="mb-6">Browse by Category</h2>
+    <div class="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-4">
+      {categories.map((cat) => (
+        <a href={cat.href} class="cat-card block group">
+          <div class="bg-surface border border-border rounded-[1.5rem] p-6 h-full cat-inner">
+            <h3 class="text-lg font-heading font-bold mb-2 cat-title">
+              {cat.title}
+            </h3>
+            <p class="text-sm text-muted font-body leading-relaxed cat-desc">{cat.description}</p>
+            <span class="cat-arrow text-muted mt-3 inline-block">&rarr;</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section>
+    <CTABlock />
+  </section>
+
+  <!-- Newsletter -->
+  <section class="py-10 md:py-14">
+    <NewsletterForm />
+  </section>
+</Base>
+
+<style>
+  /* Category card hover effects */
+  .cat-inner {
+    transition:
+      border-color 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      transform 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      background-color 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      box-shadow 0.35s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .cat-card:hover .cat-inner {
+    border-color: rgba(255, 255, 255, 0.25);
+    transform: translateY(-3px);
+    background-color: rgba(15, 15, 15, 1);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  }
+  .cat-title {
+    transition: color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .cat-card:hover .cat-title {
+    color: #ffffff;
+  }
+  .cat-desc {
+    transition: color 0.3s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .cat-card:hover .cat-desc {
+    color: #d4d4d8;
+  }
+  .cat-arrow {
+    transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), color 0.3s ease;
+    font-size: 1.25rem;
+  }
+  .cat-card:hover .cat-arrow {
+    transform: translateX(6px);
+    color: #f0efeb;
+  }
+</style>

@@ -1,0 +1,46 @@
+---
+interface Props {
+  author?: string;
+}
+
+const { author = 'Patrick Gibbs' } = Astro.props;
+
+const initials = author
+  .split(' ')
+  .map((n) => n[0])
+  .join('')
+  .toUpperCase();
+---
+
+<div class="author-card flex items-start gap-5 bg-surface border border-border rounded-[1.5rem] p-6">
+  <!-- Avatar -->
+  <div
+    class="shrink-0 w-16 h-16 rounded-full bg-dark border border-border-strong flex items-center justify-center"
+    aria-hidden="true"
+  >
+    <span class="font-heading font-bold text-xl text-cream">{initials}</span>
+  </div>
+
+  <!-- Bio -->
+  <div class="min-w-0">
+    <p class="font-heading font-bold text-white text-lg leading-tight">{author}</p>
+    <p class="text-muted text-sm font-body mt-1">Field Service Technology Expert</p>
+    <p class="text-cream/80 text-sm font-body mt-3 leading-relaxed">
+      Patrick helps field service businesses find the right software and tools to streamline
+      operations. When he's not reviewing software, he's building automation solutions at
+      <a
+        href="https://epiphanydynamics.ai"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-cream underline underline-offset-2 hover:text-white"
+      >
+        Epiphany Dynamics</a>.
+    </p>
+    <a
+      href="/about/"
+      class="inline-block text-sm text-muted hover:text-cream font-body mt-3 transition-colors"
+    >
+      More about {author.split(' ')[0]} &rarr;
+    </a>
+  </div>
+</div>

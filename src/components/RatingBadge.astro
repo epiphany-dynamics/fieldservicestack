@@ -1,0 +1,47 @@
+---
+interface Props {
+  rating: number;
+  size?: 'sm' | 'lg';
+}
+
+const { rating, size = 'lg' } = Astro.props;
+
+const isLarge = size === 'lg';
+const dimension = isLarge ? '80px' : '40px';
+const fontSize = isLarge ? '1.75rem' : '0.875rem';
+const subSize = isLarge ? '0.7rem' : '0.5rem';
+
+function getColor(r: number): string {
+  if (r >= 8) return '#ffffff';
+  if (r >= 5) return '#a1a1aa';
+  return '#ef4444';
+}
+
+function getBorderColor(r: number): string {
+  if (r >= 8) return 'rgba(255, 255, 255, 0.25)';
+  if (r >= 5) return 'rgba(255, 255, 255, 0.1)';
+  return 'rgba(239, 68, 68, 0.4)';
+}
+
+const color = getColor(rating);
+const borderColor = getBorderColor(rating);
+---
+
+<div
+  class="rating-badge inline-flex flex-col items-center justify-center rounded-full bg-surface"
+  style={`width: ${dimension}; height: ${dimension}; border: 1px solid ${borderColor};`}
+  aria-label={`Rating: ${rating} out of 10`}
+>
+  <span
+    class="font-heading font-bold leading-none"
+    style={`font-size: ${fontSize}; color: ${color};`}
+  >
+    {rating % 1 === 0 ? rating.toFixed(1) : rating}
+  </span>
+  <span
+    class="text-muted leading-none"
+    style={`font-size: ${subSize};`}
+  >
+    /10
+  </span>
+</div>

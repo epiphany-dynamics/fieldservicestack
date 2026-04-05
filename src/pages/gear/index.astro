@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import { getCollection } from 'astro:content';
+
+const allGear = (await getCollection('gear', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Base
+  title="Tools & Gear - Field Service Stack"
+  description="Reviews of physical tools, equipment, and gear for field service technicians. Tested on real job sites."
+>
+  <section class="py-10 md:py-14">
+    <div class="max-w-[65ch] mb-8">
+      <h1 class="mb-4">Tools & Gear</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body">
+        Software is only half the stack. These are the physical tools and equipment that hold up on actual job sites, reviewed by people who use them daily.
+      </p>
+    </div>
+
+    {allGear.length > 0 ? (
+      <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+        {allGear.map((post) => (
+          <ReviewCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            slug={post.id}
+            collection="gear"
+            category="Gear"
+            rating={post.data.rating}
+            image={post.data.image}
+            imageAlt={post.data.imageAlt}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted font-body">Gear reviews coming soon.</p>
+    )}
+  </section>
+</Base>

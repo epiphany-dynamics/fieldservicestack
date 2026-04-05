@@ -1,0 +1,45 @@
+---
+---
+
+<div class="newsletter-form bg-surface border border-border rounded-[1.5rem] p-6 md:p-8">
+  <h3 class="font-heading font-bold text-white text-xl md:text-2xl mb-2">
+    Get Field Service Tips Weekly
+  </h3>
+  <p class="text-muted font-body text-sm md:text-base mb-6 max-w-[50ch]">
+    Software reviews, tool recommendations, and automation tips for service businesses.
+  </p>
+
+  <form action="/api/newsletter" method="POST" class="flex flex-col sm:flex-row gap-3">
+    <label for="newsletter-email" class="sr-only">Email address</label>
+    <input
+      type="email"
+      id="newsletter-email"
+      name="email"
+      required
+      placeholder="you@company.com"
+      autocomplete="email"
+      class="flex-1 bg-dark border border-border rounded-[12rem] px-5 py-3 text-cream font-body text-sm placeholder:text-muted/60 focus:outline-none focus:border-border-strong transition-colors"
+    />
+    <button
+      type="submit"
+      class="submit-btn shrink-0 bg-cream text-dark font-body font-semibold text-sm px-6 py-3 rounded-[12rem] transition-transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
+    >
+      Subscribe
+    </button>
+  </form>
+
+  <p class="text-muted/60 text-xs font-body mt-4">
+    No spam. Unsubscribe anytime.
+  </p>
+</div>
+
+<style>
+  .submit-btn {
+    transition:
+      transform 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .submit-btn:hover {
+    box-shadow: 0 4px 16px rgba(240, 239, 235, 0.1);
+  }
+</style>

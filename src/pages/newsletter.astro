@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+---
+
+<Base
+  title="Newsletter - Field Service Stack"
+  description="Weekly software reviews, tool recommendations, and automation tips for field service businesses. Subscribe to the Field Service Stack newsletter."
+>
+  <section class="py-10 md:py-16">
+    <div class="max-w-[50ch] mx-auto">
+      <h1 class="mb-4 text-center">The Field Service Stack Newsletter</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body text-center mb-10">
+        One email per week with software reviews, tool deals, and field-tested advice for running a better service business.
+      </p>
+
+      <div class="mb-10">
+        <h3 class="font-heading font-bold text-white text-lg mb-4">What you get:</h3>
+        <ul class="space-y-3 text-sm text-muted font-body">
+          <li class="flex items-start gap-3">
+            <span class="text-cream mt-0.5 shrink-0">+</span>
+            <span>New software reviews and comparison breakdowns before they hit social media</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-cream mt-0.5 shrink-0">+</span>
+            <span>Pricing changes and deals on field service management platforms</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-cream mt-0.5 shrink-0">+</span>
+            <span>Gear recommendations tested on actual job sites</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-cream mt-0.5 shrink-0">+</span>
+            <span>Automation tips to cut admin work and get more jobs done per day</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-cream mt-0.5 shrink-0">+</span>
+            <span>No affiliate-driven rankings or vendor-sponsored content</span>
+          </li>
+        </ul>
+      </div>
+
+      <NewsletterForm />
+    </div>
+  </section>
+</Base>

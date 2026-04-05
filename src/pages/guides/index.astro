@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import { getCollection } from 'astro:content';
+
+const allGuides = (await getCollection('guides', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Base
+  title="Buyer's Guides - Field Service Stack"
+  description="Curated software recommendations by trade. Find the best tools for HVAC, plumbing, electrical, landscaping, and general field service businesses."
+>
+  <section class="py-10 md:py-14">
+    <div class="max-w-[65ch] mb-8">
+      <h1 class="mb-4">Buyer's Guides</h1>
+      <p class="text-muted text-base md:text-lg leading-relaxed font-body">
+        Not every business needs the same software. These guides are organized by trade and company size so you can skip the noise and find what fits.
+      </p>
+    </div>
+
+    {allGuides.length > 0 ? (
+      <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+        {allGuides.map((post) => (
+          <ReviewCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            slug={post.id}
+            collection="guides"
+            category="Guide"
+            rating={post.data.rating}
+            image={post.data.image}
+            imageAlt={post.data.imageAlt}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted font-body">Guides coming soon.</p>
+    )}
+  </section>
+</Base>

@@ -1,0 +1,127 @@
+---
+import RatingBadge from './RatingBadge.astro';
+
+interface Props {
+  title: string;
+  slug: string;
+  description: string;
+  rating?: number;
+  date: Date;
+  category: string;
+  collection: string;
+  image?: string;
+  imageAlt?: string;
+}
+
+const { title, slug, description, rating, date, category, collection, image, imageAlt } = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+});
+
+const href = `/${collection}/${slug}/`;
+---
+
+<a
+  href={href}
+  class="review-card group block bg-surface border border-border rounded-[1.5rem] overflow-hidden"
+>
+  <!-- Featured Image -->
+  {image ? (
+    <div class="card-image-wrap relative overflow-hidden" style="padding-top: 56.25%;">
+      <img
+        src={image}
+        alt={imageAlt || title}
+        class="card-image absolute inset-0 w-full h-full object-cover"
+        loading="lazy"
+      />
+      <!-- Rating badge overlay -->
+      {rating !== undefined && (
+        <div class="absolute top-3 right-3 z-10">
+          <RatingBadge rating={rating} size="sm" />
+        </div>
+      )}
+    </div>
+  ) : (
+    <!-- No image: gradient placeholder -->
+    <div class="card-image-wrap relative overflow-hidden" style="padding-top: 40%;">
+      <div class="absolute inset-0 bg-gradient-to-br from-surface to-dark"></div>
+      {rating !== undefined && (
+        <div class="absolute top-3 right-3 z-10">
+          <RatingBadge rating={rating} size="sm" />
+        </div>
+      )}
+    </div>
+  )}
+
+  <div class="p-5 md:p-6">
+    <!-- Category pill -->
+    <span class="category-pill inline-block text-[0.65rem] font-medium uppercase tracking-widest text-muted border border-border rounded-[12rem] px-2.5 py-0.5 mb-3">
+      {category}
+    </span>
+
+    <!-- Title -->
+    <h4 class="card-title font-heading font-bold text-white text-base md:text-lg leading-tight mb-2">
+      {title}
+    </h4>
+
+    <!-- Description (2-line clamp) -->
+    <p class="text-muted text-sm font-body leading-relaxed line-clamp-2 mb-3">
+      {description}
+    </p>
+
+    <!-- Date -->
+    <time class="text-muted/60 text-xs font-body" datetime={date.toISOString()}>
+      {formattedDate}
+    </time>
+  </div>
+</a>
+
+<style>
+  .review-card {
+    transition:
+      border-color 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      transform 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      background-color 0.35s cubic-bezier(0.2, 0.21, 0, 1),
+      box-shadow 0.35s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .review-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(255, 255, 255, 0.25);
+    background-color: rgba(15, 15, 15, 1);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .card-image {
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .review-card:hover .card-image {
+    transform: scale(1.04);
+  }
+
+  .card-title {
+    transition: color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .review-card:hover .card-title {
+    color: #f0efeb;
+  }
+
+  .category-pill {
+    transition:
+      border-color 0.3s cubic-bezier(0.2, 0.21, 0, 1),
+      color 0.3s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .review-card:hover .category-pill {
+    border-color: rgba(255, 255, 255, 0.25);
+    color: #f0efeb;
+  }
+
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
