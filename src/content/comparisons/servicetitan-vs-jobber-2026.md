@@ -126,6 +126,12 @@ Choose Jobber if:
 
 There's no shame in picking Jobber if you're not ready for ServiceTitan's complexity. And there's no sense staying on Jobber once your operation has grown past what it can handle. The right platform is the one that fits where your business is right now, not where you hope it'll be in three years.
 
+
+
+## Automate What Your FSM Software Doesn't Cover
+
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+
 ## Frequently Asked Questions
 
 ### Can I switch from Jobber to ServiceTitan later if my business grows?

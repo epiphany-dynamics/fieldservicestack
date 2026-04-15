@@ -142,6 +142,12 @@ Weather-based rescheduling is getting smarter across the board. Instead of manua
 
 Aspire's ownership by ServiceTitan is worth watching. The development investment is there, and if you're evaluating enterprise options for the next 3-5 years, platform stability matters as much as current features.
 
+
+
+## Automate What Your FSM Software Doesn't Cover
+
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+
 ## Frequently Asked Questions
 
 ### What is the best landscaping business software for small companies?

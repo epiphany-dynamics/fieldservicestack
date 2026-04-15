@@ -217,6 +217,12 @@ draft: false
 <p>If your biggest headache right now is invoice chasing, any of these platforms with online payment collection will fix most of it. Customers pay faster when they can tap a link. If the problem is dispatch, prioritize mobile app quality and the scheduling board. If QuickBooks reconciliation is eating your Sunday nights, make sure the sync is native on the specific plan you're buying, not just on the platform in general.</p>
 
 <p>Every platform listed here offers a free trial. Use it on a real work week, not a slow day when you're in the office clicking through features. Give your tech the app and watch what happens when they're standing in a customer's driveway between jobs. You'll know within three days.</p>
+
+
+<h2>Automate What Your FSM Software Doesn't Cover</h2>
+
+<p>Budget FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. <a href="https://epiphanydynamics.ai">Epiphany Dynamics</a> builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.</p>
+
 <h2>Frequently Asked Questions</h2>
 <h3>Q: Do cheap field service software plans charge extra per user, or is it unlimited team members?</h3>
 <p>Most budget plans cap users or charge per user—ServiceM8's $9 plan includes one user, while Jobber's Core plan at $49/month covers up to 5 users, which is why it costs more but remains cheaper long-term for crews. "Cheapest" often means cheapest for a solo operator; adding a second technician triggers upgrade costs on many platforms that erase the initial savings. Verify the user limit and add-on costs in the fine print before committing.</p>
