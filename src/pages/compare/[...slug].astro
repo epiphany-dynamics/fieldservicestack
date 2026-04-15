@@ -27,6 +27,7 @@ const { Content } = await render(entry);
   author={entry.data.author}
   focusKeyword={entry.data.focusKeyword}
   seoTitle={entry.data.seoTitle}
+  rawContent={entry.body || ''}
 >
   <Content />
 </Post>

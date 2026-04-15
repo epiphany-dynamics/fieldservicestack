@@ -4,6 +4,7 @@ import PostMeta from '../components/PostMeta.astro';
 import RatingBadge from '../components/RatingBadge.astro';
 import AuthorCard from '../components/AuthorCard.astro';
 import CTABlock from '../components/CTABlock.astro';
+import { extractFAQSchema } from '../lib/faq-schema';
 
 interface Props {
   title: string;
@@ -18,6 +19,7 @@ interface Props {
   author: string;
   focusKeyword: string;
   seoTitle: string;
+  rawContent?: string;
 }
 
 const {
@@ -33,6 +35,7 @@ const {
   author,
   focusKeyword,
   seoTitle,
+  rawContent,
 } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('en-US', {
@@ -105,9 +108,12 @@ const breadcrumbSchema = {
     { '@type': 'ListItem', position: 3, name: title, item: pageURL },
   ],
 };
+
+const faqSchema = rawContent ? extractFAQSchema(rawContent) : null;
+const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : [])];
 ---
 
-<Base title={seoTitle} description={description} schema={[articleSchema, breadcrumbSchema]}>
+<Base title={seoTitle} description={description} schema={schemas}>
   <article class="py-8 md:py-12">
     <!-- Post Header -->
     <header class="max-w-[65ch] mx-auto mb-8 md:mb-12 border-b border-border pb-8">
