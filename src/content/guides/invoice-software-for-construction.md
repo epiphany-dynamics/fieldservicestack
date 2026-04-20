@@ -226,7 +226,7 @@ draft: false
 
 <h3>Running a Service Business (HVAC, Plumbing, Electrical, Pest Control)</h3>
 
-<p>Jobber or Housecall Pro. Both are built for high-volume service calls where you invoice per visit and collect payment on-site. The differences in pricing, dispatch features, and day-to-day workflow are worth understanding before you commit. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> goes deep on where each one wins and where it falls short. Pick based on which interface your techs will actually use without complaining about it, because adoption is the real make-or-break factor with any of these tools.</p>
+<p>Jobber or Housecall Pro. Both are built for high-volume service calls where you invoice per visit and collect payment on-site. The differences in pricing, dispatch features, and day-to-day workflow are worth understanding before you commit. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> goes deep on where each one wins and where it falls short. Pick based on which interface your techs will actually use without complaining about it, because adoption is the real make-or-break factor with any of these tools.</p>
 
 <h3>Running Residential General Contracting</h3>
 
