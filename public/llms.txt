@@ -1,0 +1,23 @@
+# Field Service Stack
+
+Field Service Stack is an independent publication offering in-depth software reviews, head-to-head comparisons, buyer's guides, and gear recommendations for field service professionals. Every piece is written from the perspective of someone who has worked in the field, with no pay-to-play rankings and no affiliate bias steering the conclusions.
+
+## Ownership
+
+Owned by: Epiphany Dynamics (Wikidata: Q139569923, https://epiphanydynamics.ai)
+Author: Patrick Gibbs (Wikidata: Q139572015)
+
+## Collections
+
+- **Reviews** (/reviews/): Full-length, scored reviews of field service management software (scheduling, dispatch, invoicing, CRM, and more).
+- **Comparisons** (/compare/): Side-by-side breakdowns of competing tools to help businesses make faster, better-informed decisions.
+- **Guides** (/guides/): Curated buyer's guides organized by trade — HVAC, plumbing, electrical, landscaping, pest control, and others.
+- **Gear** (/gear/): Reviews of physical tools and job-site equipment used by field service technicians.
+
+## Audience
+
+HVAC contractors, plumbers, electricians, landscapers, pest control operators, general service businesses, and any trade or home-services company evaluating software or equipment for their operations.
+
+## Publisher Contact
+
+https://epiphanydynamics.ai

@@ -65,11 +65,30 @@ const sectionLabels: Record<string, string> = {
 const sectionLabel = sectionLabels[sectionSlug] ?? 'Articles';
 const sectionURL = new URL(`/${sectionSlug}/`, Astro.site).href;
 
+const authorSchema = {
+  '@type': 'Person',
+  '@id': 'https://www.wikidata.org/wiki/Q139572015',
+  name: author,
+  sameAs: [
+    'https://www.wikidata.org/wiki/Q139572015',
+    'https://github.com/patrickg21212',
+    'https://www.linkedin.com/in/patrick-gibbs-839b7b237',
+  ],
+};
+
 const publisher = {
   '@type': 'Organization',
-  name: 'Field Service Stack',
-  url: 'https://fieldservicestack.com',
-  logo: { '@type': 'ImageObject', url: 'https://fieldservicestack.com/images/og-image.png' },
+  '@id': 'https://www.wikidata.org/wiki/Q139569923',
+  name: 'Epiphany Dynamics',
+  url: 'https://epiphanydynamics.ai',
+  logo: { '@type': 'ImageObject', url: 'https://epiphanydynamics.ai/images/og-image.png' },
+  sameAs: [
+    'https://www.wikidata.org/wiki/Q139569923',
+    'https://github.com/epiphany-dynamics',
+    'https://www.linkedin.com/company/epiphanydynamics',
+    'https://www.crunchbase.com/organization/epiphany-dynamics',
+    'https://epiphanydynamics.ai',
+  ],
 };
 
 const articleSchema = rating !== undefined
@@ -78,7 +97,7 @@ const articleSchema = rating !== undefined
       '@type': 'Review',
       headline: title,
       description,
-      author: { '@type': 'Person', name: author },
+      author: authorSchema,
       publisher,
       datePublished: date.toISOString().split('T')[0],
       dateModified: (updated ?? date).toISOString().split('T')[0],
@@ -91,7 +110,7 @@ const articleSchema = rating !== undefined
       '@type': 'Article',
       headline: title,
       description,
-      author: { '@type': 'Person', name: author },
+      author: authorSchema,
       publisher,
       datePublished: date.toISOString().split('T')[0],
       dateModified: (updated ?? date).toISOString().split('T')[0],
