@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ReviewCard from '../../components/ReviewCard.astro';
+import CTABlock from '../../components/CTABlock.astro';
 import { getCollection } from 'astro:content';
 
 const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
@@ -38,5 +39,10 @@ const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
     ) : (
       <p class="text-muted font-body">Reviews coming soon.</p>
     )}
+  </section>
+
+  <!-- CTA -->
+  <section>
+    <CTABlock />
   </section>
 </Base>

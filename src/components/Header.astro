@@ -10,6 +10,10 @@ const tabs = [
   { label: 'About', href: '/about/' },
 ];
 
+const externalLinks = [
+  { label: 'AI Automation', href: 'https://epiphanydynamics.ai' },
+];
+
 function isActive(href: string): boolean {
   if (href === '/') return pathname === '/';
   return pathname.startsWith(href);
@@ -43,6 +47,23 @@ function isActive(href: string): boolean {
             aria-current={isActive(tab.href) ? 'page' : undefined}
           >
             {tab.label}
+          </a>
+        ))}
+
+        <!-- External: AI Automation -->
+        {externalLinks.map((link) => (
+          <a
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="external-link shrink-0 flex items-center gap-1.5 px-4 md:px-5 py-3 text-sm font-body font-medium tracking-wide border-r border-border"
+          >
+            {link.label}
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
           </a>
         ))}
       </nav>
@@ -89,5 +110,30 @@ function isActive(href: string): boolean {
     color: #ffffff;
     border-top-color: #f0efeb;
     padding-top: 2px;
+  }
+
+  /* External link — neutral, subtle distinction */
+  .external-link {
+    color: #a1a1aa;
+    border-top: 3px solid transparent;
+    padding-top: 5px;
+    transition:
+      color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
+      border-color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
+      background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .external-link:hover {
+    color: #a78bfa;
+    border-top-color: #a78bfa;
+    padding-top: 2px;
+    background-color: rgba(167, 139, 250, 0.04);
+  }
+  .external-link svg {
+    opacity: 0.5;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+  .external-link:hover svg {
+    opacity: 0.85;
+    transform: translate(1px, -1px);
   }
 </style>
