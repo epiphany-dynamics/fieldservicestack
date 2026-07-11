@@ -16,6 +16,11 @@ const postSchema = z.object({
   author: z.string().default('Patrick Gibbs'),
   draft: z.boolean().default(false),
   affiliateLinks: z.boolean().default(false),
+  networkLinks: z.array(z.object({
+    title: z.string(),
+    url: z.string(),
+    site: z.string(),
+  })).optional(),
 });
 
 const reviews = defineCollection({

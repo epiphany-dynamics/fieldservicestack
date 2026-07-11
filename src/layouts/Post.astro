@@ -4,6 +4,7 @@ import PostMeta from '../components/PostMeta.astro';
 import RatingBadge from '../components/RatingBadge.astro';
 import AuthorCard from '../components/AuthorCard.astro';
 import CTABlock from '../components/CTABlock.astro';
+import NetworkLinks from '../components/NetworkLinks.astro';
 import { extractFAQSchema } from '../lib/faq-schema';
 
 interface Props {
@@ -20,6 +21,7 @@ interface Props {
   focusKeyword: string;
   seoTitle: string;
   rawContent?: string;
+  networkLinks?: { title: string; url: string; site: string }[];
 }
 
 const {
@@ -36,6 +38,7 @@ const {
   focusKeyword,
   seoTitle,
   rawContent,
+  networkLinks,
 } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('en-US', {
@@ -202,6 +205,8 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       <AuthorCard author={author} />
     </footer>
   </article>
+
+  <NetworkLinks links={networkLinks} />
 
   <!-- CTA Block -->
   <section class="border-t border-border">
