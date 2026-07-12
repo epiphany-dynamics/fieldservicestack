@@ -26,11 +26,17 @@ function isActive(href: string): boolean {
       <!-- Logo -->
       <a
         href="/"
-        class="logo-link shrink-0 flex items-center px-4 md:px-6 py-3 border-r border-border"
+        class="logo-link shrink-0 flex items-center px-2 md:px-3 py-2 border-r border-border"
+        aria-label="Field Service Stack home"
       >
-        <span class="font-heading font-bold text-lg md:text-xl tracking-tight text-white whitespace-nowrap">
-          Field Service Stack
-        </span>
+        <img
+          src="/images/brand/fss-full-logo.png"
+          alt="Field Service Stack"
+          width="1254"
+          height="1254"
+          class="brand-lockup"
+          decoding="async"
+        />
       </a>
 
       <!-- Tab Navigation (Guardian-style horizontal tabs) -->
@@ -86,6 +92,11 @@ function isActive(href: string): boolean {
   }
   .logo-link:hover {
     background-color: rgba(255, 255, 255, 0.03);
+  }
+  .brand-lockup {
+    display: block;
+    width: clamp(5.25rem, 8vw, 7rem);
+    height: auto;
   }
 
   /* Tab links — Guardian-style hover with border-top reveal */
