@@ -14,6 +14,8 @@ const externalLinks = [
   { label: 'AI Automation', href: 'https://epiphanydynamics.ai' },
 ];
 
+const shopUrl = 'https://shop.fieldservicestack.com';
+
 function isActive(href: string): boolean {
   if (href === '/') return pathname === '/';
   return pathname.startsWith(href);
@@ -55,6 +57,18 @@ function isActive(href: string): boolean {
             {tab.label}
           </a>
         ))}
+
+        <a
+          href={shopUrl}
+          class="shop-link shrink-0 flex items-center gap-1.5 px-4 md:px-5 py-3 text-sm font-body font-semibold tracking-wide border-r border-border"
+          aria-label="Shop Field Service Stack gear"
+        >
+          Shop
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M6 7h12l-1 13H7L6 7Z" />
+            <path d="M9 9V5a3 3 0 0 1 6 0v4" />
+          </svg>
+        </a>
 
         <!-- External: AI Automation -->
         {externalLinks.map((link) => (
@@ -121,6 +135,23 @@ function isActive(href: string): boolean {
     color: #ffffff;
     border-top-color: #f0efeb;
     padding-top: 2px;
+  }
+
+  .shop-link {
+    color: #f0efeb;
+    border-top: 3px solid #22c55e;
+    padding-top: 2px;
+    background-color: rgba(34, 197, 94, 0.06);
+    transition:
+      color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
+      background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+  }
+  .shop-link:hover {
+    color: #ffffff;
+    background-color: rgba(34, 197, 94, 0.13);
+  }
+  .shop-link svg {
+    opacity: 0.75;
   }
 
   /* External link — neutral, subtle distinction */
