@@ -20,7 +20,7 @@ const postSchema = z.object({
     title: z.string(),
     url: z.string(),
     site: z.string(),
-  })).optional(),
+  })).max(4).optional(),
 });
 
 const reviews = defineCollection({
