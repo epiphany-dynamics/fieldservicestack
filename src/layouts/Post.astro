@@ -17,6 +17,8 @@ interface Props {
   product?: string;
   image?: string;
   imageAlt?: string;
+  imageWidth?: number;
+  imageHeight?: number;
   author: string;
   focusKeyword: string;
   seoTitle: string;
@@ -34,6 +36,8 @@ const {
   product,
   image,
   imageAlt,
+  imageWidth,
+  imageHeight,
   author,
   focusKeyword,
   seoTitle,
@@ -135,7 +139,7 @@ const faqSchema = rawContent ? extractFAQSchema(rawContent) : null;
 const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : [])];
 ---
 
-<Base title={seoTitle} description={description} schema={schemas}>
+<Base title={seoTitle} description={description} ogImage={image} ogImageWidth={imageWidth} ogImageHeight={imageHeight} schema={schemas}>
   <article class="py-8 md:py-12">
     <!-- Post Header -->
     <header class="max-w-[65ch] mx-auto mb-8 md:mb-12 border-b border-border pb-8">
@@ -167,6 +171,8 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
             <img
               src={image}
               alt={imageAlt || title}
+              width={imageWidth}
+              height={imageHeight}
               class="w-full h-auto transition-transform duration-500 ease-out group-hover:scale-[1.02]"
               loading="eager"
             />

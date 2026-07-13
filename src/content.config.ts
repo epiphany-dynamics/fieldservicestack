@@ -11,6 +11,8 @@ const postSchema = z.object({
   product: z.string().optional(),
   image: z.string().optional(),
   imageAlt: z.string().optional(),
+  imageWidth: z.number().int().positive().optional(),
+  imageHeight: z.number().int().positive().optional(),
   seoTitle: z.string(),
   focusKeyword: z.string(),
   author: z.string().default('Patrick Gibbs'),
