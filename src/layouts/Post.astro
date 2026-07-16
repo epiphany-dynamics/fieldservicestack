@@ -49,6 +49,7 @@ const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
+  timeZone: 'UTC',
 });
 
 const formattedUpdated = updated
@@ -56,6 +57,7 @@ const formattedUpdated = updated
       year: 'numeric',
       month: 'long',
       day: 'numeric',
+      timeZone: 'UTC',
     })
   : null;
 
@@ -147,12 +149,9 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       {tags.length > 0 && (
         <div class="flex flex-wrap gap-2 mb-4">
           {tags.map((tag) => (
-            <a
-              href={`/tags/${tag}`}
-              class="inline-block text-xs font-medium uppercase tracking-wider text-muted border border-border rounded-[12rem] px-3 py-1 transition-colors hover:text-cream hover:border-border-strong"
-            >
+            <span class="inline-block text-xs font-medium uppercase tracking-wider text-muted border border-border rounded-[12rem] px-3 py-1">
               {tag}
-            </a>
+            </span>
           ))}
         </div>
       )}
@@ -160,7 +159,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       <h1 class="mb-4">{title}</h1>
 
       {image && (
-        <figure class="mt-6 mb-6 -mx-4 md:-mx-8">
+        <figure class="mt-6 mb-6 mx-0 sm:-mx-4 md:-mx-8">
           <button
             type="button"
             class="js-zoom group block w-full overflow-hidden rounded-lg"
