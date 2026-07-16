@@ -18,8 +18,17 @@ imageWidth: 1536
 imageHeight: 1024
 draft: false
 affiliateLinks: false
-networkLinks: []
-updated: '2026-07-15'
+networkLinks:
+- title: 'How to Audit Your Business for Automation (5-Step Framework)'
+  url: https://epiphanydynamics.ai/blog/how-to-audit-your-business-for-automation/
+  site: ed
+- title: 'How to Automate Business Processes: Score Candidates Before ROI'
+  url: https://ai4bizcalculator.online/blog/how-to-automate-business-processes/
+  site: calc
+- title: How to Automate Business Processes Without Just Adding AI
+  url: https://epiphany.help/articles/how-to-automate-business-processes
+  site: help
+updated: '2026-07-16'
 ---
 
 **To automate business processes in a field-service company, audit the dispatch-to-invoice handoff before you shortlist any software. Map how one job moves from call intake through dispatch, technician notes, estimate, and invoice, then find where information gets re-keyed, lost, or delayed. Fix the worst handoff first, not the flashiest feature.**
