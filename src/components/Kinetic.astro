@@ -1,0 +1,70 @@
+---
+// Kinetic layer — 3D card tilt with cursor glow, magnetic buttons, scroll reveals.
+// All effects are progressive enhancement: fine-pointer only, reduced-motion safe.
+---
+
+<script>
+  const finePointer = window.matchMedia('(pointer: fine)').matches;
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (finePointer && !reducedMotion) {
+    // --- 3D tilt + cursor-following glow ---
+    document.querySelectorAll<HTMLElement>('[data-tilt]').forEach((el) => {
+      el.addEventListener('pointermove', (e) => {
+        const r = el.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width - 0.5;
+        const y = (e.clientY - r.top) / r.height - 0.5;
+        el.style.transform = `perspective(900px) rotateX(${(-y * 3.5).toFixed(2)}deg) rotateY(${(x * 3.5).toFixed(2)}deg)`;
+        el.style.setProperty('--mx', `${e.clientX - r.left}px`);
+        el.style.setProperty('--my', `${e.clientY - r.top}px`);
+      });
+      el.addEventListener('pointerleave', () => {
+        el.style.transform = '';
+      });
+    });
+
+    // --- Magnetic pull ---
+    const magnets = Array.from(document.querySelectorAll<HTMLElement>('[data-magnetic]'));
+    if (magnets.length > 0) {
+      let raf = 0;
+      window.addEventListener('pointermove', (e) => {
+        cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(() => {
+          magnets.forEach((el) => {
+            const r = el.getBoundingClientRect();
+            const cx = r.left + r.width / 2;
+            const cy = r.top + r.height / 2;
+            const dx = e.clientX - cx;
+            const dy = e.clientY - cy;
+            const dist = Math.hypot(dx, dy);
+            const radius = Math.max(r.width, 90);
+            if (dist < radius && dist > 0.5) {
+              const pull = (1 - dist / radius) * 7;
+              el.style.transform = `translate(${((dx / dist) * pull).toFixed(1)}px, ${((dy / dist) * pull).toFixed(1)}px)`;
+            } else if (el.style.transform) {
+              el.style.transform = '';
+            }
+          });
+        });
+      }, { passive: true });
+    }
+  }
+
+  // --- Scroll reveals (content is visible by default; hidden only once JS confirms IO exists) ---
+  if (!reducedMotion && 'IntersectionObserver' in window) {
+    document.documentElement.classList.add('js-reveal');
+    // Reveal every element at or above the viewport — this also catches elements
+    // skipped by instant jumps (anchors, reload mid-page, find-in-page).
+    const flush = () => {
+      document.querySelectorAll('.reveal:not(.is-in)').forEach((el) => {
+        if (el.getBoundingClientRect().top < window.innerHeight * 0.96) {
+          el.classList.add('is-in');
+          io.unobserve(el);
+        }
+      });
+    };
+    const io = new IntersectionObserver(flush, { rootMargin: '0px 0px -6% 0px', threshold: 0.04 });
+    document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
+    flush();
+  }
+</script>

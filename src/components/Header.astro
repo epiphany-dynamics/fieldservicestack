@@ -22,13 +22,13 @@ function isActive(href: string): boolean {
 }
 ---
 
-<header class="mb-4 md:mb-6">
-  <div class="frame border border-border">
-    <div class="flex items-stretch">
+<header class="site-header sticky top-0 z-40 border-b border-border">
+  <div class="shell">
+    <div class="flex items-center gap-4 md:gap-8 h-16">
       <!-- Logo -->
       <a
         href="/"
-        class="logo-link shrink-0 flex items-center px-2 md:px-3 py-2 border-r border-border"
+        class="logo-link shrink-0 flex items-center -ml-1.5 px-1.5 py-1 rounded-md"
         aria-label="Field Service Stack home"
       >
         <img
@@ -41,16 +41,14 @@ function isActive(href: string): boolean {
         />
       </a>
 
-      <!-- Tab Navigation (Guardian-style horizontal tabs) -->
-      <nav class="flex min-w-0 flex-1 overflow-x-auto scrollbar-hide" aria-label="Main navigation">
+      <!-- Primary navigation -->
+      <nav class="nav-scroll flex-1 flex items-center gap-1 overflow-x-auto h-full" aria-label="Main navigation">
         {tabs.map((tab) => (
           <a
             href={tab.href}
             class:list={[
-              'tab-link shrink-0 flex items-center px-4 md:px-5 py-3 text-sm font-body font-medium tracking-wide border-r border-border',
-              isActive(tab.href)
-                ? 'active'
-                : '',
+              'tab-link relative shrink-0 flex items-center h-full px-3 text-sm font-body',
+              isActive(tab.href) ? 'active' : '',
             ]}
             aria-current={isActive(tab.href) ? 'page' : undefined}
           >
@@ -58,28 +56,16 @@ function isActive(href: string): boolean {
           </a>
         ))}
 
-        <a
-          href={shopUrl}
-          class="shop-link shrink-0 flex items-center gap-1.5 px-4 md:px-5 py-3 text-sm font-body font-semibold tracking-wide border-r border-border"
-          aria-label="Shop Field Service Stack gear"
-        >
-          Shop
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M6 7h12l-1 13H7L6 7Z" />
-            <path d="M9 9V5a3 3 0 0 1 6 0v4" />
-          </svg>
-        </a>
-
         <!-- External: AI Automation -->
         {externalLinks.map((link) => (
           <a
             href={link.href}
             target="_blank"
             rel="noopener noreferrer"
-            class="external-link shrink-0 flex items-center gap-1.5 px-4 md:px-5 py-3 text-sm font-body font-medium tracking-wide border-r border-border"
+            class="external-link shrink-0 hidden md:flex items-center gap-1.5 h-full px-3 text-sm font-body"
           >
             {link.label}
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
               <polyline points="15 3 21 3 21 9" />
               <line x1="10" y1="14" x2="21" y2="3" />
@@ -87,95 +73,141 @@ function isActive(href: string): boolean {
           </a>
         ))}
       </nav>
+
+      <!-- Search + Shop -->
+      <button
+        type="button"
+        class="search-trigger shrink-0 inline-flex items-center gap-2 rounded-full border border-border px-3.5 py-1.5 text-sm text-muted"
+        data-search-trigger
+        data-magnetic
+        aria-label="Search (Command K)"
+      >
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8" />
+          <path d="m21 21-4.3-4.3" />
+        </svg>
+        <kbd class="search-kbd hidden md:inline">⌘K</kbd>
+      </button>
+
+      <a
+        href={shopUrl}
+        class="shop-link shrink-0 inline-flex items-center gap-2 rounded-full border border-border-strong px-4 py-1.5 text-sm font-body font-medium text-cream"
+        data-magnetic
+        aria-label="Shop Field Service Stack gear"
+      >
+        Shop
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M6 7h12l-1 13H7L6 7Z" />
+          <path d="M9 9V5a3 3 0 0 1 6 0v4" />
+        </svg>
+      </a>
     </div>
   </div>
 </header>
 
 <style>
-  .scrollbar-hide {
+  .site-header {
+    background: rgba(5, 5, 5, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+
+  .nav-scroll {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
-  .scrollbar-hide::-webkit-scrollbar {
+  .nav-scroll::-webkit-scrollbar {
     display: none;
   }
 
-  /* Logo hover */
-  .logo-link {
-    transition: background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
-  }
-  .logo-link:hover {
-    background-color: rgba(255, 255, 255, 0.03);
-  }
   .brand-lockup {
     display: block;
-    width: clamp(5.25rem, 8vw, 7rem);
+    width: clamp(4.5rem, 7vw, 5.75rem);
     height: auto;
   }
 
-  /* Tab links — Guardian-style hover with border-top reveal */
+  /* Tab links — hairline indicator under the active item, accent on hover */
   .tab-link {
-    color: #a1a1aa;
-    border-top: 3px solid transparent;
-    padding-top: 5px;
-    transition:
-      color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
-      border-color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
-      background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+    color: var(--color-muted);
+    font-weight: 400;
+    transition: color 0.2s var(--ease-out-quart);
+  }
+  .tab-link::after {
+    content: '';
+    position: absolute;
+    left: 0.75rem;
+    right: 0.75rem;
+    bottom: -1px;
+    height: 2px;
+    background: var(--color-accent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s var(--ease-out-expo);
   }
   .tab-link:hover {
-    color: #f0efeb;
-    border-top-color: #f0efeb;
-    padding-top: 2px; /* Shift up to accommodate border without layout jump */
-    background-color: rgba(255, 255, 255, 0.03);
+    color: var(--color-cream);
   }
-
-  /* Active state */
+  .tab-link:hover::after {
+    transform: scaleX(1);
+  }
   .tab-link.active {
     color: #ffffff;
-    border-top-color: #f0efeb;
-    padding-top: 2px;
+    font-weight: 500;
+  }
+  .tab-link.active::after {
+    transform: scaleX(1);
   }
 
-  .shop-link {
-    color: #f0efeb;
-    border-top: 3px solid #22c55e;
-    padding-top: 2px;
-    background-color: rgba(34, 197, 94, 0.06);
-    transition:
-      color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
-      background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
-  }
-  .shop-link:hover {
-    color: #ffffff;
-    background-color: rgba(34, 197, 94, 0.13);
-  }
-  .shop-link svg {
-    opacity: 0.75;
-  }
-
-  /* External link — neutral, subtle distinction */
+  /* External link — quiet, mono-flavored */
   .external-link {
-    color: #a1a1aa;
-    border-top: 3px solid transparent;
-    padding-top: 5px;
-    transition:
-      color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
-      border-color 0.2s cubic-bezier(0.2, 0.21, 0, 1),
-      background-color 0.2s cubic-bezier(0.2, 0.21, 0, 1);
+    color: var(--color-muted);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: color 0.2s var(--ease-out-quart);
   }
   .external-link:hover {
-    color: #a78bfa;
-    border-top-color: #a78bfa;
-    padding-top: 2px;
-    background-color: rgba(167, 139, 250, 0.04);
+    color: var(--color-accent);
   }
   .external-link svg {
-    opacity: 0.5;
-    transition: opacity 0.2s ease, transform 0.2s ease;
+    opacity: 0.6;
+    transition: opacity 0.2s var(--ease-out-quart), transform 0.25s var(--ease-out-expo);
   }
   .external-link:hover svg {
-    opacity: 0.85;
+    opacity: 1;
     transform: translate(1px, -1px);
+  }
+
+  /* Search trigger */
+  .search-trigger {
+    background: transparent;
+    cursor: pointer;
+    transition:
+      color 0.2s var(--ease-out-quart),
+      border-color 0.2s var(--ease-out-quart),
+      transform 0.3s var(--ease-out-expo);
+  }
+  .search-trigger:hover {
+    color: var(--color-cream);
+    border-color: var(--color-border-strong);
+  }
+  .search-kbd {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
+  }
+
+  /* Shop — outline pill, fills on hover. No permanent highlight. */
+  .shop-link {
+    transition:
+      background-color 0.25s var(--ease-out-expo),
+      border-color 0.25s var(--ease-out-expo),
+      color 0.25s var(--ease-out-expo);
+  }
+  .shop-link:hover {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #050505;
   }
 </style>

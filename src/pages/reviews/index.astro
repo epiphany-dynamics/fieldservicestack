@@ -12,16 +12,16 @@ const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
   title="Software Reviews - Field Service Stack"
   description="In-depth reviews of field service management software. Honest assessments of scheduling, dispatch, invoicing, and CRM tools."
 >
-  <section class="py-10 md:py-14">
-    <div class="max-w-[65ch] mb-8">
-      <h1 class="mb-4">Software Reviews</h1>
-      <p class="text-muted text-base md:text-lg leading-relaxed font-body">
+  <section class="pt-12 pb-14 md:pt-16 md:pb-20">
+    <div class="max-w-[65ch] mb-10">
+      <h1 class="rise rise-1 mb-4">Software Reviews</h1>
+      <p class="rise rise-3 text-muted text-base md:text-lg leading-relaxed font-body">
         Every review is based on real usage, not vendor demos. We test scheduling, dispatch, invoicing, mobile apps, and integrations so you know exactly what you are paying for.
       </p>
     </div>
 
     {allReviews.length > 0 ? (
-      <div class="grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-4">
+      <div class="reveal grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {allReviews.map((post) => (
           <ReviewCard
             title={post.data.title}
@@ -42,7 +42,7 @@ const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
   </section>
 
   <!-- CTA -->
-  <section>
+  <section class="pb-14 md:pb-20">
     <CTABlock />
   </section>
 </Base>

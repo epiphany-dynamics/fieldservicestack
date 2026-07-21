@@ -14,15 +14,17 @@ const {
 } = Astro.props;
 ---
 
-<div class="cta-block bg-cream rounded-[1.5rem] p-8 md:p-10 mt-12 relative overflow-hidden">
-  <!-- Subtle decorative gradient (Guardian-style ambient glow) -->
-  <div class="cta-glow"></div>
+<div class="cta-block reveal bg-cream rounded-xl p-8 md:p-12 relative overflow-hidden">
+  <!-- Ambient accent glow -->
+  <div class="cta-glow" aria-hidden="true"></div>
 
-  <h3 class="font-heading font-bold text-2xl md:text-3xl mb-4 leading-tight relative z-10" style="color: #050505;">
+  <p class="cta-kicker meta relative z-10 mb-4">Field Service Stack × Epiphany Dynamics</p>
+
+  <h3 class="font-heading font-bold text-2xl md:text-4xl mb-4 leading-tight relative z-10 max-w-[22ch]" style="color: #050505;">
     {heading}
   </h3>
 
-  <p class="font-body text-base md:text-lg mb-6 max-w-[55ch] leading-relaxed relative z-10" style="color: rgba(5, 5, 5, 0.75);">
+  <p class="font-body text-base md:text-lg mb-8 max-w-[55ch] leading-relaxed relative z-10" style="color: rgba(5, 5, 5, 0.75);">
     {body}
   </p>
 
@@ -30,36 +32,51 @@ const {
     href={ctaUrl}
     target="_blank"
     rel="noopener noreferrer"
-    class="cta-button inline-block bg-dark font-body font-semibold text-sm md:text-base px-8 py-3 rounded-[12rem] relative z-10"
+    class="cta-button inline-flex items-center gap-2 bg-dark font-body font-semibold text-sm md:text-base px-8 py-3.5 rounded-full relative z-10"
     style="color: #f0efeb;"
+    data-magnetic
   >
     {ctaText}
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M5 12h14" />
+      <path d="m13 6 6 6-6 6" />
+    </svg>
   </a>
 </div>
 
 <style>
+  .cta-kicker {
+    color: rgba(5, 5, 5, 0.55);
+  }
+
   .cta-glow {
     position: absolute;
-    top: -40%;
-    right: -10%;
-    width: 300px;
-    height: 300px;
+    top: -45%;
+    right: -8%;
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
-    background: radial-gradient(circle, rgba(161, 161, 170, 0.15) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(242, 182, 50, 0.35) 0%, transparent 65%);
     pointer-events: none;
   }
 
   .cta-button {
     color: #f0efeb !important;
     transition:
-      transform 0.3s cubic-bezier(0.22, 1, 0.36, 1),
-      box-shadow 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+      transform 0.3s var(--ease-out-expo),
+      background-color 0.3s var(--ease-out-expo);
   }
   .cta-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+    background-color: #1a1a18;
   }
   .cta-button:active {
     transform: translateY(0);
+  }
+  .cta-button svg {
+    transition: transform 0.3s var(--ease-out-expo);
+  }
+  .cta-button:hover svg {
+    transform: translateX(3px);
   }
 </style>

@@ -7,20 +7,20 @@ interface Props {
 const { rating, size = 'lg' } = Astro.props;
 
 const isLarge = size === 'lg';
-const dimension = isLarge ? '80px' : '40px';
-const fontSize = isLarge ? '1.75rem' : '0.875rem';
-const subSize = isLarge ? '0.7rem' : '0.5rem';
+const dimension = isLarge ? '84px' : '44px';
+const fontSize = isLarge ? '1.75rem' : '0.9375rem';
+const subSize = isLarge ? '0.7rem' : '0.55rem';
 
 function getColor(r: number): string {
-  if (r >= 8) return '#ffffff';
-  if (r >= 5) return '#a1a1aa';
-  return '#ef4444';
+  if (r >= 8) return '#f2b632';
+  if (r >= 5) return '#f0efeb';
+  return '#f2614d';
 }
 
 function getBorderColor(r: number): string {
-  if (r >= 8) return 'rgba(255, 255, 255, 0.25)';
-  if (r >= 5) return 'rgba(255, 255, 255, 0.1)';
-  return 'rgba(239, 68, 68, 0.4)';
+  if (r >= 8) return 'rgba(242, 182, 50, 0.55)';
+  if (r >= 5) return 'rgba(240, 239, 235, 0.22)';
+  return 'rgba(242, 97, 77, 0.45)';
 }
 
 const color = getColor(rating);
@@ -28,8 +28,8 @@ const borderColor = getBorderColor(rating);
 ---
 
 <div
-  class="rating-badge inline-flex flex-col items-center justify-center rounded-full bg-surface"
-  style={`width: ${dimension}; height: ${dimension}; border: 1px solid ${borderColor};`}
+  class="rating-badge inline-flex flex-col items-center justify-center rounded-full"
+  style={`width: ${dimension}; height: ${dimension}; border: 1.5px solid ${borderColor}; background: rgba(5, 5, 5, 0.72); backdrop-filter: blur(6px);`}
   aria-label={`Rating: ${rating} out of 10`}
 >
   <span
@@ -39,8 +39,8 @@ const borderColor = getBorderColor(rating);
     {rating % 1 === 0 ? rating.toFixed(1) : rating}
   </span>
   <span
-    class="text-muted leading-none"
-    style={`font-size: ${subSize};`}
+    class="font-mono leading-none"
+    style={`font-size: ${subSize}; color: var(--color-muted); letter-spacing: 0.08em;`}
   >
     /10
   </span>

@@ -16,20 +16,37 @@ const siteLabels: Record<NonNullable<Props['links']>[number]['site'], string> = 
 };
 ---
 
-<section class="border-t border-border mt-12 pt-8 max-w-[65ch] mx-auto">
-  <h2 class="text-lg font-semibold mb-4">From our network</h2>
-  <ul class="space-y-2">
+<section class="border-t border-border mt-12 pt-10 max-w-[65ch] mx-auto">
+  <h2 class="meta mb-5">From our network</h2>
+  <ul class="space-y-1">
     {links.slice(0, 4).map((link) => (
       <li>
-        <a 
-          href={link.url} 
-          class="text-accent hover:underline"
+        <a
+          href={link.url}
+          class="network-link group flex items-baseline justify-between gap-4 py-2.5 border-b border-border"
           rel="noopener"
         >
-          {link.title}
+          <span class="network-title font-body text-sm md:text-base text-cream">
+            {link.title}
+          </span>
+          <span class="meta shrink-0">{siteLabels[link.site]}</span>
         </a>
-        <span class="text-muted text-sm ml-2">({siteLabels[link.site]})</span>
       </li>
     ))}
   </ul>
 </section>
+
+<style>
+  .network-link {
+    transition: border-color 0.2s var(--ease-out-quart);
+  }
+  .network-title {
+    transition: color 0.2s var(--ease-out-quart);
+  }
+  .network-link:hover {
+    border-color: var(--color-border-strong);
+  }
+  .network-link:hover .network-title {
+    color: var(--color-accent);
+  }
+</style>

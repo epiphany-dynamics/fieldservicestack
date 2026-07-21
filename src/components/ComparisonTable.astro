@@ -24,25 +24,25 @@ function renderValue(val: string | boolean): { text: string; isCheck: boolean; i
 }
 ---
 
-<div class="comparison-table-wrap overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
+<div class="comparison-table-wrap overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0 rounded-xl border border-border">
   <table class="comparison-table w-full border-collapse text-sm md:text-base">
     <thead>
       <tr>
-        <th class="text-left font-body font-semibold text-muted py-3 px-4 border-b border-border-strong sticky top-0 bg-dark z-10">
+        <th class="text-left meta py-3.5 px-4 border-b border-border-strong sticky top-16 bg-surface z-10">
           Feature
         </th>
         <th
           class:list={[
-            'text-left font-body font-semibold py-3 px-4 border-b border-border-strong sticky top-0 z-10',
-            winnerIndex === 0 ? 'bg-cream/5 text-cream' : 'bg-dark text-white',
+            'text-left font-heading font-bold text-base py-3.5 px-4 border-b border-border-strong sticky top-16 z-10',
+            winnerIndex === 0 ? 'bg-raised text-accent' : 'bg-surface text-white',
           ]}
         >
           {productAName}
         </th>
         <th
           class:list={[
-            'text-left font-body font-semibold py-3 px-4 border-b border-border-strong sticky top-0 z-10',
-            winnerIndex === 1 ? 'bg-cream/5 text-cream' : 'bg-dark text-white',
+            'text-left font-heading font-bold text-base py-3.5 px-4 border-b border-border-strong sticky top-16 z-10',
+            winnerIndex === 1 ? 'bg-raised text-accent' : 'bg-surface text-white',
           ]}
         >
           {productBName}
@@ -54,14 +54,14 @@ function renderValue(val: string | boolean): { text: string; isCheck: boolean; i
         const valA = renderValue(feature.productA);
         const valB = renderValue(feature.productB);
         return (
-          <tr class="border-b border-border hover:bg-surface/50 transition-colors">
+          <tr class="border-b border-border hover:bg-raised/60 transition-colors">
             <td class="py-3 px-4 font-body text-cream">
               {feature.name}
             </td>
             <td
               class:list={[
-                'py-3 px-4 font-mono',
-                winnerIndex === 0 ? 'bg-cream/5' : '',
+                'py-3 px-4 font-mono text-sm',
+                winnerIndex === 0 ? 'bg-raised/60' : '',
                 valA.isCheck ? 'text-positive' : valA.isX ? 'text-negative' : 'text-muted',
               ]}
             >
@@ -69,8 +69,8 @@ function renderValue(val: string | boolean): { text: string; isCheck: boolean; i
             </td>
             <td
               class:list={[
-                'py-3 px-4 font-mono',
-                winnerIndex === 1 ? 'bg-cream/5' : '',
+                'py-3 px-4 font-mono text-sm',
+                winnerIndex === 1 ? 'bg-raised/60' : '',
                 valB.isCheck ? 'text-positive' : valB.isX ? 'text-negative' : 'text-muted',
               ]}
             >

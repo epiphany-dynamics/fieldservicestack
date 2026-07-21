@@ -142,27 +142,47 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
 ---
 
 <Base title={seoTitle} description={description} ogImage={image} ogImageWidth={imageWidth} ogImageHeight={imageHeight} schema={schemas}>
-  <article class="py-8 md:py-12">
+  <article class="pt-10 pb-4 md:pt-16">
     <!-- Post Header -->
-    <header class="max-w-[65ch] mx-auto mb-8 md:mb-12 border-b border-border pb-8">
+    <header class="max-w-[65ch] mx-auto mb-10 md:mb-14">
       <!-- Tags -->
       {tags.length > 0 && (
-        <div class="flex flex-wrap gap-2 mb-4">
+        <div class="rise rise-1 flex flex-wrap gap-2 mb-6">
           {tags.map((tag) => (
-            <span class="inline-block text-xs font-medium uppercase tracking-wider text-muted border border-border rounded-[12rem] px-3 py-1">
+            <span class="tag-chip inline-block meta border border-border rounded-full px-3 py-1">
               {tag}
             </span>
           ))}
         </div>
       )}
 
-      <h1 class="mb-4">{title}</h1>
+      <h1 class="rise rise-2 post-title mb-5">{title}</h1>
+
+      {product && (
+        <p class="rise rise-3 text-muted text-lg mb-5 font-body">{product}</p>
+      )}
+
+      <div class="rise rise-3 flex flex-wrap items-center gap-x-5 gap-y-3">
+        <PostMeta date={formattedDate} author={author} />
+
+        {formattedUpdated && (
+          <span class="meta">
+            Updated {formattedUpdated}
+          </span>
+        )}
+      </div>
+
+      {rating !== undefined && (
+        <div class="rise rise-4 mt-7">
+          <RatingBadge rating={rating} />
+        </div>
+      )}
 
       {image && (
-        <figure class="mt-6 mb-6 mx-0 sm:-mx-4 md:-mx-8">
+        <figure class="rise rise-4 mt-8">
           <button
             type="button"
-            class="js-zoom group block w-full overflow-hidden rounded-lg"
+            class="js-zoom group block w-full overflow-hidden rounded-xl border border-border"
             style="cursor: zoom-in;"
             data-zoom-src={image}
             aria-label="Enlarge image to read details"
@@ -172,31 +192,12 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
               alt={imageAlt || title}
               width={imageWidth}
               height={imageHeight}
-              class="w-full h-auto transition-transform duration-500 ease-out group-hover:scale-[1.02]"
+              class="w-full h-auto transition-transform duration-500 group-hover:scale-[1.02]"
+              style="transition-timing-function: var(--ease-out-expo);"
               loading="eager"
             />
           </button>
         </figure>
-      )}
-
-      {product && (
-        <p class="text-muted text-lg mb-4 font-body">{product}</p>
-      )}
-
-      <div class="flex flex-wrap items-center gap-4">
-        <PostMeta date={formattedDate} author={author} />
-
-        {formattedUpdated && (
-          <span class="text-sm text-muted">
-            Updated {formattedUpdated}
-          </span>
-        )}
-      </div>
-
-      {rating !== undefined && (
-        <div class="mt-6">
-          <RatingBadge rating={rating} />
-        </div>
       )}
     </header>
 
@@ -206,7 +207,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
     </div>
 
     <!-- Author Card -->
-    <footer class="max-w-[65ch] mx-auto mt-12 pt-8 border-t border-border">
+    <footer class="max-w-[65ch] mx-auto mt-14 pt-10 border-t border-border">
       <AuthorCard author={author} />
     </footer>
   </article>
@@ -214,7 +215,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
   <NetworkLinks links={networkLinks} />
 
   <!-- CTA Block -->
-  <section class="border-t border-border">
+  <section class="mt-14">
     <CTABlock />
   </section>
 
@@ -229,6 +230,21 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
 </Base>
 
 <style>
+  .post-title {
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    line-height: 1.08;
+  }
+
+  .tag-chip {
+    transition:
+      color 0.2s var(--ease-out-quart),
+      border-color 0.2s var(--ease-out-quart);
+  }
+  .tag-chip:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+
   .lightbox {
     position: fixed;
     inset: 0;

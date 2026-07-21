@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="newsletter-form bg-surface border border-border rounded-[1.5rem] p-6 md:p-8">
+<div class="newsletter-form bg-surface border border-border rounded-xl p-6 md:p-8">
   <h3 class="font-heading font-bold text-white text-xl md:text-2xl mb-2">
     Get Field Service Tips Weekly
   </h3>
@@ -18,17 +18,17 @@
       required
       placeholder="you@company.com"
       autocomplete="email"
-      class="flex-1 bg-dark border border-border rounded-[12rem] px-5 py-3 text-cream font-body text-sm placeholder:text-muted/60 focus:outline-none focus:border-border-strong transition-colors"
+      class="flex-1 bg-dark border border-border rounded-full px-5 py-3 text-cream font-body text-sm placeholder:text-cream-faint focus:outline-none focus:border-accent transition-colors"
     />
     <button
       type="submit"
-      class="submit-btn shrink-0 bg-cream text-dark font-body font-semibold text-sm px-6 py-3 rounded-[12rem] transition-transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
+      class="submit-btn shrink-0 bg-cream text-dark font-body font-semibold text-sm px-6 py-3 rounded-full cursor-pointer"
     >
       Subscribe
     </button>
   </form>
 
-  <p class="text-muted/60 text-xs font-body mt-4">
+  <p class="meta mt-4">
     No spam. Unsubscribe anytime.
   </p>
 </div>
@@ -36,10 +36,14 @@
 <style>
   .submit-btn {
     transition:
-      transform 0.3s cubic-bezier(0.22, 1, 0.36, 1),
-      box-shadow 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+      transform 0.3s var(--ease-out-expo),
+      background-color 0.3s var(--ease-out-expo);
   }
   .submit-btn:hover {
-    box-shadow: 0 4px 16px rgba(240, 239, 235, 0.1);
+    transform: translateY(-2px);
+    background-color: var(--color-accent);
+  }
+  .submit-btn:active {
+    transform: translateY(0);
   }
 </style>
