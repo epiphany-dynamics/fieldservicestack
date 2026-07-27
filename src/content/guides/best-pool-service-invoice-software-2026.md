@@ -87,6 +87,10 @@ draft: false
 <p>Pricing starts around $99/month and scales based on how many pools you're managing. For a 75-pool route, expect to pay roughly $129-149/month. For a 200-plus pool operation, pricing goes higher from there. It's not cheap compared to Pool Brain, but if automated, professional service reporting is part of how you compete in your market, the cost justifies itself quickly. Plenty of pool companies charge a 20-30% premium over local competitors specifically because of the documentation and transparency their software enables.</p>
 
 <p>The trade-off is that Skimmer is narrowly focused. If you also do HVAC service calls, irrigation repair, or any other work alongside pool maintenance, you'll hit its limits fast. It doesn't try to be a full field service platform. QuickBooks integration is available and works without major issues in practice.</p>
+<p>A second angle on the same constraint is tools service companies practical. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
+
+<p>A shorter path through the fog is software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
+
 
 <ul>
   <li>Pricing: From ~$99/mo (scales with pool count)</li>

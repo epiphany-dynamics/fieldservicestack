@@ -76,6 +76,10 @@ draft: false
 <p>Scoop Solar is the only platform on this list designed specifically for solar installation. Permit tracking is built in from the ground up, not bolted on from a generic field. You can track permit application status by jurisdiction, attach documents, set follow-up reminders, and pull reports on approval timelines across multiple counties. Same for utility interconnection. If you work across several utilities with different interconnection timelines and paperwork requirements, that is genuinely useful in a way that Jobber's custom fields cannot match.</p>
 
 <p>Crew scheduling and equipment staging share a single view. You can see the panel delivery arriving Tuesday but the install crew not scheduled until Wednesday and fix it on the spot, not after a frustrated homeowner calls about panels sitting in their driveway.</p>
+<p>That choice pairs best with a hard look at plumbing dispatch software 2026. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
+<p>You can stress-test that conclusion against tools service companies practical. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
+
+
 
 <p>The solar sales cycle is also baked into the platform. Lead tracking, proposal generation, and project handoff are connected, so the data the sales rep captured during the site assessment follows the job into production without a manual transfer step that creates errors.</p>
 

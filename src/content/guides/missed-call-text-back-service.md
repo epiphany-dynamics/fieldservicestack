@@ -78,6 +78,16 @@ For after-hours calls, be honest about timing: "We're closed but I'll get you on
 
 **Missed-call text-back is a safety net, not a front desk. It will not diagnose an emergency, quote a price, or calm a furious customer whose second visit got rescheduled. Some calls need a human voice fast, and some callers, especially older homeowners and commercial accounts, simply will not text back no matter how good the message is.**
 
+Once the stakes are concrete, back automation build right becomes the better reference.
+
+The operator version of this problem is spelled out in text back plumbers setup.
+
+[Missed Call Text Back for Plumbers: Setup Guide and ROI Model](https://epiphanydynamics.ai/blog/missed-call-text-back-for-plumbers/)
+
+
+[Missed Call Text Back Automation: Build It Right in 2026](https://epiphanydynamics.ai/blog/missed-call-text-back-automation/)
+
+
 Treat it as one layer. A true after-hours emergency, a burst main flooding a basement, needs a live answer or a routed on-call number, not a text that gets read in the morning. Commercial and property-management clients often expect a phone conversation and a real person who knows their account. And if your reply speed is slow, an auto-text that goes nowhere for two hours can feel worse than a plain voicemail, because you set an expectation and missed it.
 
 If a big share of your missed calls are true emergencies or high-value commercial work, weigh text-back against a live human option. Our breakdown of a [contractor answering service and the missed-call math](/guides/contractor-answering-service/) compares the two head to head, and the [HVAC answering service guide](/guides/hvac-answering-service/) walks through in-house versus service versus automated coverage for trades where every after-hours call could be a no-heat emergency.

@@ -70,6 +70,16 @@ The complaints are consistent: steep learning curve, rough onboarding experience
 
 A few patterns I notice in the reviews: the negative feedback tends to cluster around implementation and early adoption. Users who get through that phase seem generally happy. The ones who struggle often say they wish setup support was more hands-on.
 
+The numbers only matter after you accept tools integrate servicetitan 2026.
+
+Service businesses hit this wall in a slightly different shape: dispatch software 2026 fixes for small teams.
+
+[Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/)
+
+
+[Best AI Tools That Integrate with ServiceTitan in 2026](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/)
+
+
 ### FieldEdge: The Honest Review Picture
 
 FieldEdge users consistently describe the platform as simple and straightforward. That's not a backhanded compliment. For a smaller shop that doesn't want a six-month onboarding process, simplicity is a feature. Scheduling, dispatch, and QuickBooks integration are repeatedly called out as strengths.

@@ -93,6 +93,10 @@ draft: false
 </table>
 
 <p>Core is adequate for a solo operator who needs basic structure and wants to stop running jobs out of a text thread. The honest issue: no automated reminders, no two-way texting, no QuickBooks sync. For any business doing real volume, Core is a stepping stone, not a destination. You'll hit its ceiling faster than you expect.</p>
+<p>From there, the practical next cut is tools service companies practical. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
+<p>Before you lock a stack, sit with tools integrate servicetitan 2026. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
+
+
 
 <p>Connect at $129/month is where Jobber starts making clear financial sense for a growing operation. Automated reminders alone save real time every single week. Add two-way texting and QuickBooks sync and you have an actual operations platform, not just a nicer-looking calendar. A 3-truck HVAC crew or a solo plumber with a couple of helpers will be comfortable on Connect for a long time.</p>
 

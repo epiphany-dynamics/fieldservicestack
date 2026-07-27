@@ -66,6 +66,10 @@ draft: false
 <p>Photo documentation is stronger out of the box than Jobber. You take before/after photos directly in the app, annotate them, and they attach to both the job record and the invoice automatically. For carpet cleaning, that's not a nice-to-have feature, it's protection against disputes.</p>
 
 <p>The main issue with Housecall Pro is the QuickBooks sync. It works, but it has created duplicate entries for some users, and the account mapping setup isn't as intuitive as Jobber's. If your bookkeeper lives in QuickBooks, that's worth factoring in. Read the full <a href="/reviews/housecall-pro-review-2026">Housecall Pro review</a> for a longer look at where it holds up and where it doesn't.</p>
+<p>Where this post stays tactical, plumbing dispatch software 2026 zooms out just enough. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
+<p>Where this post stays tactical, scheduling software cut shows zooms out just enough. <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">Automated Scheduling Software: Cut No-Shows and Admin Time</a></p>
+
+
 
 <h3>3. Workiz: Best for Multi-Truck Operations</h3>
 

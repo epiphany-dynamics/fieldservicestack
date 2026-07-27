@@ -90,6 +90,11 @@ Jobber added automated review request functionality in recent updates, closing a
 
 For businesses where customer experience is a competitive differentiator, this matters. A plumbing company that sends automated arrival updates, follows up with a review request 24 hours after service, and sends a thank-you email with a referral offer stands out from competitors who communicate only when the customer calls.
 
+The risk section lands harder after tools integrate servicetitan 2026.
+
+[Best AI Tools That Integrate with ServiceTitan in 2026](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/)
+
+
 ## Customer Support
 
 Jobber provides phone, email, and chat support across all plans. Response times are consistently good and their knowledge base is well-organized. When you have a question at 3 PM on a Wednesday, you can call and talk to someone.

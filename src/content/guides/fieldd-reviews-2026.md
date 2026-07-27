@@ -62,6 +62,10 @@ draft: false
 <p>If you're running a 3-truck HVAC crew or a plumbing shop doing 15 to 20 calls a week, Jobber is probably your answer. The Core plan at $99/month covers most small operation needs without paying for features you won't use.</p>
 
 <p>Best for: HVAC, plumbing, electrical, landscaping, general contracting. Starts at $49/month.</p>
+<p>The cost side of the story is clearer in service companies practical 2025. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
+
+<p>From there, the practical next cut is automation small business 2026. <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">Appointment Reminder Automation for Small Business (2026 Guide)</a></p>
+
 
 <h3>3. Housecall Pro — Best for HVAC and Plumbing Operations</h3>
 

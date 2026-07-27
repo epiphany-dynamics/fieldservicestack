@@ -94,6 +94,10 @@ draft: false
 <p>Set up your Google Business Profile before you do anything else with marketing. It's free and it's where people go when their AC dies at 9pm in July. Fill out every field, add photos of your van and your equipment (not a logo, an actual person in a truck), and ask every completed customer for a review. Ten Google reviews puts you ahead of half the contractors in most markets.</p>
 
 <p>Nextdoor is underrated for HVAC startups. Post in your local neighborhood groups as a licensed local contractor. Not a spammy ad, just something like: "I just started my own HVAC business after 7 years with XYZ Company, happy to answer questions or give quotes to neighbors." You'll get calls within days.</p>
+<p>If the goal is fewer missed handoffs, start from setup common failure modes. <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/">AI Receptionist for HVAC: Setup, Common Failure Modes, and Real ROI (2026)</a></p>
+
+<p>The numbers only matter after you accept automate hvac business stop. <a href="https://epiphanydynamics.ai/blog/how-to-automate-your-hvac-business/">How to Automate Your HVAC Business: Stop Losing Calls and Jobs (2026)</a></p>
+
 
 <p>Property managers are worth pursuing early and hard. One relationship with a manager handling 50 rental units can replace 20 random residential calls per month. They want reliable, licensed contractors who answer their phone and show up when they say they will. Show up on time twice and you have a relationship. Show up three times and you're their go-to tech.</p>
 
