@@ -300,6 +300,8 @@ draft: false
 
 <p>For a broader look at how the full software stack fits together for small contractors, <a href="/guides/best-software-for-small-contractors">the small contractor software buying guide for 2026</a> is worth bookmarking before you make any final decisions.</p>
 
+<p>Owners weighing a second field app should read <a href="/compare/jobber-vs-fieldpulse-2026/">Jobber vs FieldPulse 2026: Which Field Service App Wins?</a>.</p>
+
 <h2>The Jobber-QuickBooks Integration</h2>
 
 <p><strong>Jobber and QuickBooks Online integrate natively with two-way sync. Invoices, payments, and client data flow between the two platforms automatically. The integration is available on the Connect plan ($129/mo) and above. It works well enough for most businesses, though you'll occasionally see sync errors that need manual cleanup.</strong></p>

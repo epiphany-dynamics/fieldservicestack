@@ -107,6 +107,8 @@ ServiceTitan earns high marks from the enterprise end. Businesses that have been
 
 Neither platform is going anywhere. These are mature businesses with real market traction.
 
+Our JobTread matchup, [Jobber vs JobTread 2026: Which One Fits Your Business?](/compare/jobber-vs-jobtread-2026/), applies the same tests.
+
 ## Which One Should You Choose?
 
 Choose ServiceTitan if:

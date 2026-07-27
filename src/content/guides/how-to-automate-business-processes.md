@@ -77,6 +77,8 @@ Use this simple framework:
 
 This ordering keeps you honest. When a vendor demo dazzles you with a feature for a stage that scored low, you have written evidence to say no. Your requirements document becomes the audit output, which is exactly what a good [field service management buyer's guide](/guides/field-service-management-buyers-guide/) tells you to bring to a demo instead of a wish list.
 
+For roofers, the invoicing end of that handoff is ranked in [Best Roofing Invoice Software in 2026: Top 5 Picks Ranked](/guides/best-roofing-invoice-software-2026/).
+
 ## A phased rollout that does not break your Friday
 
 **Roll out automation in three phases so you never disrupt live jobs to install a tool. Start with the single highest-scoring handoff, prove it on one crew for two weeks, then expand. Automating everything at once guarantees a chaotic Friday and a team that blames the software for problems the process already had.**

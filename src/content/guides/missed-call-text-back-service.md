@@ -82,6 +82,8 @@ Treat it as one layer. A true after-hours emergency, a burst main flooding a bas
 
 If a big share of your missed calls are true emergencies or high-value commercial work, weigh text-back against a live human option. Our breakdown of a [contractor answering service and the missed-call math](/guides/contractor-answering-service/) compares the two head to head, and the [HVAC answering service guide](/guides/hvac-answering-service/) walks through in-house versus service versus automated coverage for trades where every after-hours call could be a no-heat emergency.
 
+Getting that lead onto a truck is the dispatch problem, ranked in [Best Service Dispatch Software in 2026: Top 6 Picks Ranked](/guides/service-dispatch-software/).
+
 ## How to set it up in your existing stack
 
 **Start by checking whether your current field service platform already includes missed-call text-back before paying for a separate tool. Several scheduling and dispatch systems bundle it. If yours does not, pick a standalone service that pushes replies into the software you already use, so leads land on the schedule instead of in a dead inbox.**

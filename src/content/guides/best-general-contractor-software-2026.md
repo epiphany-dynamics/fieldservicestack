@@ -65,6 +65,8 @@ draft: false
 
 <p>Pricing is project-based or user-based depending on how you contract it. Small commercial GCs typically land between $375 and $750/month for the core modules. Custom pricing only, no published rate card. For residential GCs or small operations doing simple projects, Procore is too much. The learning curve is real and you'll need a dedicated person managing the platform. For commercial work where you're managing multiple subs across trades, maintaining a full audit trail for the owner, and producing regular budget reports, nothing else compares at that scale. The mobile app is the best on this list.</p>
 
+<p>A companion breakdown for lawn crews sits in <a href="/guides/best-lawn-care-scheduling-software-2026/">Best Lawn Care Scheduling Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>General Contractor Software Comparison</h2>
 
 <p><strong>The table below is a quick reference. Starting price is per month. Mobile app score reflects a combination of app store ratings and contractor forum feedback. Use this after reading the full platform writeups above, not instead of them.</strong></p>

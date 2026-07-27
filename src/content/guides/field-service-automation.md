@@ -79,6 +79,8 @@ After: confirmations and day before reminders send themselves, the en route tap 
 
 Notice what did not get automated in this illustration: who gets assigned to which job. On four trucks, a dispatcher who knows that one tech is faster on older equipment beats a routing rule every time.
 
+Two platforms that automate most of this are compared in [Housecall Pro vs Service Fusion 2026: Which One Wins?](/compare/housecall-pro-vs-service-fusion-2026/).
+
 ## When not to automate a field service workflow
 
 **Skip automation when the underlying process is unstable, the volume is tiny, or the interaction is emotional. Automating a broken intake process just produces wrong information faster. And a burst pipe call at 11 p.m. does not want a templated text, it wants a human voice confirming somebody is coming.**

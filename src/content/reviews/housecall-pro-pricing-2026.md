@@ -102,6 +102,8 @@ ServiceTitan is a different category entirely. If you're running multiple locati
 
 FieldEdge makes sense for HVAC and plumbing shops that want software built specifically around service agreements and equipment history. The per-user pricing model can work out cheaper for small teams but gets expensive fast as you scale.
 
+A direct price fight with Service Fusion sits in [Service Fusion vs Housecall Pro 2026: Which Is Worth It?](/compare/service-fusion-vs-housecall-pro-2026/).
+
 ## What Housecall Pro Does Well
 
 **Housecall Pro's mobile app is genuinely well-built for field operations. Technicians can pull up schedules, update job status, collect payments, and capture customer signatures from the field without calling the office. Payment processing is baked in at rates starting at 2.59%, and the platform handles the full customer lifecycle from booking to payment without requiring separate tools for each step.**

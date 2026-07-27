@@ -121,6 +121,8 @@ Out of the box, ServiceTitan's reports show everything. The challenge is filteri
 
 The 7.5 overall score reflects ServiceTitan's position as the most capable platform that also imposes the most significant barriers. It is not a criticism of the software. It is an acknowledgment that most field service businesses are not in ServiceTitan's target market, and for those businesses, the cost and complexity outweigh the features.
 
+The same worth it question about Housecall Pro is answered in [Is Housecall Pro Worth the Money in 2026?](/guides/is-housecall-pro-worth-the-money-2026/).
+
 ## Who Should Use ServiceTitan
 
 **Good fit:**

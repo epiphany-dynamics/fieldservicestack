@@ -41,6 +41,8 @@ draft: false
 
 <p>If scheduling, dispatching, and job costing are also problems you need to solve, our <a href="/guides/best-field-service-software-small-cleaning-businesses">guide to field service software for small cleaning businesses</a> covers the operational side in depth. For this article, the focus is on which platforms do invoicing well enough to replace your spreadsheet system or basic accounting setup.</p>
 
+<p>Carpet cleaning crews get their own ranked list in <a href="/guides/best-carpet-cleaning-invoice-software-2026/">Best Carpet Cleaning Invoice Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>Top Commercial Cleaning Invoice Software in 2026</h2>
 
 <p><strong>Jobber leads the field for commercial cleaning invoicing in 2026, with Swept as the specialist alternative for dedicated janitorial teams. Housecall Pro is a solid third for mixed operations, Workiz adds strong communication tools, ServiceM8 works well for iOS-only shops, and Janitorial Manager handles large enterprise facilities accounts that the other platforms aren't built for.</strong></p>

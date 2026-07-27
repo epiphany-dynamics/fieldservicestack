@@ -90,6 +90,8 @@ ServiceTitan implementation runs 8 to 12 weeks with a dedicated project manager.
 
 For a business that needs software working this week, this difference alone can be decisive.
 
+Our refreshed 2026 matchup, [ServiceTitan vs Jobber 2026: Which One Fits Your Business?](/compare/servicetitan-vs-jobber-2026/), applies the same tests.
+
 ## Verdict
 
 **Stay on Jobber** if you have fewer than 15 technicians, your scheduling needs are straightforward, and you want a tool that works without a dedicated admin. The cost-to-value ratio is excellent for small operations.

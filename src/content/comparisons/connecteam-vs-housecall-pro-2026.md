@@ -107,6 +107,8 @@ Choose Housecall Pro if:
 
 One edge case worth noting: cleaning companies and property maintenance businesses with large hourly workforces might actually be better served by Connecteam, even though Housecall Pro markets broadly to home services.
 
+If Connecteam is the pick, start with [How to Use Connecteam in 2026: Field Service Setup Guide](/guides/how-to-use-connecteam-2026/).
+
 ## The Bottom Line
 
 **Connecteam and Housecall Pro solve different problems. Connecteam wins on workforce management at a better price point for larger teams. Housecall Pro wins on revenue operations for trades businesses. The right choice comes down to whether your biggest daily friction is managing employees or managing the full job lifecycle from booking to payment.**

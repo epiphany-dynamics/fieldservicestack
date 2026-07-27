@@ -208,6 +208,8 @@ draft: false
 
 <p>If you're shopping primarily on budget, <a href="/guides/best-software-for-small-contractors">the best software for small contractors</a> covers affordable options across trade types, including an honest look at where the budget picks fall short when your crew starts to grow.</p>
 
+<p><a href="/guides/best-irrigation-service-scheduling-software-2026/">Best Irrigation Service Scheduling Software in 2026: Top 5 Picks</a> answers the same question for irrigation crews.</p>
+
 <h2>Our Recommendation</h2>
 
 <p><strong>For most landscaping businesses in 2026, Jobber is the right starting point. It covers what most crews need without requiring a lengthy implementation project. Commercial-heavy operations with complex bidding should go to LMN first. High-volume residential mowing companies running 100-plus accounts belong on Service Autopilot.</strong></p>

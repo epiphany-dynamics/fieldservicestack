@@ -58,6 +58,8 @@ Pricing moves often enough that any number printed here would be stale before yo
 
 If two finalists are close after step five, read a head to head before you sign. Our [FieldPulse vs Housecall Pro comparison](/compare/fieldpulse-vs-housecall-pro-2026/) is a useful example of how two tools that look nearly identical on a feature grid diverge on estimating and job costing.
 
+Shops down to two finalists should read [Workiz vs Kickserv 2026: Which FSM Software is Right for You?](/compare/workiz-vs-kickserv-2026-comparison/) too.
+
 ## Dispatch features that quietly decide the winner
 
 **Feature lists all look the same. The details that determine whether dispatchers keep using the software are unglamorous: how a callback links to its parent job, whether a tech can see yesterday's notes offline, and whether a rescheduled visit notifies the customer automatically instead of requiring a phone call.**

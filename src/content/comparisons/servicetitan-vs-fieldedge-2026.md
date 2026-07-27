@@ -78,6 +78,8 @@ The complaints: limited third-party integrations and occasional performance lag 
 
 The integration limitation is a real constraint if your business runs other software that needs to talk to your field service platform. FieldEdge works best when QuickBooks is your accounting hub and you're not depending on a lot of other connected tools.
 
+We ran the same scoring on the small shop end in [Zuper vs Jobber 2026: Which FSM Fits Your Business?](/compare/zuper-vs-jobber-2026/).
+
 ## Which One Should You Choose?
 
 **For most small-to-mid-sized HVAC, plumbing, or electrical shops that are QuickBooks-centered and want simpler operations, FieldEdge is the more practical choice. ServiceTitan makes more sense for growth-focused companies with larger teams, complex operations, and a budget to match. The wrong answer is picking based on marketing materials instead of actual team size and workflow needs.**

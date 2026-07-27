@@ -150,6 +150,8 @@ draft: false
 
 <p>One thing worth calling out: Jobber's customer support consistently earns good marks from users across review platforms. Phone support, live chat, and email are available on paid plans, and response times are faster than several competitors in this price range. That matters more than most buyers realize until something breaks during a Monday morning dispatch rush. For a deeper look at the platform's full capabilities beyond the enterprise-specific angle, <a href="/reviews/jobber-field-service-management-company-evaluation-review-2026">our full Jobber evaluation</a> covers every plan level in more detail.</p>
 
+<p>Owners weighing automation alongside a platform switch should read <a href="/guides/field-service-automation/">Field Service Automation: Which Workflows to Automate First</a>.</p>
+
 <h2>Who Jobber Is Actually Built For</h2>
 
 <p><strong>Jobber fits field service companies running 1-15 technicians that need scheduling, invoicing, and client communication without the cost or complexity of true enterprise platforms. It is best for HVAC, plumbing, electrical, landscaping, pest control, and cleaning businesses in the 5-15 user range that have outgrown basic tools but are not ready for a ServiceTitan implementation. It is not the right answer for a 30-truck operation with multiple service divisions.</strong></p>

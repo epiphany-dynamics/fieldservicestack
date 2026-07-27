@@ -103,6 +103,8 @@ No belt clip is included. The bare tool ships without a clip, which is an odd om
 
 Milwaukee wins on raw torque and warranty length. DeWalt wins on price by a narrow margin and has the largest battery ecosystem. Makita wins on nothing specific but competes adequately across all categories. The practical differences between these three are smaller than the marketing suggests. The biggest factor is your existing battery platform. If you own DeWalt batteries, buy the DeWalt. If you own Makita batteries, buy the Makita. If you are starting fresh or on M18, the Milwaukee M18 Fuel is the best overall package.
 
+A full head to head against the DeWalt sits in [DeWalt vs Milwaukee Impact Driver: Which Should You Buy in 2026?](/compare/dewalt-vs-milwaukee-impact-driver-comparison-2026/).
+
 ## Rating Breakdown
 
 | Category | Score | Notes |

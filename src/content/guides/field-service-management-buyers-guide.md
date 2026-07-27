@@ -124,6 +124,8 @@ Migrating from one platform to another means re-importing customer data, retrain
 
 The switching cost is not just the migration effort. It is the institutional knowledge embedded in your current system: customer notes, service histories, pricing configurations, and workflow customizations that took months to build. Some of this transfers. Some of it does not.
 
+For the workflow side of this decision, see [Field Service Automation: Which Workflows to Automate First](/guides/field-service-automation/).
+
 ## How to Evaluate
 
 **Run every platform through the same real-world test with actual customer data, actual jobs, and actual technicians. The platform that your least technical team member can operate smoothly in the field is the right choice, regardless of how impressive the desktop dashboard looks.**

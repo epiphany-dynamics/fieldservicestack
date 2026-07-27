@@ -104,6 +104,8 @@ draft: false
 
 <p>Service Fusion comes in at $195/month on the Starter plan with unlimited users, which is a genuinely useful differentiator once you're running a bigger crew and watching per-user costs multiply. The trade-off is a UI that isn't as polished as FieldPulse or Jobber, and a mobile app that technicians tend to complain about in online reviews. For owners who are comfortable trading setup complexity for more customization options and no per-user ceiling, it deserves a look. For anyone who needs techs operational on day one, it's a harder sell.</p>
 
+<p><a href="/guides/fieldd-reviews-2026/">Fieldd Reviews 2026: Is It Worth It for Field Service Pros?</a> answers the same question for a smaller mobile-first platform.</p>
+
 <h2>Side-by-Side Comparison</h2>
 
 <p><strong>FieldPulse sits in the middle of this group on price and toward the top on features-per-dollar at its price point. Jobber wins on UX and adoption speed. Housecall Pro wins on marketing. Service Fusion wins on per-user value for larger teams. Workiz wins for high-frequency dispatch workflows. No single platform dominates every category.</strong></p>

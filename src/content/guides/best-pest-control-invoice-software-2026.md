@@ -111,6 +111,8 @@ draft: false
 
 <p>Pricing is custom (sales call required), but it typically runs higher than GorillaDesk. If you're evaluating FieldRoutes, it's worth considering <a href="/reviews/is-servicetitan-worth-it-2026">whether ServiceTitan's broader ecosystem makes sense</a> for where your business is heading, since they share platform lineage and the upgrade path between them exists.</p>
 
+<p>The parallel guide for pool routes is <a href="/guides/best-pool-service-invoice-software-2026/">Best Pool Service Invoice Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>Pest Control Invoice Software Comparison Table</h2>
 
 <p><strong>GorillaDesk wins on value for small to mid-size operators with a published price and fast setup. PestPac is the enterprise pick for larger, multi-branch operations. Jobber and Housecall Pro are strong general-purpose options if you run multiple trades. FieldRoutes is best for subscription-heavy route businesses scaling past five trucks that want something between GorillaDesk and full enterprise.</strong></p>

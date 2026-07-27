@@ -115,6 +115,8 @@ draft: false
 
 <p>Weak spots: not as strong on real-time crew scheduling and dispatch as Jobber or Housecall Pro. If day-of coordination and live dispatch tracking are your primary pain points, JobNimbus is not the first choice.</p>
 
+<p>The equivalent shortlist for electrical contractors lives in <a href="/guides/best-electrical-contractor-scheduling-software-2026/">Best Electrical Contractor Scheduling Software 2026: Top 5 Picks</a>.</p>
+
 <h2>Solar Installation Software: Side-by-Side Comparison</h2>
 
 <p><strong>Jobber and Housecall Pro lead on ease of use and mobile app quality at accessible price points. ServiceTitan and Scoop Solar offer the deepest feature sets but require more budget and longer implementation timelines. FieldPulse wins on price predictability for small teams. JobNimbus is the only option with native solar-plus-roofing workflow support. All six platforms have QuickBooks integration available.</strong></p>

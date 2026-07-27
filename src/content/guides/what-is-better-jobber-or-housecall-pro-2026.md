@@ -73,6 +73,8 @@ draft: false
 
 <p>The Basic plan starts at $65/month for a single user and covers scheduling, dispatching, invoicing, and payments. Essentials runs $169/month for up to 5 users and adds recurring service agreements, automated marketing, and reporting. The MAX tier is custom-priced for larger operations and includes a dedicated success manager. Annual billing saves roughly 15-20% depending on the plan.</p>
 
+<p>Anyone shortlisting a budget third option should read <a href="/compare/kickserv-vs-jobber-2026/">Kickserv vs Jobber 2026: Best Kickserv Alternative Compared</a> too.</p>
+
 <h2>Head-to-Head Comparison</h2>
 
 <p><strong>Jobber beats Housecall Pro on ease of use, scheduling reliability, and QuickBooks integration. Housecall Pro wins on built-in marketing, residential customer retention tools, and financing integration. Jobber costs less at every comparable tier. Both have functional mobile apps; Jobber's performs more consistently in low-signal field conditions.</strong></p>

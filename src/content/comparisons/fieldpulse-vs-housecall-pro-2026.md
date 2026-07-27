@@ -225,6 +225,8 @@ draft: false
 
 <p>Housecall Pro also has a larger user community, which means more third-party tutorials, more forum threads, and more people who've already solved whatever problem you're going to run into. That has real value when you're troubleshooting at 7 AM before the first truck rolls out. If you're specifically in plumbing and want to see the full software landscape before committing, the <a href="/guides/best-plumbing-software-2026-guide">best plumbing software guide for 2026</a> puts both of these platforms in a wider context.</p>
 
+<p>For FieldPulse measured against Jobber instead, see <a href="/compare/jobber-vs-fieldpulse-2026/">Jobber vs FieldPulse 2026: Which Field Service App Wins?</a>.</p>
+
 <h2>Final Verdict</h2>
 
 <p><strong>Housecall Pro is the better starting point for most small residential service businesses. Easier onboarding, stronger customer communication tools, and a lower entry price make it the default recommendation. FieldPulse is the better pick when customization and multi-trade complexity matter more than quick setup. Neither is a weak choice. Pick based on your actual workflow, not the marketing copy.</strong></p>

@@ -47,6 +47,8 @@ draft: false
 
 <p>You'll also need a surety bond (typically $5,000-$15,000 face value, costs $50-$200/year) and general liability insurance. Do not skip the liability coverage. A single refrigerant leak claim or a job site injury can end your business before it starts. Budget $150-$400/month for a solo operator with $1M-$2M in general liability plus tools and equipment coverage.</p>
 
+<p>Bonding gets its own full breakdown in <a href="/guides/why-do-contractors-need-to-be-bonded/">Why Do Contractors Need to Be Bonded in 2026: Complete Guide</a>.</p>
+
 <h2>Realistic Startup Costs</h2>
 
 <p><strong>A realistic HVAC startup budget for a solo operator runs $15,000-$50,000 depending on whether you're buying a vehicle outright or financing. The biggest line items are the work vehicle ($25,000-$55,000 new, $8,000-$20,000 used), diagnostic tools and equipment ($5,000-$12,000), and insurance. Software and licensing fees are relatively minor by comparison.</strong></p>

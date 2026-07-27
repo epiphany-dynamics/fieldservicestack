@@ -139,6 +139,8 @@ draft: false
 <h3>Workiz</h3>
 <p>Workiz starts around $45/month and targets smaller operations. Scheduling, invoicing, and basic communication are covered. The platform is lighter than Jobber overall, but that's not a problem if you're a solo locksmith or appliance repair tech who just needs structure without a steep learning curve. It also handles inbound call tracking natively, which Jobber doesn't. For a solo plumber doing 8-10 calls a day who doesn't need GPS tracking or advanced reporting, Workiz is a legitimate option at a lower price point.</p>
 
+<p>We pushed the same platform against enterprise demands in <a href="/reviews/jobber-field-service-management-review-enterprise-2026/">Jobber Field Service Management Review 2026: Is It Enterprise-Ready?</a>.</p>
+
 <h2>Field Service Management Software Comparison</h2>
 
 <p><strong>The table below covers five platforms home service businesses are actively using in 2026. Pricing reflects annual billing on entry-level paid plans. Feature depth varies significantly by tier, so compare the plan you'd actually put your operation on, not just the cheapest entry point listed on each pricing page.</strong></p>

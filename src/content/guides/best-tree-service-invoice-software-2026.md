@@ -174,6 +174,8 @@ draft: false
 
 <p>Tree service also sits right next to landscaping from a software perspective. Many platforms that work well for lawn care companies overlap significantly with tree service needs, particularly around seasonal scheduling and recurring account management. The <a href="/guides/best-landscaping-business-software-2026">best landscaping business software guide</a> covers some of those overlapping options if you want a broader comparison set.</p>
 
+<p>If pool service is also on your books, start with <a href="/guides/best-pool-service-invoice-software-2026/">Best Pool Service Invoice Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>Our Pick for 2026</h2>
 
 <p><strong>Jobber is the right starting point for most tree service businesses in 2026. Use Core at $49/month for solo work, Connect at $129/month for a 2-5 person crew with multi-user dispatching and QuickBooks sync. Move to SingleOps or Arborgold when your business is running recurring plant health programs or managing enough accounts that a general-purpose platform starts creating gaps in your workflow.</strong></p>

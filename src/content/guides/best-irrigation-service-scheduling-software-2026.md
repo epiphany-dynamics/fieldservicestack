@@ -100,6 +100,8 @@ draft: false
 
 <p><strong>Best for:</strong> Growing irrigation and green industry companies with 5-15 employees who need more operational structure than entry-level software provides.</p>
 
+<p>Crews adding septic work should read <a href="/guides/best-septic-service-invoice-software-2026/">Best Septic Service Invoice Software in 2026: Top 5 Picks Ranked</a> too.</p>
+
 <h2>Irrigation Scheduling Software Comparison Table</h2>
 
 <p><strong>Here's how the five options compare on pricing, mobile quality, QuickBooks integration, and ease of use. Jobber and Housecall Pro lead on ease of use and mobile experience. Service Autopilot leads on recurring route automation. LMN and SingleOps are better fits once landscaping or multi-service complexity is part of the equation.</strong></p>

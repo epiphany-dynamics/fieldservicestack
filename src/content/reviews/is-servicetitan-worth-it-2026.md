@@ -121,6 +121,8 @@ draft: false
   <li>Some customizations require going through their team rather than doing it yourself</li>
 </ul>
 
+<p>Anyone replacing a separate CRM should read <a href="/guides/is-servicetitan-a-crm-guide-2026/">Is ServiceTitan a CRM? Field Service Software Buyer's Guide 2026</a> too.</p>
+
 <h2>Who Is ServiceTitan Best For?</h2>
 
 <p><strong>ServiceTitan is best for HVAC, plumbing, electrical, and pest control businesses with 5 or more techs and at least $1M in annual revenue. Multi-location and franchise operators get outsized value from its centralized management tools. It's a poor fit for solo operators and small crews who need straightforward job management without the enterprise overhead.</strong></p>

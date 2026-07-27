@@ -207,6 +207,8 @@ draft: false
 
 <p>Recurring jobs with weekly or monthly billing structures need specific attention. Not every platform handles recurring job scheduling and automated invoicing cleanly at the entry tier. Jobber and FieldPulse both handle this well. ServiceM8 supports recurring jobs but requires more manual setup to get it right. Test the recurring billing workflow specifically before you commit, not just the one-off job flow.</p>
 
+<p>For the handyman version of this ranking, see <a href="/guides/best-handyman-scheduling-software-2026/">Best Handyman Scheduling Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>Our Recommendation</h2>
 
 <p><strong>For most small field service businesses in 2026, Jobber at $49/month is the best balance of price, reliability, and features. If you need to stay under $30/month, ServiceM8 is the pick. If you're in the first 90 days of running your own business and cash is tight, start with Kickserv's free plan and move up when the jobs are there.</strong></p>

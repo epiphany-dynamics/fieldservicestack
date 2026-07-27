@@ -111,6 +111,8 @@ The tradeoff is fit and finish. The platform works but does not excel in any sin
 | **FieldEdge** | QuickBooks-heavy shops | Quote-based | Native, purpose-built | Included | Functional, dated | Deepest integration |
 | **Service Fusion** | Budget, large teams | $225/month | Basic | Included | Adequate | Online |
 
+If Housecall Pro is your frontrunner, [Zuper vs Housecall Pro 2026: Which FSM Wins?](/compare/zuper-vs-housecall-pro-2026/) pits it against a newer rival.
+
 ## How to Choose the Right HVAC Software
 
 **Start with your team size and budget, then evaluate based on the specific HVAC features that matter to your operation. A 3-person shop has fundamentally different needs than a 25-person operation, and choosing software built for the wrong scale wastes money in both directions.**

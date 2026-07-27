@@ -229,6 +229,8 @@ draft: false
 
 <p>If you're trying to understand how Jobber fits into the broader competitive picture at scale, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> is useful context for where Jobber sits relative to enterprise-level FSM tools, which helps you anticipate whether you'd eventually outgrow it.</p>
 
+<p>A companion breakdown for tree crews sits in <a href="/guides/jobber-for-tree-service-2026/">Jobber for Tree Service in 2026: Is It the Right Software?</a>.</p>
+
 <h2>Final Verdict</h2>
 
 <p><strong>Jobber wins for most field service businesses under 10 people. It deploys faster, handles non-technical crews better, and the mobile app holds up in the field. Service Autopilot wins for automation-heavy recurring service operations past the 3-4 truck mark. Both are legitimate tools. The mistake most operators make is buying Service Autopilot before they're actually ready for it.</strong></p>

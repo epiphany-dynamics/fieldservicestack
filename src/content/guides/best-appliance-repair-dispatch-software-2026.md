@@ -105,6 +105,8 @@ draft: false
 
 <p>If you're seriously considering it, the <a href="/reviews/is-servicetitan-worth-it-2026">ServiceTitan value assessment</a> gives an honest take on who it's actually built for.</p>
 
+<p>The equivalent shortlist for solar installers lives in <a href="/guides/best-solar-installation-scheduling-software-2026/">Best Solar Installation Scheduling Software in 2026: 6 Top Picks</a>.</p>
+
 <h2>Appliance Repair Dispatch Software Comparison</h2>
 
 <p><strong>Workiz and Jobber are the strongest picks for small to mid-sized appliance repair shops on price-to-feature value. Service Fusion wins on per-user cost once your team hits 4 or more people. ServiceTitan is for shops that have outgrown every other option. Here's how the main features stack up side by side.</strong></p>

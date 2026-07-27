@@ -159,6 +159,8 @@ draft: false
 
 <p><strong>Honest take:</strong> Workiz gets overlooked because it doesn't have the brand recognition of Jobber or Housecall Pro. If your operation lives on inbound calls and you're tired of losing track of which customer called about which job, the integrated phone tracking is worth the switch from a basic scheduling tool. It's not perfect, but it solves a real dispatch problem that generic FSM software ignores entirely.</p>
 
+<p>Owners weighing a simpler platform alongside it should read <a href="/compare/servicetitan-vs-jobber/">ServiceTitan vs Jobber: Scale vs Simplicity</a>.</p>
+
 <h2>Side-by-Side Comparison</h2>
 
 <p><strong>Here's how all five platforms stack up on the factors that matter most. Use this as a first filter before booking demos or starting trials. Pay particular attention to per-user fees and free trial availability. Those two columns alone eliminate the wrong options fast.</strong></p>

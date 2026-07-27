@@ -47,6 +47,8 @@ draft: false
 <li><strong>Contract length:</strong> Month-to-month costs more per month but protects you while you figure out if the platform actually fits. Two-year contracts require real confidence. Smaller shops should think hard before locking in.</li>
 </ul>
 
+<p><a href="/guides/is-servicetitan-a-crm-guide-2026/">Is ServiceTitan a CRM? Field Service Software Buyer's Guide 2026</a> takes the same platform from the CRM angle.</p>
+
 <h2>Top FSM Platforms in 2026: Honest Assessments</h2>
 
 <p><strong>ServiceTitan sits at the top for large shops but costs 3-5x more than competitors like Jobber and Housecall Pro. Shops under 10 techs get 75-80% of the functionality from those alternatives at a fraction of the price. Service Fusion and FieldEdge fill the middle for operations that need more depth without enterprise-level overhead.</strong></p>

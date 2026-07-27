@@ -237,6 +237,8 @@ draft: false
 
 <p>For smaller trade operations comparing options in this price range, the <a href="/guides/best-hvac-software-2026">top HVAC software picks for 2026</a> puts FieldPulse in context alongside other platforms that compete for this segment.</p>
 
+<p>The setup walkthrough for the crew app alternative is <a href="/guides/how-to-use-connecteam-2026/">How to Use Connecteam in 2026: Field Service Setup Guide</a>.</p>
+
 <h2>Final Verdict</h2>
 
 <p><strong>Jobber wins for residential service businesses focused on growth, client communication, and marketing automation. FieldPulse wins for trade contractors who need flat-rate pricing, equipment tracking, and purchase orders built into the platform. Neither is objectively better. They're solving different problems for different operations.</strong></p>

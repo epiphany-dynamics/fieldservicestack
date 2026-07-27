@@ -136,6 +136,8 @@ draft: false
   <li>QuickBooks Desktop users get a noticeably degraded experience compared to QBO users</li>
 </ul>
 
+<p>The enterprise readiness question gets its own review in <a href="/reviews/jobber-field-service-management-review-enterprise-2026/">Jobber Field Service Management Review 2026: Is It Enterprise-Ready?</a>.</p>
+
 <h2>Who Jobber Is Best For</h2>
 
 <p><strong>Jobber fits service businesses with 1-15 employees best, specifically in HVAC, plumbing, electrical, landscaping, cleaning, and pest control. Solo operators who need to professionalize fast and small crews battling dispatch chaos or slow collections will see the most immediate impact. Operations with 20-plus techs or complex job costing requirements will start hitting its ceiling.</strong></p>

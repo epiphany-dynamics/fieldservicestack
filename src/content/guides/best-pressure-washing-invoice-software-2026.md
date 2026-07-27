@@ -101,6 +101,8 @@ draft: false
 
 <p>The Pro plan at $10/month adds branding customization, recurring invoices, and email automations. That's basically the ceiling of what it does. If you ever need job scheduling, dispatch management, or customer history tied to job records, you'll outgrow it fast and need to migrate. But "fast and cheap" has its place when you're keeping overhead lean or just getting started.</p>
 
+<p>If you also handle carpet cleaning work, <a href="/guides/best-carpet-cleaning-invoice-software-2026/">Best Carpet Cleaning Invoice Software in 2026: Top 5 Picks Ranked</a> compares the same category for that trade.</p>
+
 <h2>Pressure Washing Invoice Software Comparison Table</h2>
 
 <p><strong>Here's how the five options compare on the features that matter most to pressure washing operations in 2026. Use this to quickly find which platform fits your team size and budget before diving into any trial period.</strong></p>

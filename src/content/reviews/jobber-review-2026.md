@@ -119,6 +119,8 @@ Photo uploads in batch can be slow. If your techs document every job with 10+ ph
 | **Setup/Onboarding** | 9.5/10 | Operational in a day. No specialist needed. |
 | **Overall** | **8.5/10** | Best small-team FSM software in 2026. |
 
+The head to head against Workiz is [Workiz vs Jobber 2026: Which Field Service Platform Wins?](/compare/workiz-vs-jobber-2026/).
+
 ## Who Should Use Jobber
 
 Jobber is the right choice for small field service businesses that want clean scheduling, fast invoicing, and a customer portal without paying enterprise prices. It does the core job well and stays out of your way.

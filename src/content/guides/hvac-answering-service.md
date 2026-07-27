@@ -85,6 +85,8 @@ The numbers in the table are illustrative examples to frame the comparison, not 
 
 The right comparison is cost per booked job, not cost per month. A cheaper service that fumbles emergency dispatch and loses one $6,000 system replacement erased its own savings for the year. HVAC operators running heavy on high-ticket dispatch should weigh purpose-built field platforms too. Our [ServiceTitan vs FieldEdge comparison](/compare/servicetitan-vs-fieldedge-2026/) covers two systems built around HVAC dispatch and call flow, and the [FieldEdge review](/reviews/fieldedge-review-2026/) digs into its dispatch board specifically.
 
+The math behind all of this is worked out in [Contractor Answering Service: The Missed-Call Math](/guides/contractor-answering-service/).
+
 ## When an answering service is the wrong move
 
 **Skip the answering service if your real problem is a broken schedule, not missed calls. If techs run late, jobs get double-booked, or invoices sit for a week, adding a call layer just books more work into a system that is already dropping the ball. Fix dispatch and scheduling first, then add coverage.**

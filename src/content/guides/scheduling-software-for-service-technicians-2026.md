@@ -184,6 +184,8 @@ draft: false
 
 <p>Think about who is actually going to run this software day-to-day. If you have a dispatcher who owns the scheduling board, almost any of these options work with some training time. If you're running dispatch yourself after coming off the job at 6 PM, the learning curve matters. Housecall Pro and Jobber have the lowest ramp-up time of the six platforms here, and that's not a small thing when you're already stretched thin.</p>
 
+<p>We ran the same scoring against electrical shops in <a href="/guides/best-electrical-contractor-scheduling-software-2026/">Best Electrical Contractor Scheduling Software 2026: Top 5 Picks</a>.</p>
+
 <h2>Our Recommendation</h2>
 
 <p><strong>Start with Jobber if you're under 10 technicians and aren't certain what features you actually need yet. For fast setup in HVAC or plumbing, try Housecall Pro first. If you're running more than 10 trucks with genuinely complex dispatch, ServiceTitan earns its price. Buy for where your business is right now, not where you want it to be in two years.</strong></p>

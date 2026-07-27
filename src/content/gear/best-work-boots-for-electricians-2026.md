@@ -113,6 +113,8 @@ If you're doing long shifts mostly on your feet in panel rooms, service bays, or
 
 One thing I'd push back on: don't skip the EH rating to save $20. Non-EH boots look identical from the outside. The difference is invisible until it isn't.
 
+Techs working outside electrical should start with [Best Work Boots for Field Service Technicians 2026](/gear/best-work-boots-field-service/).
+
 ## What Changed for Electrician Boots in 2026
 
 New composite toe materials are the headline update this year. Non-conductive formulations in 2026 models are meaningfully more flexible than previous iterations without compromising ASTM F2413-18 crush and impact standards. The old complaint that composite toes felt stiff compared to steel is less valid than it used to be.

@@ -96,6 +96,8 @@ draft: false
 
 <p>The other thing that catches people off guard: you still need a separate tool for estimates, invoices, and customer communication. If you're running a 3-truck HVAC crew and you add Connecteam at $29/month, you're still looking at something like <a href="/comparisons/connecteam-vs-housecall-pro-2026">Housecall Pro or a comparable FSM platform</a> for the customer side. Budget for both or choose one platform that covers both sides less elegantly. Neither answer is wrong; it depends on where your current bottleneck actually is.</p>
 
+<p>Connecteam does not invoice, so pressure washing crews pair it with <a href="/guides/best-pressure-washing-invoice-software-2026/">Best Pressure Washing Invoice Software in 2026: Top 5 Picks Ranked</a>.</p>
+
 <h2>Connecteam vs. Field Service Alternatives</h2>
 
 <p><strong>Connecteam competes with workforce tools like Homebase and When I Work, not with FSM platforms like Jobber or ServiceTitan. Comparing Connecteam to Jobber is apples to oranges: Jobber is a customer-facing service platform, Connecteam is an internal operations tool. A lot of field service companies run both because the problem spaces don't overlap much.</strong></p>

@@ -182,6 +182,8 @@ draft: false
 
 <p>If you're also running lawn maintenance or landscape work alongside tree service, the <a href="/guides/best-landscaping-business-software-2026">best landscaping business software guide for 2026</a> is worth reading separately. The software overlap between tree and landscape companies is real, and some platforms handle the combined workload better than others.</p>
 
+<p>Crews running heavy recurring routes usually read <a href="/compare/service-autopilot-vs-jobber-2026/">Service Autopilot vs Jobber 2026: Which Field Service Software Wins?</a> next.</p>
+
 <h2>Our Recommendation</h2>
 
 <p><strong>Jobber is the right starting point for most tree service companies in 2026. It's priced fairly, the mobile app works in actual field conditions, and the learning curve won't eat your first month. If you outgrow it in two or three years, that's a good problem to have, and moving to Arborgold or SingleOps later isn't a painful transition.</strong></p>

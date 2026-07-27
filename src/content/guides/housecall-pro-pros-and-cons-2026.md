@@ -95,6 +95,8 @@ draft: false
 
 <p>Service Fusion sits in an interesting spot in the market. It's priced in the same range as HCP's Essentials tier but includes better job costing, more flexible reporting, and unlimited users on the base plan. The interface is older-looking and the mobile app isn't as clean as HCP's. If your priority is margin tracking over customer-facing features, Service Fusion earns a real comparison. The <a href="/comparisons/service-fusion-vs-housecall-pro-2026">Service Fusion vs. Housecall Pro 2026 breakdown</a> is worth reading if you're deciding between these two specifically.</p>
 
+<p>ServiceTitan gets the same honest treatment in <a href="/guides/is-servicetitan-legit-2026/">Is ServiceTitan Legit in 2026? What Contractors Need to Know</a>.</p>
+
 <h2>Feature and Pricing Comparison</h2>
 
 <p><strong>Housecall Pro starts at $79/month with strong mobile and dispatch but limited reporting. Jobber starts at $69/month with better reporting. ServiceTitan starts around $398/month with enterprise-level depth. Workiz starts around $45/month for small operations on a tight budget. Service Fusion starts at $192/month with unlimited users and stronger job costing than HCP.</strong></p>

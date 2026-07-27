@@ -97,6 +97,8 @@ draft: false
 
 <p>Pricing: Starter $79/mo (1 user), Pro $149/mo (up to 5 users). QuickBooks integration included. Mobile app available on iOS and Android.</p>
 
+<p>Different trade, same Jobber question: <a href="/guides/jobber-for-tree-service-2026/">Jobber for Tree Service in 2026: Is It the Right Software?</a>.</p>
+
 <h2>Side-by-Side Comparison</h2>
 
 <p><strong>Jobber leads on overall value for painting businesses at $129/mo for teams up to 5. Housecall Pro wins on crew scaling with unlimited users at $299/mo. FieldPulse gives the most customization starting at $99/mo base. Workiz is the cheapest entry at $65/mo. PaintScout at $79/mo is the only painting-specific tool but lacks full scheduling and dispatch capabilities.</strong></p>

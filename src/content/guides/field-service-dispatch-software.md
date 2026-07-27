@@ -84,6 +84,8 @@ Enterprise platforms usually quote only after a demo. If you are weighing that t
 
 **Ready to narrow the field?** Browse the full library of [head-to-head software comparisons](/compare/) to see how the platforms on your shortlist stack up on the exact features and pricing shapes above.
 
+We ran the same tests against plumbing-specific needs in [Plumbing Dispatch Software: A 2026 Buying Guide](/guides/plumbing-dispatch-software/).
+
 ## A five-step framework to choose your dispatch software
 
 **Work the decision in order: define your daily dispatch pain, list must-have versus nice-to-have features, place your business stage, shortlist two or three platforms, then run a real week in a trial. Skipping the trial is the most expensive shortcut, because a demo shows the happy path, not your Tuesday callback chaos.**

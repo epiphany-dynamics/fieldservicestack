@@ -97,6 +97,8 @@ It's not my first recommendation. But if you've tested Jobber and found the cost
 
 Some platforms structure pricing around feature tiers tied to business size. A common pattern worth knowing: a launch tier at $30/month for businesses with up to 15 locations, a mid tier at $150/month that adds inspection tools and compliance tracking, and a top tier at $225/month that unlocks supply tracking, client portals, and customizable checklists. That kind of tiering makes sense if you want to start cheap and expand without switching platforms entirely when you grow.
 
+[Jobber for Painting Businesses 2026: Is It the Right Fit?](/guides/jobber-for-painting-businesses-2026/) runs the same Jobber question from the painting side.
+
 ## How to Choose Without Overthinking It
 
 **Start with your biggest pain point today, not the features you might want two years from now. Solo operators should start with FieldVibe at zero cost. Teams of 2-10 should run Jobber's free trial first. If client communication is the bottleneck, test Housecall Pro. Every serious option on this list offers a trial or demo, and using it with real jobs is the only way to actually know if the software fits.**

@@ -138,6 +138,8 @@ The limitations are real. ServiceM8 is iOS-first and the Android experience lags
 | **Workiz** | High call volume | $198/month | No | Built-in phone | No | No |
 | **ServiceM8** | Solo operators | $9/month | No | No | Yes (iOS) | No |
 
+Dispatch is the piece most plumbing shops get wrong, and [Plumbing Dispatch Software: A 2026 Buying Guide](/guides/plumbing-dispatch-software/) goes deeper on it.
+
 ## How to Choose Based on Your Business Size
 
 **Your tech count and annual revenue determine which tier of software makes sense. Solo plumbers need low cost. Small crews need simplicity. Mid-size shops need flat rate pricing and job costing. Large operations need dispatch intelligence and marketing attribution. Buying for the wrong size costs money in both directions.**

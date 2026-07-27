@@ -76,6 +76,8 @@ Two weeks after a faucet install, the customer calls back with a drip. The syste
 
 This is a scheduled, higher-ticket job that may need two techs, a permit, and a deposit. The software should block the right crew and time window, attach the permit checklist, and capture a deposit or financing approval in the field. If the platform treats this like a 30-minute service call, your dispatcher is doing that math by hand.
 
+[Best Garage Door Dispatch Software in 2026: Top 6 Picks](/guides/best-garage-door-dispatch-software-2026/) runs the same dispatch tests from the garage door side.
+
 ## What plumbing dispatch software costs
 
 **Expect roughly $30 to $200 per user per month for most residential plumbing platforms, with enterprise tiers running higher and often requiring a custom quote and onboarding fee. Price the total for your real seat count plus payment-processing fees, not the advertised starting rate, which usually covers a single user.**

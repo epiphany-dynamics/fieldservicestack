@@ -161,6 +161,8 @@ draft: false
 
 <p>One more thing worth separating out: if billing and collections are the specific headache rather than dispatch or scheduling, the <a href="/guides/best-garage-door-invoice-software-2026">best garage door invoice software breakdown</a> focuses specifically on the billing side, which is useful if your dispatch process is already working fine and money collection is the actual bottleneck.</p>
 
+<p>We ran the same scoring against solar crews in <a href="/guides/best-solar-installation-scheduling-software-2026/">Best Solar Installation Scheduling Software in 2026: 6 Top Picks</a>.</p>
+
 <h2>Our Recommendation</h2>
 
 <p><strong>For most garage door companies in 2026, Workiz is the best starting point. It handles the same-day dispatch model better than any other platform at its price, the mobile app is solid, and you don't need an implementation consultant to get running. Start with the Team plan at $169/month and see how it holds up across a normal week before deciding whether to stay or switch.</strong></p>
