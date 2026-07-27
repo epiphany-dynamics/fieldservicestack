@@ -75,10 +75,6 @@ draft: false
 <p>Pricing: Basic is $79/month for one user. Essentials runs $189/month for up to 5 users. Higher-tier plans add marketing tools, more detailed reporting, and expanded automations.</p>
 
 <p>For irrigation, it handles scheduling and dispatch solidly. The customer communication tools are strong: automated texts, email confirmations, GPS tracking links you can share with customers so they know when the crew is arriving. Invoicing and payment collection are clean and fast. If you're an owner who wants to spend time running jobs and not configuring software, Housecall Pro is the honest pick.</p>
-<p>The field version of this argument lives in software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
-<p>That is the moment tools service companies practical stops being theory. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
 
 <p>The gaps show up in batch scheduling. If you're building out 150 spring startup jobs and need to sequence them efficiently, the process is more manual than it should be. Also, if you're actively comparing it against Jobber, the <a href="/guides/what-is-better-jobber-or-housecall-pro-2026">Jobber vs. Housecall Pro 2026 breakdown</a> covers the specific tradeoffs before you commit to either.</p>
 

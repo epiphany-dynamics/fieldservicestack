@@ -58,10 +58,6 @@ draft: false
 <h3>Mobile App</h3>
 
 <p>Available on iOS and Android. Techs see their schedule, pull up job details and client notes, attach before-and-after photos, collect signatures, and mark jobs complete from the site. The app works offline and syncs when signal returns, which matters in basements, rural properties, and anywhere cell coverage is unreliable. That's a real-world consideration a lot of software reviewers don't test for.</p>
-<p>Once the stakes are concrete, service companies practical 2025 becomes the better reference. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-<p>That decision gets cleaner once you also weigh tools integrate servicetitan 2026. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
-
 
 <p>The app is stable. It doesn't log techs out randomly or freeze during checkout. That sounds like a minimum expectation, but several competitors in this price range haven't cleared that bar consistently.</p>
 

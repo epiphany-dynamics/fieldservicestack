@@ -68,10 +68,6 @@ draft: false
 <p>Reporting is thin. You can pull basic revenue and job count reports without much trouble, but if you want margin by job type, cost per lead by source, or technician-level performance on upsells, you're either exporting to a spreadsheet or bumping up to the MAX plan. Both Service Fusion and ServiceTitan do this better.</p>
 
 <p>Job costing is the most significant gap for anyone running a business where material costs vary by job. HCP doesn't track cost against revenue at the job level in a meaningful way. You can add parts and line items to an invoice, but there's no cost-versus-revenue view that tells you whether a job was profitable. For a general contractor or anyone doing more complex project work, this is a real problem.</p>
-<p>The risk section lands harder after tools integrate servicetitan 2026 without the hype. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-<p>You can stress-test that conclusion against plumbing dispatch software 2026. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
-
 
 <p>GPS tracking is there, but it's basic. You can see where techs are on a map, but if you need mileage logging, geofencing alerts, or detailed route history, you're looking at a third-party integration. Purpose-built fleet tracking tools cover this gap, but that's another subscription on top of HCP.</p>
 

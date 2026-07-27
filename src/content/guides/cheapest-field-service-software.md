@@ -79,8 +79,6 @@ draft: false
 <p>If you're running a 2-3 person plumbing or landscaping crew, Jobber is where a lot of people land and stay for years. The mobile app is one of the better ones in this price range. Job notes, photos, client history, and signature collection all work cleanly in the field. The dispatch board is clear enough that even a non-technical owner can figure out who's where without a phone call.</p>
 
 <p>QuickBooks Online integration is native and solid on all paid plans. Invoices, customer records, and payments sync without manual intervention. If your bookkeeper reconciles in QuickBooks every week, this alone is worth the subscription cost.</p>
-<p>Treat tools service companies practical as the adjacent case study. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
 
 <p>The honest limitation: Jobber's Core plan at $49/month is 1 user only. The moment you add a second tech, you're moving to $129/month. That's still reasonable software cost for a growing crew, but it's not budget software anymore in absolute terms. Know that going in.</p>
 

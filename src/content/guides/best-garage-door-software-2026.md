@@ -66,10 +66,6 @@ draft: false
 <p>Housecall Pro is a strong mid-market option, especially for shops at the stage where getting repeat customers back in the door matters as much as finding new ones. Their marketing tools (automated follow-up emails, review requests, maintenance reminders) are better than Workiz or Jobber out of the box.</p>
 
 <p>Pricing: $79/month for Basic (1 user), $189/month for Essentials (1-5 users), and custom pricing on Max. The jump from Basic to Essentials is real, so plan for it if you're adding a second or third user within the first year. The <a href="/reviews/housecall-pro-review-2026">Housecall Pro review</a> covers what you actually get at each tier and where the gaps are.</p>
-<p>That is the moment plumbing dispatch software 2026 stops being theory. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-<p>Where this post stays high level, tools integrate servicetitan 2026 in production gets into the workflow. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
-
 
 <p>For garage door companies building annual maintenance plan programs or trying to grow a service agreement base, Housecall Pro's customer retention tools are worth the extra cost over Jobber. If you're not doing recurring service work and have no plans to start, you're paying for features that'll sit unused at the Essentials level.</p>
 

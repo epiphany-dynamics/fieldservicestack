@@ -57,10 +57,6 @@ draft: false
 
 <h3>4. ServiceTitan — Best for Multi-Division Operations</h3>
 <p>ServiceTitan is built for companies running a service division and a construction division at the same time. If you're a GC who also has an HVAC service arm, a plumbing crew doing ongoing service calls, or electrical techs mixing service work with project work, ServiceTitan is the only platform that handles both without cobbling together two separate systems. Pricing starts around $500/month and typically lands between $1,000 and $2,500/month once you add modules. Implementation takes months, not days.</p>
-<p>That choice pairs best with a hard look at software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-<p>You can stress-test that conclusion against tools general contractors 2026. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-contractors/">Best AI Tools for General Contractors in 2026</a></p>
-
-
 
 <p>For a pure GC with no service division, this is overkill. You're paying for features you won't use. The <a href="/reviews/is-servicetitan-worth-it-2026">honest ServiceTitan assessment</a> breaks down exactly who the price makes sense for. For operations doing $5M+ across multiple trade divisions, the reporting and dispatch capabilities are genuinely impressive.</p>
 

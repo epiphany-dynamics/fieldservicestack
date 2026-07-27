@@ -70,16 +70,6 @@ On integrations: Jobber connects well with QBO, common payment processors, and s
 
 **Jobber starts at $69/month with transparent, published tier pricing. Zuper has a published entry plan at $49/month for 2 users, but mid-market and complex deployments typically require custom quotes that fold in implementation and integration costs. Jobber scores 4.8 on pricing clarity vs Zuper's 3.9 in BeltStack's comparison.**
 
-Skip the abstract debate and read tools integrate servicetitan 2026 against your own workflow.
-
-Treat software 2026 fixes evaluate as the adjacent case study.
-
-[Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/)
-
-
-[Best AI Tools That Integrate with ServiceTitan in 2026](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/)
-
-
 Jobber's pricing structure is transparent. Tiers are on their website, costs scale with feature access and seat count, and you can benchmark against Housecall Pro or ServiceTitan without a single sales call.
 
 Zuper's entry plan is technically cheaper at the bottom ($49/month for 2 users vs $69/month for Jobber), but that comparison breaks down quickly once you move past the smallest deployments. Mid-market teams needing implementation support, custom integrations, and success packages are looking at custom quotes where total cost is harder to predict.

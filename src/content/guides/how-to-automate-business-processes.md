@@ -83,16 +83,6 @@ For roofers, the invoicing end of that handoff is ranked in [Best Roofing Invoic
 
 **Roll out automation in three phases so you never disrupt live jobs to install a tool. Start with the single highest-scoring handoff, prove it on one crew for two weeks, then expand. Automating everything at once guarantees a chaotic Friday and a team that blames the software for problems the process already had.**
 
-The field version of this argument lives in repetitive tasks small business.
-
-Teams who stall here usually need a sharper take on companies practical 2025 breakdown.
-
-[Best AI Tools for Service Companies: A Practical 2025 Breakdown](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/)
-
-
-[How to Automate Repetitive Tasks in Your Small Business](https://epiphanydynamics.ai/blog/automate-repetitive-tasks-small-business/)
-
-
 ### Phase one: fix the loudest single handoff
 
 Take your top-scoring stage, usually invoice creation or dispatch-to-truck, and automate only that. If completed jobs go unbilled, connect job completion to invoice generation so a finished work order drafts an invoice automatically. Run it with one crew. Measure lost invoices before and after. One clean metric beats a platform-wide rollout you cannot evaluate. For the dispatch side, compare how your candidate tools handle mobile job packets using a focused review of [scheduling software for service technicians](/guides/scheduling-software-for-service-technicians-2026/).

@@ -86,10 +86,6 @@ draft: false
 <h3>3. ServiceTitan: Best for Large Commercial and Multi-Location Operations</h3>
 
 <p>ServiceTitan is the enterprise option. Pricing isn't published (expect $250-$600+ per tech per month based on what contractors consistently report), and onboarding takes weeks. But if you're running 20-plus techs across multiple locations or managing commercial contracts with complex billing requirements, nothing else in this category comes close for raw capability.</p>
-<p>The operator version of this problem is spelled out in construction companies actually works. <a href="https://epiphanydynamics.ai/blog/ai-automation-for-construction-companies/">AI Automation for Construction Companies: What Actually Works in 2026</a></p>
-
-<p>Skip the abstract debate and read software 2026 fixes evaluate against your own workflow. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <p>The invoicing, job costing, and reporting capabilities are deep. <a href="/reviews/servicetitan-review-2026">ServiceTitan's reporting suite</a> gives you margin visibility by technician, by job type, and by location. That kind of data matters when you're managing scale and need to know which service lines are actually profitable versus which ones you're running out of habit. The trade-off is complexity, onboarding cost, and a monthly bill that will hurt in the early stages of any business.</p>
 

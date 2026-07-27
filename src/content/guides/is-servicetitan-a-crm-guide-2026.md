@@ -66,10 +66,6 @@ draft: false
 <p>Housecall Pro sits between Jobber and ServiceTitan on both price and feature depth. Customer management includes job history, tech notes, automated text and email notifications, and a customer portal where clients can track arrival windows. The marketing tools include automated follow-ups after service and a basic email campaign builder. More than Jobber on the marketing side, less than ServiceTitan overall.</p>
 
 <p>The pricing has crept up over the last couple years. The $65/month Basic plan is stripped down. For the customer management features that actually matter, you typically need the $169/month Essentials plan or the $299/month MAX plan. That puts it in the same price range as Jobber's Connect tier, so the comparison comes down to which feature set fits your workflow better. The <a href="/reviews/housecall-pro-review-2026">Housecall Pro review</a> breaks down the tier differences with specifics on what you actually get at each price point.</p>
-<p>Skip the abstract debate and read servicetitan integration completes hvac against your own workflow. <a href="https://epiphanydynamics.ai/blog/servicetitan-ai-integration/">ServiceTitan Integration: How AI Completes Your HVAC Workflow</a></p>
-
-<p>Readers who implement this week should also keep tools integrate servicetitan 2026 for small teams nearby. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
 
 <p>Mobile app is functional. QuickBooks sync is included. Moderate learning curve: more involved than Jobber, much less than ServiceTitan.</p>
 

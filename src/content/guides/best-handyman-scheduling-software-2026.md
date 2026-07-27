@@ -76,10 +76,6 @@ draft: false
 <p>The pricing model is where FieldPulse stands out. It's closer to flat-rate than the per-user scaling that makes Jobber Connect or Housecall Pro Essentials expensive for a 3-person crew. For a team that size, the math can work out significantly better. That's not a small consideration when software is one of several fixed costs you're managing.</p>
 
 <p>The mobile app is functional but not as polished as Jobber or Housecall Pro. It handles the core job flow fine. Where it starts to feel limited is reporting depth and customer-facing automation. If you need sophisticated follow-up sequences or detailed per-job profitability tracking, you'll feel the ceiling at some point. The <a href="/guides/fieldpulse-reviews-2026-buyers-guide">full FieldPulse review</a> covers where it holds up and where it doesn't in more detail.</p>
-<p>The risk section lands harder after plumbing dispatch software 2026. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
-<p>Put next to the options above, cut shows admin time is the useful companion. <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">Automated Scheduling Software: Cut No-Shows and Admin Time</a></p>
-
 
 <p><strong>Pricing:</strong> Starting at $49/month, scales by user count and feature tier<br>
 <strong>QuickBooks Integration:</strong> Yes<br>

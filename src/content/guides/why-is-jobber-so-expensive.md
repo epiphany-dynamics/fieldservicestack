@@ -66,10 +66,6 @@ draft: false
 <p>Service Fusion runs flat-fee pricing across all plans: Starter at $195/month, Plus at $295/month, Pro at $495/month. All three tiers include unlimited users. That changes the math entirely once you get past 4-5 people on a team.</p>
 
 <p>If you're running a 6-tech electrical crew and looking at Jobber's Grow plan at $349/month plus per-user fees, Service Fusion's Starter at $195/month with no headcount limit starts looking very different. The platform handles dispatching and inventory tracking well, which trades like electrical, HVAC, and plumbing tend to care about more than some of the client-communication polish that Jobber prioritizes.</p>
-<p>Teams who stall here usually need a sharper take on zapier pricing 2026 tasks. <a href="https://epiphanydynamics.ai/blog/how-much-does-it-cost-to-use-zapier/">Zapier Pricing in 2026: Tasks, Plan Limits, and Cost Drivers</a></p>
-<p>The operator version of this problem is spelled out in tools integrate servicetitan 2026 on the ground. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
-
 
 <p>The honest weakness: the mobile app experience is not as smooth as Jobber or Housecall Pro. Some techs find it clunky to navigate in the field, and the UI shows its age in places. If your crew is used to Jobber's mobile interface, expect a real adjustment period and some complaints during the first few weeks.</p>
 

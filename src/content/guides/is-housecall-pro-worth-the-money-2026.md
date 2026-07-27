@@ -73,10 +73,6 @@ draft: false
 <p>Service Fusion starts at $149/month for the Starter plan and runs to $349/month for the Pro tier. That's a meaningful price jump from Housecall Pro, and it's justified for the right shop.</p>
 
 <p>Service Fusion handles flat-rate pricing books better than most platforms in this range. The dispatch board is built for operations running 5-plus trucks. The customer history tracking is detailed enough to pull every service call, part used, and invoice across years of records. For an HVAC company running service contracts and maintenance agreements, that depth of data is worth paying for.</p>
-<p>Readers who implement this week should also keep software 2026 fixes evaluate nearby. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
-<p>The same tradeoff shows up when operators dig into tools integrate servicetitan 2026. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
 
 <p>The downside is the interface and the mobile app. Both work, but neither is as clean as Housecall Pro. Techs who've used Housecall Pro before will feel the difference immediately. If you're running fewer than 5 trucks, Housecall Pro Essentials probably makes more sense at the price. Past that threshold, Service Fusion earns the cost through reporting and flat-rate tooling that Housecall Pro can't match.</p>
 

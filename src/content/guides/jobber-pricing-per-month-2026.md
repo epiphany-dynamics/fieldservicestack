@@ -70,10 +70,6 @@ draft: false
 <h3>1. Housecall Pro: $49 / $129 / $299 per month</h3>
 
 <p>The closest match to Jobber, tier for tier. Basic at $49 includes QuickBooks integration right out of the gate, where Jobber makes you step up to Connect ($149/month) for that same capability. Essentials at $129 covers up to 5 users and hits most of the feature set Jobber puts on Connect. Growth at $299 is unlimited users, which Jobber doesn't offer at any price point.</p>
-<p>Skip the abstract debate and read tools service companies practical against your own workflow. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
-<p>Before you lock a stack, sit with software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <p>The mobile app is strong, the customer-facing experience is polished, and the onboarding is comparable to Jobber's. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> goes deeper on where each one actually wins, but if QuickBooks integration is your first requirement, Housecall Pro gets you there cheaper.</p>
 

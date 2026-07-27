@@ -62,10 +62,6 @@ draft: false
 <p><strong>Housecall Pro is built for residential service trades that want marketing and customer retention alongside dispatching. Automated review requests, email campaigns, and postcard mailers run without constant management. It costs more than Jobber at comparable team sizes and takes longer to set up, but the marketing tools are ahead of anything Jobber offers natively at the same price point.</strong></p>
 
 <p>The platform built its reputation by solving one specific problem: doing good work and then losing the customer anyway. Automated review requests go out after every job without you thinking about it. Win-back campaigns reach customers who haven't called in 12 months. Postcard mailers hit a zip code before cooling season starts. For an HVAC shop competing with larger regional operators, that kind of automated follow-up creates a real gap between you and the shops that rely on word of mouth alone.</p>
-<p>If the goal is fewer missed handoffs, start from tools service companies practical in plain language. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
-<p>That is why software 2026 fixes evaluate is the piece to keep open beside this one. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <p>The financing integration with Wisetack is worth calling out separately. If you're selling $5,000-$8,000 system replacements, having financing options built into the estimate presentation closes more jobs than handing over a price sheet and hoping. Jobber doesn't have an equivalent native option. For HVAC operators especially, that one feature can justify the price difference on its own.</p>
 

@@ -261,10 +261,6 @@ draft: false
 <h3>Your Accountant Wants QuickBooks</h3>
 
 <p>This is a practical reality. Most accountants and bookkeepers work in QuickBooks. When tax season hits, handing them a Jobber export is not the same as clean books in QBO. If you're serious about your financials, and once you're past $200k in revenue you should be, QuickBooks for the accounting side is not optional. Fighting this is a losing battle.</p>
-<p>The same tradeoff shows up when operators dig into free actually works 2026. <a href="https://epiphanydynamics.ai/blog/automated-appointment-reminders-free/">Automated Appointment Reminders Free: What Actually Works in 2026</a></p>
-
-<p>A shorter path through the fog is reminder automation small business. <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">Appointment Reminder Automation for Small Business (2026 Guide)</a></p>
-
 
 <h3>Bank Reconciliation and Expense Tracking</h3>
 

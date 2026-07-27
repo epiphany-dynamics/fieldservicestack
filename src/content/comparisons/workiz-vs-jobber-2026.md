@@ -221,10 +221,6 @@ draft: false
 <p>Both platforms offer annual billing discounts in the 20% range. If you're confident in your choice, that savings adds up to several hundred dollars per year.</p>
 
 <p>One thing to watch with Workiz: the phone system has its own pricing tiers on top of the base plan. Some features that look included at first glance are actually add-ons once you dig into the fine print. Jobber is more transparent about what's actually in each tier. Read both pricing pages carefully before signing anything.</p>
-<p>Teams who stall here usually need a sharper take on failure modes roi 2026. <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/">AI Receptionist for HVAC: Setup, Common Failure Modes, and Real ROI (2026)</a></p>
-
-<p>The same tradeoff shows up when operators dig into service companies practical 2025. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
 
 <p>For a solo plumber doing 8 to 10 calls a day, the math is simple: Jobber at $49/month covers everything needed without overpaying. For a 5-truck HVAC company with a dispatcher managing inbound volume all day, Workiz at $198/month plus the phone system starts making financial sense even at the higher base price, because you'd otherwise be paying for a separate phone system anyway. If you're still deciding whether field service software is worth the investment at all, the <a href="/guides/field-service-management-buyers-guide">field service management buyer's guide</a> walks through how to evaluate platforms based on your actual operation size.</p>
 

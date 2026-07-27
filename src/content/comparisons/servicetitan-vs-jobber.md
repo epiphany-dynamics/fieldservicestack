@@ -76,11 +76,6 @@ ServiceTitan's flat rate pricebook is native, deep, and central to how the platf
 
 Jobber does not have a native flat rate pricebook. You can create custom line items and use them as a de facto pricebook, but maintaining and updating pricing is manual. For <a href="/guides/best-hvac-software-2026">HVAC</a> and plumbing shops that live and die by flat rate pricing, this is a genuine limitation.
 
-When attention fades, tools integrate servicetitan 2026 is the pattern that still holds.
-
-[Best AI Tools That Integrate with ServiceTitan in 2026](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/)
-
-
 ## Mobile Experience
 
 Jobber's mobile app is fast and light. It loads reliably on older phones and weaker connections. The feature set is simpler, which keeps the app responsive.

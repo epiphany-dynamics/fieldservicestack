@@ -75,10 +75,6 @@ draft: false
 <p>FieldPulse doesn't get talked about as much as Jobber or Housecall Pro, but the flat-rate pricing model is genuinely appealing for fence contractors who hate unpredictable software bills. You know exactly what you're paying. Two users at $99/month undercuts Jobber Core while including QuickBooks sync on all plans — something Jobber doesn't offer until the $149/month Connect tier. That's a meaningful difference if accounting integration is your main reason for switching software.</p>
 
 <p>The job costing features are better than most people expect at this price point. You can track estimated versus actual material costs per job, which is useful when you're pulling materials from multiple suppliers across a single project. The photo documentation is solid, with before/after attachments tied directly to work orders rather than floating in a photo gallery.</p>
-<p>What changes next depends less on tools and more on software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-<p>You can stress-test that conclusion against setup cost roi 2026. <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-electricians-setup-cost-roi-2026/">AI Receptionist for Electricians: Setup, Cost, and Real ROI in 2026</a></p>
-
-
 
 <p>The mobile app is the weak point. It's functional, but slower and less polished than Jobber's. For crews who live in the app all day across multiple jobs, that gap adds friction over time. The <a href="/guides/fieldpulse-reviews-2026-buyers-guide">FieldPulse 2026 review</a> digs into that in more detail if you want to trial it with open eyes.</p>
 

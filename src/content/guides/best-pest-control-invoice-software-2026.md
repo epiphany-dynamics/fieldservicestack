@@ -78,10 +78,6 @@ draft: false
 <p>Jobber isn't pest-control-specific, but it handles pest control invoicing well enough that a lot of companies running pest plus one or two other trades end up here. Recurring billing works. Quotes, invoices, and payments flow cleanly. The customer hub is one of the better self-service portals in the field service category, and the QuickBooks sync is reliable in a way that saves real time at month-end close.</p>
 
 <p>If you're running pest control alongside exterior cleaning or general home service out of the same operation, Jobber's flexibility is a genuine advantage. You're not managing two separate platforms. For the complete breakdown of what works and what doesn't, the <a href="/reviews/jobber-review-2026">full Jobber 2026 review</a> covers it in detail.</p>
-<p>Readers who implement this week should also keep tools integrate servicetitan 2026 nearby. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
-<p>If the bottleneck is still fuzzy, plumbing dispatch software 2026 on the ground is the clearer lens. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <p><strong>Jobber Pricing (2026):</strong></p>
 <ul>

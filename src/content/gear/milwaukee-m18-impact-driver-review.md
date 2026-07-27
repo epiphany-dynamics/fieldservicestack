@@ -75,11 +75,6 @@ The fuel gauge on M18 batteries shows remaining charge in 4 LED increments. It i
 
 The body has taken multiple drops onto concrete from waist height without issue. The rubber overmold on the grip shows wear but holds up. After a year of daily use in dusty, wet, and cold conditions, the tool still performs like it did out of the box. The brushless motor has no carbon brushes to replace, which eliminates the most common maintenance item on impact drivers.
 
-Teams who stall here usually need a sharper take on review management tools 2026.
-
-[Best AI Review Management Tools in 2026](https://epiphanydynamics.ai/blog/best-ai-tools-for-review-management/)
-
-
 The brushless motor deserves specific emphasis for field service use. Brushed motors degrade over time as carbon brushes wear down. Replacement is straightforward but requires downtime and a trip to the service center or ordering parts. Brushless motors have no wearable internal components. The motor in a brushless impact driver should outlast the tool body itself.
 
 Water resistance is adequate for normal field conditions. Rain exposure, wet hands, and humid environments do not cause issues. Full submersion is not recommended and will void the warranty, but the tool handles real-world job site conditions without babying.

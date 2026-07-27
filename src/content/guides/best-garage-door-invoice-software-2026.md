@@ -79,10 +79,6 @@ draft: false
 <p>The Starter plan at $65/month (one user) is competitive. The Team plan at $169/month covers up to three users and unlocks QuickBooks sync. A detailed side-by-side is in the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> if you're already deciding between the two.</p>
 
 <p><strong>Starting price:</strong> $65/mo (Starter), $169/mo (Team), $299/mo (Business)</p>
-<p>Skip the abstract debate and read service companies practical 2025 against your own workflow. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
-<p>Where this post stays high level, software 2026 fixes evaluate gets into the workflow. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 <p><strong>QuickBooks sync:</strong> Team and above</p>
 <p><strong>Card processing fee:</strong> 2.9% per transaction</p>
 

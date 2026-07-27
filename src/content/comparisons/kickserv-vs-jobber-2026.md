@@ -170,10 +170,6 @@ draft: false
 <p>This matters more than people think during the buying decision. You can have the best dispatch setup in the world, but if your guys in the field hate the app, they stop using it. Then you are back to text messages and handwritten notes that get transcribed at 9 PM.</p>
 
 <p>Jobber's field app lets techs see their full day schedule, get directions, log on-site time, take before and after photos, collect a customer signature, and send a paid invoice before they back out of the driveway. One app, clean enough that a non-technical tech can figure it out in a day without you sitting next to them.</p>
-<p>When attention fades, service companies practical 2025 is the pattern that still holds. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
-<p>Where this post stays high level, tools integrate servicetitan 2026 gets into the workflow. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
 
 <p>Kickserv's app does most of the same things on paper. In practice the interface is older, and the load times suffer on spotty cell service, which is exactly where your tech is when they are at a house outside of town. For a solo operator checking jobs a few times a day, it is functional. For a four or five person crew where the app is the main connection between the field and your office, the gap becomes a real operational problem.</p>
 

@@ -83,11 +83,6 @@ Beyond accounting, evaluate integrations with your existing tools: payment proce
 
 **Field service software pricing falls into three tiers that correlate directly with business size. Budget platforms ($30-$70/month) serve solo operators and tiny crews. Mid-range platforms ($100-$300/month) cover small to mid-size operations. Enterprise platforms ($200-$500+ per technician per month) serve large companies with complex dispatch and reporting needs.**
 
-Where this post stays high level, plumbing dispatch software 2026 in production gets into the workflow.
-
-[Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/)
-
-
 | Tier | Monthly Cost | Typical User Count | Features | Examples |
 |---|---|---|---|---|
 | **Budget** | $30-$70/month | 1-3 users | Basic scheduling, invoicing, mobile | ServiceM8, Jobber Core, Kickserv |

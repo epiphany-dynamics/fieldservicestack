@@ -57,10 +57,6 @@ draft: false
 <p><strong>ServiceTitan doesn't publish pricing publicly. Based on community-reported data, the Starter plan runs around $398/month, Essentials around $598/month, and larger full-feature builds typically land between $1,000-$2,000/month. Setup fees of $1,000-$5,000 are standard. Annual contracts are required. Marketing automation, GPS, and payroll add-ons cost extra on top of the base plan.</strong></p>
 
 <p>The lack of public pricing is a calculated move. They want to see your business before quoting, which lets them price relative to your size and budget. This is common in enterprise SaaS, but it's still annoying. It also means two shops with similar needs may have gotten meaningfully different quotes based on who they talked to and how the demo went.</p>
-<p>Owners who already feel this pain often start with tools integrate servicetitan 2026 in production. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-<p>The numbers only matter after you accept software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
-
 
 <table>
   <thead>

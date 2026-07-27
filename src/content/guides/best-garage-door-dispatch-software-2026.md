@@ -72,10 +72,6 @@ draft: false
 <p>Housecall Pro sits between Jobber's simplicity and ServiceTitan's complexity. The dispatch board is strong, the customer-facing features are mature (automated review requests, online booking, payment links), and the reporting is useful once you get past initial setup.</p>
 
 <p>Pricing: Basic is $65/month for 1 user, Essentials is $169/month for up to 5 users, MAX is custom-priced for larger teams. The <a href="/reviews/housecall-pro-review-2026">Housecall Pro review</a> goes deeper on where the QuickBooks integration gets complicated, and it does get complicated with certain workflows. Test it specifically before you go live, not after.</p>
-<p>Where this post stays tactical, tools integrate servicetitan 2026 zooms out just enough. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a></p>
-
-<p>From there, the practical next cut is software 2026 fixes evaluate. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <p>The mobile app is one of the best on this list and consistently rates well from techs who are not especially tech-oriented. That matters when your hiring pool is skilled tradespeople, not software users. If you're between 5 and 15 techs and customer communication quality is a priority, Housecall Pro at the Essentials tier earns its price. Below 5 users, the per-seat cost against Workiz is harder to justify.</p>
 

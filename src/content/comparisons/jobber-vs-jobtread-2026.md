@@ -194,10 +194,6 @@ draft: false
 <p><strong>Jobber fits any trade business running on scheduled service calls with repeat customers: HVAC, plumbing, electrical, cleaning, landscaping, pest control. Solo operators and crews up to about 15 people use it effectively. The scheduling and dispatch tools are polished, the mobile app holds up in the field, and the automated client communication cuts down on the back-and-forth that eats up hours every week.</strong></p>
 
 <p>If you're running a 3-truck HVAC crew doing preventive maintenance contracts plus emergency calls, Jobber keeps you from losing jobs to scheduling gaps and late invoices. The automated follow-up sequences alone can recover revenue that would otherwise walk out the door. A tech finishes a job, the customer gets an invoice with a payment link before the truck leaves the driveway. That's the whole pitch, and it works.</p>
-<p>The operator version of this problem is spelled out in service companies practical 2025. <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">Best AI Tools for Service Companies: A Practical 2025 Breakdown</a></p>
-
-<p>What changes next depends less on tools and more on automation small business 2026. <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">Appointment Reminder Automation for Small Business (2026 Guide)</a></p>
-
 
 <p>For a solo plumber doing 8-10 calls a day, the Core plan at $49/month covers everything you actually need. The jump to Connect makes sense once you want customers booking online without calling you. If you're also considering Workiz for its communication features, the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> breaks down where those two platforms split.</p>
 

@@ -66,10 +66,6 @@ draft: false
 <h2>Jobber Pricing in 2026</h2>
 
 <p><strong>Jobber offers three plans in 2026: Core at $49/month (1 user), Connect at $149/month (up to 5 users), and Grow at $249/month (up to 15 users). Annual billing cuts each price by roughly 20%. There's no free plan, but a 14-day free trial is available with no credit card required. No long-term contracts on any plan.</strong></p>
-<p>From there, the practical next cut is agency home service companies. <a href="https://epiphanydynamics.ai/blog/best-ai-agency-for-home-services/">Best AI Agency for Home Service Companies</a></p>
-
-<p>Put next to the options above, software 2026 fixes evaluate without the hype is the useful companion. <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a></p>
-
 
 <table>
   <thead>
