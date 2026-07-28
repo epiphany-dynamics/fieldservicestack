@@ -18,7 +18,19 @@ imageWidth: 1536
 imageHeight: 1024
 draft: false
 affiliateLinks: false
-networkLinks: []
+networkLinks:
+  - site: calc
+    title: "AI front desk math: call volume, booking rate, payback"
+    url: https://ai4bizcalculator.online/blog/ai-front-desk/
+  - site: help
+    title: "AI Front Desk: A Safe First Setup for Non-Technical Owners"
+    url: https://epiphany.help/articles/ai-front-desk
+  - site: hype
+    title: "AI Front Desk: Which Models Actually Take the Call"
+    url: https://hypebench.buzz/blog/ai-front-desk/
+  - site: ed
+    title: "AI Front Desk: What It Covers and What It Costs"
+    url: https://epiphanydynamics.ai/blog/ai-front-desk-cost-how-it-works/
 ---
 
 **An AI front desk answers inbound service calls, captures the job details a dispatcher would ask for, checks your calendar for a matching slot, and books or escalates. It works when intake data maps cleanly to your dispatch board. It breaks at the handoff, where a booked call has to become an assigned technician.**
