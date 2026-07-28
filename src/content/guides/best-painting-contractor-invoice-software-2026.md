@@ -72,7 +72,7 @@ draft: false
 <li>Max: Custom pricing</li>
 </ul>
 
-<p>The Basic plan works for a solo painter, but Essentials is where you want to be once you have more than one person running jobs. Essentials adds a dispatcher board, team scheduling, and customer communication tools that make coordinating two crews across town manageable instead of a phone-tag nightmare.</p>
+<p>The Basic plan works for a solo painter, but Essentials is where you want to be once you have more than one person running jobs. Essentials adds a dispatcher board, team scheduling, and customer communication tools that make coordinating two crews across town manageable instead of a phone-tag nightmare. Multi-crew board stress is also why <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> breaks load by call density.</p>
 
 <p>Housecall Pro's invoicing hits all the marks: online payments, deposit requests, automatic payment reminders. The customer-facing payment experience looks polished, which matters more than people admit when you're trying to defend a higher-end quote against a cheaper competitor.</p>
 

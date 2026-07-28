@@ -228,7 +228,7 @@ draft: false
 
 <p><strong>Kickserv is the right call for solo operators, 2-to-3-person crews, and any business that needs solid core functionality at the lowest possible cost. The free plan is legitimate for a 2-person shop getting started. If QuickBooks sync is your top priority and GPS tracking or marketing automation aren't on your list yet, Kickserv delivers without overpaying for features you won't touch.</strong></p>
 
-<p>Specifically: a solo plumber doing 8-10 calls a day who needs scheduling, invoicing, and a clean QuickBooks sync. A 2-person cleaning crew that wants to stop texting appointment confirmations by hand. A small electrical operation that needs to look more professional to customers without committing to $200/month in software before the business is big enough to justify it.</p>
+<p>Specifically: a solo plumber doing 8-10 calls a day who needs scheduling, invoicing, and a clean QuickBooks sync. High-call residential shops can also use <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> as a load checklist. A 2-person cleaning crew that wants to stop texting appointment confirmations by hand. A small electrical operation that needs to look more professional to customers without committing to $200/month in software before the business is big enough to justify it.</p>
 
 <p>Kickserv also makes sense if you're migrating off something older and want a low-risk transition. It's not complicated to set up. You're not going to spend a week building out workflows before you can book your first job. The free plan in particular is one of the few free FSM options that's actually usable in production and not just a lead-capture tool with a job-count wall.</p>
 

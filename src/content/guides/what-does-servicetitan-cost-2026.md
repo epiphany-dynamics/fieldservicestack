@@ -22,7 +22,7 @@ draft: false
 
 <h2>What to Look For in Field Service Management Software</h2>
 
-<p><strong>Good FSM software handles dispatching, invoicing, customer communication, and accounting integration without requiring an office manager to babysit it. Pay close attention to pricing structure: per-user fees, annual-only contracts, and onboarding costs can easily double your first-year total. Mobile app quality matters as much as the desktop features, because your techs are the ones using it in the field.</strong></p>
+<p><strong>Good FSM software handles dispatching, invoicing, customer communication, and accounting integration without requiring an office manager to babysit it. Pay close attention to pricing structure: per-user fees, annual-only contracts, and onboarding costs can easily double your first-year total. Phone-layer budget still sits outside that quote in <a href="https://epiphanydynamics.ai/blog/how-much-does-ai-chatbot-cost/">how much an AI chatbot costs</a>. Mobile app quality matters as much as the desktop features, because your techs are the ones using it in the field.</strong></p>
 
 <p>Before you compare dollar amounts, get clear on what you're actually buying. A lot of contractors sign a year-long contract based on a demo that looked great, then find out the field app crashes on Android or the QuickBooks sync pushes duplicate line items every week. By then you're locked in.</p>
 

@@ -43,7 +43,7 @@ draft: false
 
 <p>The scheduling board is genuinely good. You get a calendar view with drag-and-drop rescheduling, color-coded jobs by technician, and a map view showing where your crew is at any point in the day. If you're running a 4-truck electrical team and a customer calls to reschedule at 7:30 AM, you can find the closest available slot in about 15 seconds. That alone used to require a whiteboard, a dispatcher, and a phone call.</p>
 
-<p>Automated appointment reminders go out via SMS and email. You can set them to fire 24 hours before the job and again 1 hour out. No-shows drop when customers know someone is actually coming. It's not complicated, but it removes a real problem.</p>
+<p>Automated appointment reminders go out via SMS and email. You can set them to fire 24 hours before the job and again 1 hour out. Shops past native automations often evaluate a <a href="https://epiphanydynamics.ai/blog/best-ai-agency-for-home-services/">best AI agency for home service companies</a>. No-shows drop when customers know someone is actually coming. It's not complicated, but it removes a real problem.</p>
 
 <h3>Quoting and Invoicing</h3>
 

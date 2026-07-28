@@ -130,7 +130,7 @@ draft: false
 
 <h3>2. Housecall Pro: Best for Growing Beyond Solo</h3>
 
-<p>If you plan to hire your first tech within 12 months, Housecall Pro deserves serious consideration. It handles multi-tech dispatch better than Jobber at the entry level, and the customer communication features (automated appointment reminders, review requests after job completion) are more polished out of the box.</p>
+<p>If you plan to hire your first tech within 12 months, Housecall Pro deserves serious consideration. It handles multi-tech dispatch better than Jobber at the entry level, and the customer communication features (automated appointment reminders, review requests after job completion) are more polished out of the box. After software is live, <a href="https://epiphanydynamics.ai/blog/how-to-automate-your-hvac-business/">how to automate your HVAC business</a> covers call capture next.</p>
 
 <p>Pricing starts at $79/month for one user and jumps to $189/month for Essentials (up to 5 users). The Essentials plan is where it starts earning its cost, with automated marketing and membership management tools for HVAC maintenance agreements. The <a href="/reviews/housecall-pro-review-2026">Housecall Pro review</a> goes deeper on how it performs specifically for HVAC operations.</p>
 

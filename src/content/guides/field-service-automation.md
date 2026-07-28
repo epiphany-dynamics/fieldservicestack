@@ -23,7 +23,7 @@ networkLinks: []
 
 **Field service automation means handing the repeatable steps of your dispatch to invoice cycle to software instead of a person: booking confirmations, technician assignment alerts, arrival texts, invoice sending, payment reminders. Start with missed call follow up and invoice follow up, because those two leak revenue daily and need no change to how your crews actually work.**
 
-Most shops that say they "need automation" already own software that does 80 percent of it and has the toggles switched off. The useful question is not which platform to buy. It is which handful of steps in your existing dispatch to invoice cycle happen the same way every single time, and therefore should stop consuming a human being.
+Most shops that say they "need automation" already own software that does 80 percent of it and has the toggles switched off. The useful question is not which platform to buy. It is which handful of steps in your existing dispatch to invoice cycle happen the same way every single time, and therefore should stop consuming a human being. The next-year roadmap for these shops is laid out in [2026 service business automation](https://epiphanydynamics.ai/blog/2026-service-business-automation-technology-trends/).
 
 ## What field service automation actually means
 

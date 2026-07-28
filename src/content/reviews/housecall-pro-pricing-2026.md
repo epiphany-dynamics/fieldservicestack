@@ -98,7 +98,7 @@ Housecall Pro also has a clear history of raising prices. They eliminated their 
 
 Jobber is the comparison I keep coming back to. The feature sets overlap heavily for small teams, and Jobber is cheaper in most direct scenarios. That gap is not small.
 
-ServiceTitan is a different category entirely. If you're running multiple locations, large crews, and $1M+ in revenue, ServiceTitan has features that justify the cost. For a plumber with three vans, it's overkill and way overpriced.
+ServiceTitan is a different category entirely. If you're running multiple locations, large crews, and $1M+ in revenue, ServiceTitan has features that justify the cost. Shops that land on ServiceTitan often add [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/) for after-hours booking. For a plumber with three vans, it's overkill and way overpriced.
 
 FieldEdge makes sense for HVAC and plumbing shops that want software built specifically around service agreements and equipment history. The per-user pricing model can work out cheaper for small teams but gets expensive fast as you scale.
 

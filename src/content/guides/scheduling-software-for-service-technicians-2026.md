@@ -23,7 +23,7 @@ draft: false
 
 <h2>What to Look For in Scheduling Software for Service Technicians</h2>
 
-<p><strong>Good scheduling software for service technicians needs drag-and-drop dispatch, a mobile app techs will actually use on the job, GPS tracking for multi-truck shops, and QuickBooks integration that doesn't require a data entry person. Two-way texting and automated customer reminders cut no-show rates noticeably. Most small businesses land in the $100-$250/month range once they pick a tier that fits.</strong></p>
+<p><strong>Good scheduling software for service technicians needs drag-and-drop dispatch, a mobile app techs will actually use on the job, GPS tracking for multi-truck shops, and QuickBooks integration that doesn't require a data entry person. Two-way texting and automated customer reminders cut no-show rates noticeably. Outside the scheduler itself, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a> map phone and lead layers. Most small businesses land in the $100-$250/month range once they pick a tier that fits.</strong></p>
 
 <p>If you've ever had a tech show up at the wrong address because someone misread handwriting off a whiteboard, or spent three weeks chasing a customer for a $400 invoice, you already know what bad scheduling costs you. The software won't fix a broken process on its own, but the right one removes a lot of the friction on both ends of the job.</p>
 

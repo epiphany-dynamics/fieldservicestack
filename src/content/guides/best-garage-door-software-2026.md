@@ -71,7 +71,7 @@ draft: false
 
 <h3>4. ServiceTitan - Best for Large Operations (10+ Techs)</h3>
 
-<p>ServiceTitan is a different category of software. It's not something you pick up in a weekend. Onboarding takes weeks, customization takes months, and pricing starts around $398/month with add-ons pushing the total well past $500/month for most operations. The pricing is also custom, meaning what your neighbor's HVAC company pays isn't what you'll pay.</p>
+<p>ServiceTitan is a different category of software. It's not something you pick up in a weekend. Onboarding takes weeks, customization takes months, and pricing starts around $398/month with add-ons pushing the total well past $500/month for most operations. Once that core is live, shops often add <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> for phones. The pricing is also custom, meaning what your neighbor's HVAC company pays isn't what you'll pay.</p>
 
 <p>Why does anyone use it? Because nothing else touches it for reporting, multi-location management, or integration depth at scale. If you're running 15 trucks, tracking technician performance metrics, and trying to optimize your close rate on new door installs, ServiceTitan gives you data no other platform on this list can match.</p>
 

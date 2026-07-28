@@ -87,7 +87,7 @@ draft: false
 
 <p>Housecall Pro is not built for solar. It is built for same-day service businesses. But it is the fastest platform to get running, and for a new solar company doing 10-20 installs a month, that ease of onboarding matters more than having permit tracking dashboards you will not use yet anyway.</p>
 
-<p>The customer communication tools are strong out of the box. Automated appointment reminders and post-install review requests work without configuration. That automated review ask after a successful install pays for the subscription in referrals, especially in the first two years when your business lives and dies on word-of-mouth.</p>
+<p>The customer communication tools are strong out of the box. Automated appointment reminders and post-install review requests work without configuration. Lead capture outside the FSM is covered in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. That automated review ask after a successful install pays for the subscription in referrals, especially in the first two years when your business lives and dies on word-of-mouth.</p>
 
 <p>QuickBooks integration is native and clean. The mobile app is solid. For a full picture of where this platform genuinely helps and where it runs out of steam, the <a href="/guides/housecall-pro-pros-and-cons-2026">Housecall Pro pros and cons guide</a> covers the gaps honestly.</p>
 

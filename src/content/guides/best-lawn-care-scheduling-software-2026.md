@@ -61,7 +61,7 @@ draft: false
 
 <p>Pricing: Startup is $47/month for 1 user with limited features. Pro is $97/month, which is where most users operate day to day. Pro Plus is $197/month and adds the automation workflows and client portal. Team-level pricing scales up from there based on crew count.</p>
 
-<p>The automation piece is the differentiator. You can configure rules like "if a job is completed, send the invoice automatically, and if it's unpaid after 7 days, send a follow-up text." For a 2-person operation spending 3 hours a week chasing payments, that automation alone covers the software cost.</p>
+<p>The automation piece is the differentiator. You can configure rules like "if a job is completed, send the invoice automatically, and if it's unpaid after 7 days, send a follow-up text." For a 2-person operation spending 3 hours a week chasing payments, that automation alone covers the software cost. Lead and phone layers past those rules sit in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>.</p>
 
 <p>Downside: the learning curve is real. Plan on 2-3 weeks of setup time before it's running smoothly. The interface is not as clean as Jobber's, and new users regularly get lost in the settings. If you're not patient with software setup or nobody on your team is comfortable with technology, this will be frustrating before it gets useful.</p>
 
@@ -182,7 +182,7 @@ draft: false
 
 <p>Yardbook is worth trying before you spend anything. It takes an hour to set up and you'll know within a week if it covers your needs.</p>
 
-<p>One thing all of these have in common: they're better than spreadsheets and group texts. If you're still dispatching by phone call and tracking invoices in Excel, any option on this list will save you real time in the first month. The question is just which one you'll still want to use in year two. For a broader look at how scheduling tools fit alongside invoicing and CRM for small crews, the <a href="/guides/best-software-for-small-contractors">best software for small contractors guide</a> covers the full picture.</p>
+<p>One thing all of these have in common: they're better than spreadsheets and group texts. If you're still dispatching by phone call and tracking invoices in Excel, any option on this list will save you real time in the first month. Route density still rewards the criteria in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> for high-volume days. The question is just which one you'll still want to use in year two. For a broader look at how scheduling tools fit alongside invoicing and CRM for small crews, the <a href="/guides/best-software-for-small-contractors">best software for small contractors guide</a> covers the full picture.</p>
 <h2>Frequently Asked Questions</h2>
 <h3>Q: How much does lawn care scheduling software typically cost?</h3>
 <p>Most lawn care software ranges from free to $249/month depending on features and crew size. Yardbook offers a free tier for solo operators, while Jobber ($49–$249/month) and Service Autopilot ($47–$197/month) scale with your team size and automation needs. A typical small crew pays $50–$100/month for scheduling, invoicing, and route optimization combined.</p>

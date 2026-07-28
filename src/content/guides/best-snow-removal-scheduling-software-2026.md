@@ -24,7 +24,7 @@ draft: false
 
 <p><strong>Snow removal scheduling software needs weather-triggered job creation, route locking for repeated stops, offline mobile capability, and dual pricing support for flat seasonal contracts and per-push billing. QuickBooks sync, salt and material tracking, and timestamped service documentation are non-negotiable for commercial accounts. Most generic FSM platforms only cover some of these.</strong></p>
 
-<p>Snow removal is a completely different animal from most field service work. You're not booking jobs two weeks out. You're responding to a storm at 11pm, dispatching crews in the dark, and hoping your driver shows up to a commercial lot before the parking lot fills with cars at 6am. The scheduling software you use for summer landscaping often falls apart the moment you need it to handle weather triggers, emergency dispatch, and back-to-back route changes in the same night.</p>
+<p>Snow removal is a completely different animal from most field service work. You're not booking jobs two weeks out. You're responding to a storm at 11pm, dispatching crews in the dark, and hoping your driver shows up to a commercial lot before the parking lot fills with cars at 6am. Storm-night board moves echo the load tests in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. The scheduling software you use for summer landscaping often falls apart the moment you need it to handle weather triggers, emergency dispatch, and back-to-back route changes in the same night.</p>
 
 <p>Here's what actually matters for snow operations:</p>
 
@@ -85,7 +85,7 @@ draft: false
 
 <p>The Startup plan at $47/month is bare-bones. Pro at $97/month is usable for basic snow operations. Pro Plus at $197/month is where the full automation suite lives, and that's the whole point of choosing this platform. The jump from $97 to $197 is worth it if weather-triggered dispatch is your primary reason for buying. If you're going to sit on the $97 plan, you could probably get the same results from Jobber at a better price point.</p>
 
-<p>The interface is dense. New users often find it overwhelming, and the mobile app is functional but not as polished as Jobber or Housecall Pro. The trade-off is that once it's configured, it runs with very little babysitting. For the decision between these two platforms, the <a href="/comparisons/service-autopilot-vs-jobber-2026">Service Autopilot vs Jobber comparison</a> lays out the tradeoffs across scheduling, automation depth, and total cost of ownership in more detail.</p>
+<p>The interface is dense. New users often find it overwhelming, and the mobile app is functional but not as polished as Jobber or Housecall Pro. The trade-off is that once it's configured, it runs with very little babysitting. Call and lead layers past the FSM still sit in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. For the decision between these two platforms, the <a href="/comparisons/service-autopilot-vs-jobber-2026">Service Autopilot vs Jobber comparison</a> lays out the tradeoffs across scheduling, automation depth, and total cost of ownership in more detail.</p>
 
 <ul>
 <li>Pricing: $47/mo (Startup), $97/mo (Pro), $197/mo (Pro Plus)</li>

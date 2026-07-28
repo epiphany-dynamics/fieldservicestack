@@ -124,6 +124,6 @@ Track calls answered, appointments booked, jobs actually completed from those bo
 
 ### Do I need 24/7 coverage or just overflow?
 
-Bucket last month's missed calls by time of day first. Emergency trades usually justify after-hours coverage. Scheduled-work trades like lawn care, painting, and fencing more often need daytime overflow only, which costs less.
+Bucket last month's missed calls by time of day first. Smaller non-trade shops size the same problem in [AI phone answering service for small business](https://epiphanydynamics.ai/blog/ai-phone-answering-service-for-small-business/). Emergency trades usually justify after-hours coverage. Scheduled-work trades like lawn care, painting, and fencing more often need daytime overflow only, which costs less.
 
 Next step: pull your last 90 days of invoices, fill in the value-per-call worksheet, then browse the [field service guides library](/guides/) for the dispatch and scheduling fixes that reduce missed calls before you add a monthly fee.

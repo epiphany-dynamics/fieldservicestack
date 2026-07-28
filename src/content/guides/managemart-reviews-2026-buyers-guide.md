@@ -45,7 +45,7 @@ draft: false
 
 <h3>Scheduling and Dispatch</h3>
 
-<p>The scheduling interface is clean. You get a calendar view, you can assign jobs to techs, and recurring jobs work without much setup. If you're running a 3-truck lawn care crew with fixed weekly routes, this handles it without friction. Where it gets awkward is real-time dispatch changes. Moving jobs around mid-day is clunky compared to platforms like Jobber or Workiz that have drag-and-drop dispatch boards built for exactly that situation.</p>
+<p>The scheduling interface is clean. You get a calendar view, you can assign jobs to techs, and recurring jobs work without much setup. If you're running a 3-truck lawn care crew with fixed weekly routes, this handles it without friction. Where it gets awkward is real-time dispatch changes. Moving jobs around mid-day is clunky compared to platforms like Jobber or Workiz that have drag-and-drop dispatch boards built for exactly that situation. Mid-day reboard tests also show up in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <h3>Invoicing and Payments</h3>
 

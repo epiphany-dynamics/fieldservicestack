@@ -75,7 +75,7 @@ Use this checklist during demos:
 - Technician status the dispatcher can see without texting: en route, on site, completed
 - Job costing that captures labor hours and parts against the job automatically
 
-Missed calls belong on this list too, because an unanswered call never becomes a dispatch record at all. If your team is in a crawlspace when the phone rings, pair whatever software you choose with a [missed call text back service](/guides/missed-call-text-back-service/) so the lead lands in the same queue as everything else.
+Missed calls belong on this list too, because an unanswered call never becomes a dispatch record at all. Intake tools outside the board are covered in [best AI tools for service companies](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/). If your team is in a crawlspace when the phone rings, pair whatever software you choose with a [missed call text back service](/guides/missed-call-text-back-service/) so the lead lands in the same queue as everything else.
 
 ## When new dispatch software will not fix your problem
 

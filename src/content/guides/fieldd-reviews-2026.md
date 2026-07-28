@@ -35,7 +35,7 @@ draft: false
 
 <p><strong>Fieldd's biggest differentiator is the white-labeled customer app. Clients download your branded app, book a slot, watch the tech move toward them on GPS, and pay when the job's done. That end-to-end experience is noticeably better than what Jobber or Housecall Pro offer out of the box, especially for service models where the customer relationship is half the product.</strong></p>
 
-<p>Cleaning company owners who've switched to Fieldd consistently mention that real-time GPS tracking alone cut their "where is the cleaner?" phone calls by more than half. If you're dispatching 6 to 8 people a day, that's a real time savings for whoever's managing the office. The customer communication side is built in, so appointment reminders and post-job follow-ups run without anyone manually sending texts.</p>
+<p>Cleaning company owners who've switched to Fieldd consistently mention that real-time GPS tracking alone cut their "where is the cleaner?" phone calls by more than half. No-show math outside GPS is covered in <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">appointment reminder automation</a>. If you're dispatching 6 to 8 people a day, that's a real time savings for whoever's managing the office. The customer communication side is built in, so appointment reminders and post-job follow-ups run without anyone manually sending texts.</p>
 
 <p>The automated scheduling is the other feature that gets talked about in Fieldd reviews. It uses location and availability data to optimize booking slots in real time, without someone manually rebuilding the calendar puzzle. For operations running tight geographic clusters, the drive time reduction adds up.</p>
 
@@ -73,7 +73,7 @@ draft: false
 
 <h3>4. Workiz — Best for Appliance Repair and Locksmith</h3>
 
-<p>Workiz punches above its weight on call tracking and the built-in phone system. For appliance repair shops or locksmith operations where inbound call volume is high and you want calls automatically tied to jobs, it handles that better than most FSM platforms in this price range. The <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs. Jobber comparison</a> comes down to whether you care more about phone-integrated dispatch or a broader feature set with better reporting.</p>
+<p>Workiz punches above its weight on call tracking and the built-in phone system. For appliance repair shops or locksmith operations where inbound call volume is high and you want calls automatically tied to jobs, it handles that better than most FSM platforms in this price range. Stack choices beyond any one FSM are listed in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. The <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs. Jobber comparison</a> comes down to whether you care more about phone-integrated dispatch or a broader feature set with better reporting.</p>
 
 <p>Pricing starts around $65/month. The interface has improved. Still not as refined as Jobber or Fieldd, but the phone integration is a real differentiator for the right shop type.</p>
 

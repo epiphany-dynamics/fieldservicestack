@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>Irrigation businesses have a few needs that generic field service software misses: seasonal batch scheduling (spring startups and fall blowouts all hit at once), recurring maintenance routes, and photo documentation for system maps. Before you commit to anything, confirm it handles these without a clunky workaround.</strong></p>
 
-<p>The spring startup rush is brutal. Every customer wants their system on during the same two-week window, and if your scheduling is still a whiteboard and a spreadsheet, you're either double-booking trucks or leaving money on the table. The right software turns that chaos into a tight route with automated confirmation texts going out before your crew even pulls out of the yard.</p>
+<p>The spring startup rush is brutal. Every customer wants their system on during the same two-week window, and if your scheduling is still a whiteboard and a spreadsheet, you're either double-booking trucks or leaving money on the table. Peak-window routing stress also shows up in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> for wet trades. The right software turns that chaos into a tight route with automated confirmation texts going out before your crew even pulls out of the yard.</p>
 
 <p>Here's what actually matters for irrigation specifically:</p>
 

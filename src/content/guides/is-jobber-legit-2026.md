@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>The non-negotiables for any FSM platform: scheduling that won't double-book your crew, a mobile app your techs can actually use mid-job, QuickBooks sync that doesn't need a workaround every Monday, and invoicing from a phone. If a platform misses any of those four, the rest of the feature list is irrelevant.</strong></p>
 
-<p>Plenty of contractors get sold on flashy extras: GPS tracking dashboards, automated review requests, customer portals. Those features have value. But when your dispatcher is calling three guys to find out who's actually at which job because the schedule glitched, or your tech can't pull up a service history on a call, you're losing money regardless of what else the software does.</p>
+<p>Plenty of contractors get sold on flashy extras: GPS tracking dashboards, automated review requests, customer portals. Those features have value. But when your dispatcher is calling three guys to find out who's actually at which job because the schedule glitched, or your tech can't pull up a service history on a call, you're losing money regardless of what else the software does. That board reliability bar is also central to <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>When evaluating platforms for this site, the core checklist is:</p>
 

@@ -87,7 +87,7 @@ draft: false
 
 <h3>4. Workiz — Best for Call-Heavy Services</h3>
 
-<p>Workiz doesn't get enough credit. It punches above its weight for the price, and it has one feature the others don't: a built-in phone system. You get a dedicated business number, call recording, and automated text responses to missed calls. For a contractor who's been running everything through their personal cell, that's a meaningful upgrade.</p>
+<p>Workiz doesn't get enough credit. It punches above its weight for the price, and it has one feature the others don't: a built-in phone system. Trade-depth board criteria show up again in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. You get a dedicated business number, call recording, and automated text responses to missed calls. For a contractor who's been running everything through their personal cell, that's a meaningful upgrade.</p>
 
 <p>Pricing tiers:</p>
 <ul>

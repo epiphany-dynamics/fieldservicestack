@@ -31,7 +31,7 @@ draft: false
 
 <ul>
   <li>Your techs are never at a desk, so mobile app performance matters more than the web interface. A slow or crashy app in the field kills productivity faster than bad scheduling ever could.</li>
-  <li>For a 3-truck HVAC crew, scheduling conflicts and phone tag cost real money every week. Drag-and-drop dispatch and live job status updates are table stakes, not premium features.</li>
+  <li>For a 3-truck HVAC crew, scheduling conflicts and phone tag cost real money every week. Drag-and-drop dispatch and live job status updates are table stakes, not premium features. After-hours ring coverage for that trade is broken down in <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/">AI receptionist for HVAC</a>.</li>
   <li>Getting paid same-day, on-site is the goal. If your tech emails an invoice from the parking lot and waits a week to collect, that's a software problem dressed up as a cash flow problem.</li>
   <li>Most field service businesses live in QuickBooks. A platform that doesn't sync cleanly with QBO adds hours of manual reconciliation every month that nobody has time for.</li>
   <li>Know your total cost ceiling before signing. Per-user fees and "feature packs" can push a $99 base plan past $300 fast once your team grows.</li>

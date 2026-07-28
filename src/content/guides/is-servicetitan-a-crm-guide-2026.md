@@ -23,7 +23,7 @@ draft: false
 
 <p>The question comes up because "CRM" gets used loosely. When people ask whether ServiceTitan is a CRM, they're usually asking: does this thing track my customers, store my job history, and help me follow up with people who haven't called in a while? Yes, it does all of that. But calling it a CRM is like calling a Swiss Army knife a can opener. Technically accurate in one narrow case, and it misses what the tool actually is.</p>
 
-<p>Here's what actually matters: does ServiceTitan replace your need for a standalone CRM, and if you don't want to pay ServiceTitan's price, what else handles the customer relationship side well? That's the question this guide answers.</p>
+<p>Here's what actually matters: does ServiceTitan replace your need for a standalone CRM, and if you don't want to pay ServiceTitan's price, what else handles the customer relationship side well? That's the question this guide answers. Deeper AI wiring into that stack is covered in <a href="https://epiphanydynamics.ai/blog/servicetitan-ai-integration/">ServiceTitan AI integration</a>.</p>
 
 <h2>What to Look for in a Field Service CRM</h2>
 

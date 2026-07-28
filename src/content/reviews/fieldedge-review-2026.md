@@ -91,7 +91,7 @@ Support consistency is a real issue. Despite the decent Capterra number, G2 revi
 
 ## How FieldEdge Compares to ServiceTitan and FieldPulse
 
-**FieldEdge sits between budget tools and enterprise platforms. ServiceTitan beats it on reporting, labor tracking, and handling larger operations. FieldPulse undercuts it on price with a more modern interface. FieldEdge's edge is its QuickBooks integration depth and the relative speed of getting a small team up and running without heavy implementation costs.**
+**FieldEdge sits between budget tools and enterprise platforms. ServiceTitan beats it on reporting, labor tracking, and handling larger operations. Teams already on ServiceTitan often stack [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/) next. FieldPulse undercuts it on price with a more modern interface. FieldEdge's edge is its QuickBooks integration depth and the relative speed of getting a small team up and running without heavy implementation costs.**
 
 | Software | Beats FieldEdge On | Falls Short On | Best Fit |
 |----------|--------------------|---------------|----------|
