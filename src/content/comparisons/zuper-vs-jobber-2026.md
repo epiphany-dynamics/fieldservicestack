@@ -28,7 +28,7 @@ BeltStack's 2026 comparison called Jobber the "best default contractor FSM" and 
 
 **For simple contractor scheduling, Jobber wins on ease of use. Zuper pulls ahead when you need skills-based assignment, multi-team coordination, or complex job logic that goes beyond a standard residential service call. Per BeltStack, dispatchers new to software are typically productive in Jobber within a day.**
 
-Jobber's calendar and dispatch board cover day, week, and month views with real-time scheduling. Route optimization is built in. The interface is clean enough that non-technical office staff actually use it without constant hand-holding.
+Jobber's calendar and dispatch board cover day, week, and month views with real-time scheduling. Route optimization is built in. The interface is clean enough that non-technical office staff actually use it without constant hand-holding. Complex multi-team days still stress the board rules in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 Zuper also has a drag-and-drop dispatch board, and it handles more complex scenarios: multi-day jobs, multi-asset work, multi-team assignments. Their marketing references AI and ML for optimizing utilization and turnaround time. To be direct about this: those numbers come from Zuper's own case studies. They cite things like 50% workforce utilization gains and 35% reduction in service turnaround time, so treat them as directionally useful, not independently verified benchmarks.
 

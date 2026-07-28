@@ -178,7 +178,7 @@ draft: false
 
 <p><strong>Most HVAC contractors price service calls at $89-$150 for a diagnostic fee (applied toward repair if the customer proceeds), then use flat-rate pricing for all repair work. Installation pricing should cover equipment cost, burdened labor at $85-$150/hour, overhead, and a minimum 35-45% gross margin. Hourly billing on installs is how you lose money on jobs that should be profitable.</strong></p>
 
-<p>New HVAC business owners consistently underprice themselves. You're not competing with the big box store install price. You're selling expertise, availability, a warranty you'll actually honor, and the fact that you'll answer the phone. Price accordingly.</p>
+<p>New HVAC business owners consistently underprice themselves. You're not competing with the big box store install price. You're selling expertise, availability, a warranty you'll actually honor, and the fact that you'll answer the phone. Price accordingly. Peak-season missed rings for new shops are mapped in <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/">AI receptionist for HVAC</a>.</p>
 
 <p>A basic framework for service calls:</p>
 

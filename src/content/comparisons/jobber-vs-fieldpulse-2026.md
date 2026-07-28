@@ -187,7 +187,7 @@ draft: false
   </tbody>
 </table>
 
-<p>For solo operators, Jobber's Core plan at $49/month is hard to beat. If you're a one-person shop doing 6-8 calls a day, FieldPulse's $99 entry price is harder to justify unless you specifically need those flat-rate pricing tools. But the Core plan limits you. No online booking, no two-way texting. You're getting scheduling, invoicing, and the basics. Nothing wrong with that if that's all you need right now.</p>
+<p>For solo operators, Jobber's Core plan at $49/month is hard to beat. If you're a one-person shop doing 6-8 calls a day, FieldPulse's $99 entry price is harder to justify unless you specifically need those flat-rate pricing tools. But the Core plan limits you. No online booking, no two-way texting. You're getting scheduling, invoicing, and the basics. Phone and lead gaps past those basics are listed in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. Nothing wrong with that if that's all you need right now.</p>
 
 <p>Once you add technicians, the math shifts. Jobber's Connect plan at $129/month covers up to 5 users flat. If you've got 3 techs on the road, you're splitting $129 across a 4-person operation. FieldPulse's per-user fees at $35-40 per person start stacking fast at that headcount.</p>
 

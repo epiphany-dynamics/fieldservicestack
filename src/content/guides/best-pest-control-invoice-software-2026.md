@@ -109,7 +109,7 @@ draft: false
 
 <p>The invoicing and routing are built for subscription-based route businesses. Automated billing on service cycles, route density optimization, and customer self-service for payments and scheduling. Reporting is stronger than GorillaDesk's, but setup is more involved and the sales process takes longer than you'd probably like.</p>
 
-<p>Pricing is custom (sales call required), but it typically runs higher than GorillaDesk. If you're evaluating FieldRoutes, it's worth considering <a href="/reviews/is-servicetitan-worth-it-2026">whether ServiceTitan's broader ecosystem makes sense</a> for where your business is heading, since they share platform lineage and the upgrade path between them exists.</p>
+<p>Pricing is custom (sales call required), but it typically runs higher than GorillaDesk. If you're evaluating FieldRoutes, it's worth considering <a href="/reviews/is-servicetitan-worth-it-2026">whether ServiceTitan's broader ecosystem makes sense</a> for where your business is heading, since they share platform lineage and the upgrade path between them exists. Shops that climb that ladder often add <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> for phones.</p>
 
 <p>The parallel guide for pool routes is <a href="/guides/best-pool-service-invoice-software-2026/">Best Pool Service Invoice Software in 2026: Top 5 Picks Ranked</a>.</p>
 

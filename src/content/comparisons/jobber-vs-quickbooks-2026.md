@@ -248,7 +248,7 @@ draft: false
 
 <h3>Automated Communications</h3>
 
-<p>Starting on the Connect plan ($129/mo), Jobber automatically sends quote follow-ups, appointment reminders, and post-job review requests without anyone lifting a finger. For a shop running 20 or more jobs a week, that automation saves your office person three to four hours of follow-up calls. The review requests alone have a measurable impact on Google review counts, which directly affects local search ranking for every trade that depends on it.</p>
+<p>Starting on the Connect plan ($129/mo), Jobber automatically sends quote follow-ups, appointment reminders, and post-job review requests without anyone lifting a finger. Budget shops still map free reminder options in <a href="https://epiphanydynamics.ai/blog/automated-appointment-reminders-free/">automated appointment reminders free</a>. For a shop running 20 or more jobs a week, that automation saves your office person three to four hours of follow-up calls. The review requests alone have a measurable impact on Google review counts, which directly affects local search ranking for every trade that depends on it.</p>
 
 <h3>Online Booking</h3>
 

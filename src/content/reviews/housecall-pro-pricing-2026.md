@@ -110,7 +110,7 @@ A direct price fight with Service Fusion sits in [Service Fusion vs Housecall Pr
 
 The mobile-first design is the platform's biggest practical strength. I've watched technicians use this in real field conditions and the experience is clean. Job notes, customer history, the price book: it's all where you expect it.
 
-Online booking is solid. Customers can schedule directly without calling in, which reduces friction and frees up admin time. For residential service businesses, that translates to fewer missed opportunities after hours.
+Online booking is solid. Customers can schedule directly without calling in, which reduces friction and frees up admin time. Intake layers past that portal still sit in [best AI tools for service companies](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/). For residential service businesses, that translates to fewer missed opportunities after hours.
 
 The bilingual support deserves mention. The app runs in English and Spanish. For businesses with Spanish-speaking technicians or customers, that's a real operational advantage, not a checkbox.
 

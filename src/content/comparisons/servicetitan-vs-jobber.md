@@ -58,7 +58,7 @@ The cost difference is not incremental. It is an order of magnitude. ServiceTita
 
 Jobber's scheduling is straightforward. Drag-and-drop calendar, technician views, and basic route awareness. It works well for small teams where the dispatcher (often the owner) knows every technician personally.
 
-ServiceTitan's dispatch board is built for scale. Smart dispatch recommendations, capacity planning, zone-based routing, and technician skill matching all help when you are managing 30+ daily jobs across a large service area. The real-time GPS tracking and estimated arrival updates keep customers informed automatically.
+ServiceTitan's dispatch board is built for scale. Smart dispatch recommendations, capacity planning, zone-based routing, and technician skill matching all help when you are managing 30+ daily jobs across a large service area. The real-time GPS tracking and estimated arrival updates keep customers informed automatically. Enterprise shops on that board often add [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/) for phones.
 
 For a 5-person crew, Jobber's scheduling is more than sufficient. For a 25-person operation, ServiceTitan's dispatch intelligence starts saving real money on drive time and technician utilization. The crossover point where dispatch complexity justifies ServiceTitan's cost is typically around 12 to 15 technicians.
 
@@ -104,7 +104,7 @@ The worst decision is moving to ServiceTitan too early. The implementation cost,
 
 ## Automate What Your FSM Software Doesn't Cover
 
-FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Scale matchups still fill intake holes with [Epiphany Dynamics](https://epiphanydynamics.ai) for lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
 
 ## Frequently Asked Questions
 

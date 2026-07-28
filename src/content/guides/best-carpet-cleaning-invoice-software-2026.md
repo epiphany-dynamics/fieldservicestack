@@ -49,7 +49,7 @@ draft: false
 
 <p>Jobber is the tool I'd put in front of most carpet cleaning business owners first. The Core plan at $49/month covers a solo operator well: professional invoices, client records, basic scheduling, and QuickBooks Online sync. Move up to Connect at $149/month (up to 5 users) and you get online booking, automated follow-up messages, and two-way texting with clients.</p>
 
-<p>The recurring job feature works well for carpet cleaners specifically. You set a client to recur every 6 months or annually, and Jobber surfaces that reminder automatically. Pair that with the automated "how'd we do" review request that fires after an invoice is paid, and you have a lightweight retention system built in without any extra setup.</p>
+<p>The recurring job feature works well for carpet cleaners specifically. You set a client to recur every 6 months or annually, and Jobber surfaces that reminder automatically. Pair that with the automated "how'd we do" review request that fires after an invoice is paid, and you have a lightweight retention system built in without any extra setup. Deeper no-show design is broken down in <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">automated scheduling software</a>.</p>
 
 <p>The mobile app is solid on both iOS and Android. Technicians can create invoices, attach before/after photos, collect payment via card reader, and get a signature on a tablet all from the job site. The photo capture isn't as polished as a dedicated tool, but it covers you when a customer disputes a pre-existing stain.</p>
 

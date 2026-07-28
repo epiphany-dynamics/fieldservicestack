@@ -33,7 +33,7 @@ draft: false
 
 <h2>Top 5 Roofing Invoice Software Picks for 2026</h2>
 
-<p><strong>Jobber leads the field for 2-10 person operations, with the most complete roofing workflow from estimate to final invoice. Housecall Pro edges it out on mobile simplicity. Workiz is the budget-conscious alternative with built-in call tracking. ServiceTitan is overkill below 10 trucks. FieldPulse is the right starting point for solo operators who want to keep things simple.</strong></p>
+<p><strong>Jobber leads the field for 2-10 person operations, with the most complete roofing workflow from estimate to final invoice. Housecall Pro edges it out on mobile simplicity. Workiz is the budget-conscious alternative with built-in call tracking. Storm-week ring coverage for roofers is mapped in <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-roofing-companies/">AI receptionist for roofing companies</a>. ServiceTitan is overkill below 10 trucks. FieldPulse is the right starting point for solo operators who want to keep things simple.</strong></p>
 
 <h3>1. Jobber — Best Overall for Small to Mid-Sized Crews</h3>
 

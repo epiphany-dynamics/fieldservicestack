@@ -34,7 +34,7 @@ Jobber has been a staple in the <a href="/guides/field-service-management-buyers
 
 ### Scheduling and Dispatch
 
-The scheduling and dispatch interface is where Jobber earns its keep. Drag-and-drop calendar management works the way you expect it to. You can assign jobs to specific technicians, view everyone's schedule on a single screen, and reschedule visits without the three-click runaround that plagues some competitors. The map view showing technician locations relative to upcoming jobs is genuinely useful for reducing drive time.
+The scheduling and dispatch interface is where Jobber earns its keep. Drag-and-drop calendar management works the way you expect it to. You can assign jobs to specific technicians, view everyone's schedule on a single screen, and reschedule visits without the three-click runaround that plagues some competitors. The map view showing technician locations relative to upcoming jobs is genuinely useful for reducing drive time. Route density at that scale still shows up in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 Creating a new job, assigning it to a tech, setting the time window, and attaching customer details takes under a minute. For an owner-operator who dispatches between their own jobs, or a small office team managing a handful of techs, this speed matters. Every extra click in the scheduling workflow multiplies across hundreds of jobs per month.
 
@@ -144,7 +144,7 @@ The reporting limitations and smaller integration library are real tradeoffs, bu
 
 ## Automate What Your FSM Software Doesn't Cover
 
-FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Small shops still fill that intake gap with [Epiphany Dynamics](https://epiphanydynamics.ai) for lead capture, booking workflows, reviews, and customer communication.
 
 ## Frequently Asked Questions
 

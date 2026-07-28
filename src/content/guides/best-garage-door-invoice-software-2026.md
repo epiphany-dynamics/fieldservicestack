@@ -48,7 +48,7 @@ draft: false
 
 <p>Jobber is the platform that comes up most in garage door and home service conversations, and it's earned the reputation. The price book feature lets you load your common parts and labor codes once. After that, your tech builds an invoice by selecting items instead of typing prices from memory. That alone eliminates a lot of the inconsistent pricing that shows up when you have two techs quoting the same job differently.</p>
 
-<p>The Core plan at $49/month covers one user and handles quoting, invoicing, and payment collection. Connect ($129/month) adds online booking, automated follow-up messages, and a client hub where customers can view and pay invoices. Grow ($249/month) adds referral tracking and lead management. Most small operations can live in Core or Connect and never need the third tier.</p>
+<p>The Core plan at $49/month covers one user and handles quoting, invoicing, and payment collection. Connect ($129/month) adds online booking, automated follow-up messages, and a client hub where customers can view and pay invoices. Lead capture past those messages still sits in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. Grow ($249/month) adds referral tracking and lead management. Most small operations can live in Core or Connect and never need the third tier.</p>
 
 <p>QuickBooks Online sync is available at the Connect tier and above. At Core, you're doing manual exports. That's a real limitation if you're already using QuickBooks and want the connection to be automatic. Worth knowing before you sign up for the entry plan.</p>
 

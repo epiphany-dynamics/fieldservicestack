@@ -23,7 +23,7 @@ Assigning jobs to technicians, managing the calendar, and rescheduling without c
 
 For small teams where the owner handles dispatch personally, a clean calendar with drag-and-drop is sufficient. For operations with 10+ technicians across a metro area, you need smart dispatch that factors in technician location, skill level, and job priority. The difference between basic scheduling and real dispatch intelligence is the difference between managing routes manually and having the software optimize them.
 
-Emergency dispatch capability matters for trades that handle after-hours calls. Test whether you can assign and route a job from your phone at 10 PM without opening a laptop.
+Emergency dispatch capability matters for trades that handle after-hours calls. Test whether you can assign and route a job from your phone at 10 PM without opening a laptop. High-call wet trades still use the board criteria in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 ### Quoting and Invoicing
 
@@ -150,7 +150,7 @@ The right FSM software should make your daily operations faster, not more compli
 
 ## Automate What Your FSM Software Doesn't Cover
 
-FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Buyers still pair the shortlist with [Epiphany Dynamics](https://epiphanydynamics.ai) for lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
 
 ## Frequently Asked Questions
 

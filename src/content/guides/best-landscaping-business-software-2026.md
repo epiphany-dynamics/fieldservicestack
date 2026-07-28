@@ -50,7 +50,7 @@ draft: false
 
 <p>Jobber is the go-to for landscaping companies running anywhere from 2 to 30 employees. The scheduling system handles both recurring and one-off jobs cleanly. The client hub lets customers request quotes, approve work, and pay online, which cuts a significant amount of back-and-forth from your week without requiring any extra tools or integrations.</p>
 
-<p>If you're running a 5-truck landscaping crew doing a mix of weekly mowing accounts and seasonal installs, Jobber hits the sweet spot. The mobile app is genuinely good. Crew members see their daily schedule, upload before-and-after photos, and collect customer signatures on-site. Office staff gets real-time job status without playing phone tag all afternoon.</p>
+<p>If you're running a 5-truck landscaping crew doing a mix of weekly mowing accounts and seasonal installs, Jobber hits the sweet spot. The mobile app is genuinely good. Crew members see their daily schedule, upload before-and-after photos, and collect customer signatures on-site. Office staff gets real-time job status without playing phone tag all afternoon. Lead capture outside that field loop still sits in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>.</p>
 
 <p>Pricing: Core starts at $59/month (1 user), Connect at $119/month (up to 5 users), and Grow at $239/month (up to 15 users). QuickBooks Online and Desktop integration works reliably. The estimating tool is solid for residential work but lacks the depth that commercial landscapers need when bidding larger contracts. That's Jobber's main limit.</p>
 

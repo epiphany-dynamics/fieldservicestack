@@ -39,7 +39,7 @@ For comparison: <a href="/reviews/jobber-review-2026">Jobber</a> starts at $49/m
 
 ### Scheduling and Dispatching
 
-The scheduling interface handles multi-technician views, real-time GPS tracking, and route optimization. Automated ETA texts go out to customers without anyone touching a phone. Schedule data syncs to the mobile app in about 5 seconds, which matters more than it sounds when dispatchers make last-minute changes and your tech is already in their truck heading to the wrong address.
+The scheduling interface handles multi-technician views, real-time GPS tracking, and route optimization. Automated ETA texts go out to customers without anyone touching a phone. Live board pressure after those texts still shows up in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/). Schedule data syncs to the mobile app in about 5 seconds, which matters more than it sounds when dispatchers make last-minute changes and your tech is already in their truck heading to the wrong address.
 
 ### Invoicing and Payments
 

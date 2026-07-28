@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>Commercial cleaning invoicing has different demands than residential work. You need recurring billing that runs automatically, net-30 payment terms configurable per client, multi-building client management, and an audit trail your commercial accounts can actually use. Mobile crew access and QuickBooks sync are the baseline here, not bonus features.</strong></p>
 
-<p>Running a commercial cleaning operation is not like running a residential maid service. Your clients are office managers, property management companies, and facilities directors who want invoices that look professional, arrive on a predictable schedule, and match purchase orders when applicable. If your software can't handle that, you're manually processing invoices and chasing payments in ways that quietly kill your margins.</p>
+<p>Running a commercial cleaning operation is not like running a residential maid service. Your clients are office managers, property management companies, and facilities directors who want invoices that look professional, arrive on a predictable schedule, and match purchase orders when applicable. If your software can't handle that, you're manually processing invoices and chasing payments in ways that quietly kill your margins. Multi-site night routes still fail the board tests in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>Here's what you actually need to evaluate before picking a platform:</p>
 
@@ -49,7 +49,7 @@ draft: false
 
 <h3>1. Jobber — Best All-Around Pick</h3>
 
-<p>Jobber handles commercial cleaning invoicing better than most software that doesn't specifically brand itself as cleaning software. The recurring billing setup takes about 10 minutes to configure per client, and once it's running, invoices go out automatically on whatever schedule you set. Net-30 terms, custom invoice numbers, line items for different service types, client-specific pricing — it's all there and it actually works without a support ticket.</p>
+<p>Jobber handles commercial cleaning invoicing better than most software that doesn't specifically brand itself as cleaning software. The recurring billing setup takes about 10 minutes to configure per client, and once it's running, invoices go out automatically on whatever schedule you set. Recurring visit confirmations still need the design in <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">automated scheduling software</a>. Net-30 terms, custom invoice numbers, line items for different service types, client-specific pricing — it's all there and it actually works without a support ticket.</p>
 
 <p>The QuickBooks Online integration is the best in this category. It's a real two-way sync, not just a data export. Payments recorded in Jobber show up in QuickBooks automatically, which eliminates the manual reconciliation headaches that come with managing multiple commercial accounts.</p>
 

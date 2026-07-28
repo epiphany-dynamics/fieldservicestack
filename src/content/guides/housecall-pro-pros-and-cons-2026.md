@@ -49,7 +49,7 @@ draft: false
 
 <h3>What Housecall Pro Does Well</h3>
 
-<p>The dispatch board is genuinely good. You can drag and drop jobs, see your techs on a map, and push schedule changes to the field in seconds. For a 4-truck plumbing company where the owner is also running calls half the time, that visibility matters more than any other feature on the list.</p>
+<p>The dispatch board is genuinely good. You can drag and drop jobs, see your techs on a map, and push schedule changes to the field in seconds. For a 4-truck plumbing company where the owner is also running calls half the time, that visibility matters more than any other feature on the list. Owner-dispatcher shops still use the board criteria in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>Customer communication is where HCP separates itself from most competitors at this price point. Automated appointment reminders, on-my-way texts, and review requests after job completion all run without anyone touching them. A lot of shops see their Google review count jump 30-40% within a couple months of turning this on. That's real, measurable business impact.</p>
 

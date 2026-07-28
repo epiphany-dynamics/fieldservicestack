@@ -41,7 +41,7 @@ draft: false
 
 <h3>Recurring Job Management</h3>
 
-<p>Commercial accounts are where the consistent money is in pressure washing. A strip mall parking lot, a restaurant entrance, a school sidewalk - those recur monthly or quarterly. You need software that schedules and auto-invoices those without someone manually rebuilding the job each cycle. If you're running 10 commercial accounts and rebuilding each one by hand every month, that's a few hours of admin work that should take zero.</p>
+<p>Commercial accounts are where the consistent money is in pressure washing. A strip mall parking lot, a restaurant entrance, a school sidewalk - those recur monthly or quarterly. You need software that schedules and auto-invoices those without someone manually rebuilding the job each cycle. If you're running 10 commercial accounts and rebuilding each one by hand every month, that's a few hours of admin work that should take zero. Dense commercial stop days still reward the board rules in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <h3>QuickBooks Integration</h3>
 

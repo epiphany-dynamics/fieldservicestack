@@ -19,7 +19,7 @@ I've spent time with this platform and dug through 304 Capterra reviews and 87 G
 
 **FieldEdge is a cloud-based field service management platform built specifically for trades businesses, including HVAC, plumbing, electrical, locksmith, and appliance repair. It connects office and field teams through scheduling, dispatching, invoicing, and a mobile app. Small-to-midsize operations with roughly 3-20 technicians are its primary audience, not enterprise shops.**
 
-It's not trying to be everything to everyone. FieldEdge focuses on the core workflow: job comes in, tech gets dispatched, work gets done, invoice goes out. That sounds simple, but plenty of FSM tools botch at least one of those steps. FieldEdge gets most of them right for smaller operations.
+It's not trying to be everything to everyone. FieldEdge focuses on the core workflow: job comes in, tech gets dispatched, work gets done, invoice goes out. That sounds simple, but plenty of FSM tools botch at least one of those steps. FieldEdge gets most of them right for smaller operations. Peak-load board criteria still show up in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/) for wet trades.
 
 The QuickBooks integration is probably the single biggest reason small businesses choose it. If you're already running QuickBooks and you're tired of double-entry between your accounting software and your scheduling tool, that sync alone makes it worth evaluating.
 

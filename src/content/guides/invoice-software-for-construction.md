@@ -57,7 +57,7 @@ draft: false
 
 <p>Jobber is the most practical option for contractors running 1 to 15 people. It's built for the field, not the finance department. Quotes convert to jobs, jobs generate invoices, invoices get paid online. That loop runs fast and it runs without IT support or a dedicated admin.</p>
 
-<p>The mobile app is genuinely good. Techs can invoice on-site, collect card payments, and send receipts without touching a laptop. <a href="/reviews/jobber-review-2026">Jobber's full feature set</a> also includes scheduling, dispatch, a client hub, and automated follow-up reminders for unpaid invoices. That last feature alone is worth the price if you spend time every week manually chasing slow-paying clients.</p>
+<p>The mobile app is genuinely good. Techs can invoice on-site, collect card payments, and send receipts without touching a laptop. <a href="/reviews/jobber-review-2026">Jobber's full feature set</a> also includes scheduling, dispatch, a client hub, and automated follow-up reminders for unpaid invoices. Field-day board pressure still shows up in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. That last feature alone is worth the price if you spend time every week manually chasing slow-paying clients.</p>
 
 <p>For a 3-truck HVAC or plumbing crew doing service calls and smaller renovation work, Jobber handles everything cleanly. Where it falls short: it's not designed for complex project-based billing. Multi-phase residential construction with draws, lien releases, and subcontractor coordination gets messy in Jobber because the tool wasn't built for that workflow. If that describes your business, look at BuilderTrend instead.</p>
 
