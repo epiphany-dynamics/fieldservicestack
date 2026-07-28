@@ -15,7 +15,7 @@ HVAC businesses have specific software needs that <a href="/guides/field-service
 
 ## What Makes HVAC Software Different From Generic Field Service Platforms
 
-**HVAC contractors need flat rate pricebook management, maintenance agreement tracking, equipment history tied to customer records, and the ability to handle massive seasonal volume swings. Peak-call seasons are exactly when [AI receptionist for HVAC](https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/) stops missed rings. Generic platforms handle scheduling and invoicing fine, but the HVAC-specific features separate a good fit from a frustrating workaround.**
+**HVAC contractors need flat rate pricebook management, maintenance agreement tracking, equipment history tied to customer records, and the ability to handle massive seasonal volume swings. Generic platforms handle scheduling and invoicing fine, but the HVAC-specific features separate a good fit from a frustrating workaround.**
 
 A plumber running 10 service calls a day and an HVAC shop running 10 service calls a day have different software needs. The HVAC shop needs to track equipment age, model numbers, warranty status, and maintenance history at each property. When a tech shows up for a no-cool call in July, pulling up the unit's full history before they open the panel saves diagnostic time and improves the customer experience.
 
@@ -33,7 +33,7 @@ Maintenance agreements are recurring revenue. The platform needs to manage renew
 
 The dispatch board is where ServiceTitan earns its price. For a 20-tech operation running 40+ calls a day across a metro area, smart dispatch recommendations that factor in technician skill, location, and job priority reduce drive time and improve utilization rates. The real-time GPS tracking keeps dispatch informed and customers updated with automated arrival windows.
 
-The marketing scorecard deserves specific attention for HVAC companies. Seasonal advertising spend is significant. Knowing which campaigns generate booked revenue, not just clicks or calls, changes how you allocate budget between spring tune-up season and summer emergency demand. Most platforms punt on marketing attribution entirely. ServiceTitan treats it as a first-class feature.
+The marketing scorecard deserves specific attention for HVAC companies. Seasonal advertising spend is significant. Knowing which campaigns generate booked revenue, not just clicks or calls, changes how you allocate budget between spring tune-up season and summer emergency demand. Most platforms punt on marketing attribution entirely. ServiceTitan treats it as a first-class feature. Attribution only pays off if someone answers the calls it generates, which is the gap [AI receptionist for HVAC](https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/) covers during peak season.
 
 The catch is cost. At $245 to $398 per technician per month, with implementation fees of $3,000 to $8,000, ServiceTitan only makes sense when the operational gains in dispatch efficiency and conversion rates clearly exceed the spend. For smaller HVAC shops, the price is prohibitive. Implementation takes 8 to 12 weeks with dedicated onboarding support.
 

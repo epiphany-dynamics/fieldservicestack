@@ -59,7 +59,7 @@ Renewal tracking is particularly valuable. When 200 maintenance agreements come 
 
 ### Additional Features
 
-Phone integration records inbound calls, links them to customer records, and scores CSR performance. Third-party layers on that stack are covered in [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/). This creates accountability for how your office team handles calls and reveals conversion rates at the phone stage.
+Phone integration records inbound calls, links them to customer records, and scores CSR performance. This creates accountability for how your office team handles calls and reveals conversion rates at the phone stage. Third-party layers on top of that stack are covered in [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/).
 
 Payroll processing, equipment tracking, permit management, and a built-in financing option for customers round out the feature list. The financing option works similarly to Housecall Pro's Wisetack integration, allowing techs to offer payment plans at the door.
 
