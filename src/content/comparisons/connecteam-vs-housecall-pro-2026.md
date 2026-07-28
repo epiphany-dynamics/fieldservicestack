@@ -18,7 +18,7 @@ The short version: Connecteam is a workforce management tool that happens to wor
 
 **Connecteam is an employee management platform designed for deskless workers, handling time tracking, scheduling, communication, and task management across mobile teams. Housecall Pro is a business operations platform for trades businesses, covering scheduling, invoicing, payments, CRM, and marketing. The overlap is real, but the core focus is completely different.**
 
-Connecteam started as a solution for non-desk teams across industries. Think retail, hospitality, construction, cleaning. The core product is built around keeping employees organized and accountable. GPS time tracking, digital forms, team chats, shift scheduling. It's genuinely good at all of this.
+Connecteam started as a solution for non-desk teams across industries. Think retail, hospitality, construction, cleaning. The core product is built around keeping employees organized and accountable. GPS time tracking, digital forms, team chats, shift scheduling. It's genuinely good at all of this. Hourly crew calendars still break without the rules in [how to automate staff scheduling](https://epiphanydynamics.ai/blog/how-to-automate-staff-scheduling/).
 
 Housecall Pro has a narrower target: HVAC, plumbing, electrical, pest control, landscaping. The whole product is shaped around the job lifecycle. Customer books a job, tech gets dispatched, tech does the work, invoice gets sent, payment gets collected. That loop is where Housecall Pro shines.
 

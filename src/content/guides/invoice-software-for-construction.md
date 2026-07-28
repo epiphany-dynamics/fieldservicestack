@@ -70,7 +70,7 @@ draft: false
 
 <h3>2. BuilderTrend: Best for Residential Construction GCs</h3>
 
-<p>BuilderTrend is built specifically for residential construction. It covers the full project lifecycle: estimates, contracts, schedules, subcontractor coordination, change orders, draws, and final invoicing. If you're a GC running custom homes or large renovations, this is the most complete option available in 2026.</p>
+<p>BuilderTrend is built specifically for residential construction. It covers the full project lifecycle: estimates, contracts, schedules, subcontractor coordination, change orders, draws, and final invoicing. If you're a GC running custom homes or large renovations, this is the most complete option available in 2026. Milestone shops still need the stack layers in <a href="https://epiphanydynamics.ai/blog/ai-automation-for-construction-companies/">AI automation for construction companies</a>.</p>
 
 <p>The invoicing module supports progress billing, draws tied to project milestones, and an owner-facing portal where clients can view updates and approve change orders electronically. That client portal alone cuts down the volume of "what's the status" calls on longer projects in a way that's hard to put a dollar figure on but is very real.</p>
 

@@ -53,7 +53,7 @@ draft: false
 
 <h3>1. Jobber - Best Overall for Pressure Washing Crews</h3>
 
-<p>Jobber is the default recommendation for most pressure washing operations, and it earns that position. The mobile app is consistently good across Android and iOS. Invoicing is fast. Estimates convert to jobs convert to invoices with minimal friction. The scheduling calendar is clean enough that a non-technical person can figure it out in an afternoon without calling support.</p>
+<p>Jobber is the default recommendation for most pressure washing operations, and it earns that position. The mobile app is consistently good across Android and iOS. Invoicing is fast. Estimates convert to jobs convert to invoices with minimal friction. The scheduling calendar is clean enough that a non-technical person can figure it out in an afternoon without calling support. Recurring commercial calendars still need the design in <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">automated scheduling software</a>.</p>
 
 <p>Pricing breaks down like this: Core at $49/month covers one user, invoicing, scheduling, and client history. Connect at $129/month adds online booking, automated follow-up messages, and up to five users. Grow at $249/month includes marketing tools and expanded reporting, which makes sense for a 5-10 truck operation trying to track lead sources and scale. You can find a full plan breakdown in the <a href="/guides/jobber-pricing-per-month-2026">Jobber pricing per month guide</a> if you want to compare tiers before committing.</p>
 

@@ -56,7 +56,7 @@ Both platforms offer drag-and-drop scheduling with calendar views and technician
 
 Housecall Pro's scheduling includes a GPS-based dispatch feature that suggests the nearest available technician, which Jobber lacks in its native toolset. When a call comes in and you need to assign it to someone who can get there fast, Housecall Pro's dispatch shows you who is closest and when they will be free. Jobber requires you to check the map and make that decision manually.
 
-For pure scheduling ease with a small team where you know everyone's schedule, Jobber wins. For dispatch optimization in a multi-tech operation where you are assigning 15+ jobs per day across a metro area, Housecall Pro has the edge.
+For pure scheduling ease with a small team where you know everyone's schedule, Jobber wins. For dispatch optimization in a multi-tech operation where you are assigning 15+ jobs per day across a metro area, Housecall Pro has the edge. Dense metro boards still get measured with [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 Both platforms support recurring job scheduling for maintenance agreements and regular service visits. Jobber's batch invoicing for recurring jobs is more streamlined. Housecall Pro handles the scheduling well but the invoicing workflow for recurring services has more steps.
 
