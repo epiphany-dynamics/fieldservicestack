@@ -22,7 +22,7 @@ draft: false
 
 <h2>What to Look For in Field Service Workforce Software</h2>
 
-<p><strong>Field service workforce software needs to do four things well: confirm crews are physically on-site (GPS clock-in), assign and communicate jobs clearly, handle shift scheduling without phone tag, and produce clean records for payroll. Software that misses any of those four forces you to cover the gap manually, which defeats the point.</strong></p>
+<p><strong>Field service workforce software needs to do four things well: confirm crews are physically on-site (GPS clock-in), assign and communicate jobs clearly, handle shift scheduling without phone tag, and produce clean records for payroll. Broader roster automation is walked through in <a href="https://epiphanydynamics.ai/blog/how-to-automate-staff-scheduling/">how to automate staff scheduling</a>. Software that misses any of those four forces you to cover the gap manually, which defeats the point.</strong></p>
 
 <p>Most field service owners I've talked to have the same setup. Dispatch is in one tool, payroll is in another, team communication happens in a group text nobody wants to manage, and job documentation exists in theory but gets skipped in practice. The question isn't whether you need software. It's whether you need a single platform that handles everything or a few focused tools that work together without getting in each other's way.</p>
 

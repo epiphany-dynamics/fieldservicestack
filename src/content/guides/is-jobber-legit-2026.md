@@ -83,7 +83,7 @@ draft: false
 
 <p>Pricing: Starts around $398/month per technician, plus implementation fees that typically run $1,000 to $5,000 depending on company size.</p>
 
-<p>ServiceTitan is a different product category entirely. It's built for operations running 10 or more trucks, with dispatchers working full schedules and owners who want granular revenue reporting. The depth is serious: technician performance tracking, call recording integrations, built-in financing options, and customizable workflows that Jobber simply cannot match.</p>
+<p>ServiceTitan is a different product category entirely. It's built for operations running 10 or more trucks, with dispatchers working full schedules and owners who want granular revenue reporting. Deeper AI wiring into that tier is covered in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a>. The depth is serious: technician performance tracking, call recording integrations, built-in financing options, and customizable workflows that Jobber simply cannot match.</p>
 
 <p>The catch is that it's expensive, complicated to implement, and overkill if you're running 3 trucks with a part-time office manager. If you're running 20 trucks and dispatch is drowning, the cost may be justified. The <a href="/reviews/servicetitan-review-2026">ServiceTitan review for 2026</a> covers actual implementation costs and what the onboarding process realistically looks like.</p>
 

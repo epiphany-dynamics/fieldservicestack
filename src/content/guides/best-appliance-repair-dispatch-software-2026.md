@@ -53,7 +53,7 @@ draft: false
 
 <p><strong>Pricing:</strong> Free plan available for up to 2 users (limited to basic features, not enough for a real operation). Paid plans start around $65/user/month, with team bundles that reduce per-user cost as you add techs. Annual billing saves roughly 20%.</p>
 
-<p><strong>What's good:</strong> The two-way texting is genuinely useful in practice. Customers can confirm, reschedule, or ask a quick question without calling the office. Reviews are built in and trigger automatically after a job closes. The mobile app is one of the better ones in this space and holds up with spotty signal. The dispatch board gives you drag-and-drop scheduling with tech availability visible at a glance without clicking into five different screens.</p>
+<p><strong>What's good:</strong> The two-way texting is genuinely useful in practice. Customers can confirm, reschedule, or ask a quick question without calling the office. Reviews are built in and trigger automatically after a job closes. Phone layers past those triggers still sit in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. The mobile app is one of the better ones in this space and holds up with spotty signal. The dispatch board gives you drag-and-drop scheduling with tech availability visible at a glance without clicking into five different screens.</p>
 
 <p><strong>What's not:</strong> The free plan is essentially a demo. The jump to paid stings if you're a one-truck shop watching margins. QuickBooks integration works, but it occasionally needs a manual sync nudge to stay clean. And the pricing structure can get complicated once you start adding team members at different tiers.</p>
 

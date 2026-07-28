@@ -40,7 +40,7 @@ draft: false
 
 <h2>Top Picks for Home Service Businesses in 2026</h2>
 
-<p><strong>The top FSM platforms for home service businesses in 2026 are Housecall Pro, Jobber, Service Fusion, ServiceTitan, and Workiz. Housecall Pro ranks first for 1-5 truck residential shops because of its mobile app and field payment tools. Jobber fits contractors and quote-heavy work better. ServiceTitan is only appropriate for large operations with the budget to match.</strong></p>
+<p><strong>The top FSM platforms for home service businesses in 2026 are Housecall Pro, Jobber, Service Fusion, ServiceTitan, and Workiz. Housecall Pro ranks first for 1-5 truck residential shops because of its mobile app and field payment tools. Jobber fits contractors and quote-heavy work better. ServiceTitan is only appropriate for large operations with the budget to match. Once that stack is live, shops often add <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> for phones.</strong></p>
 
 <h3>#1 Housecall Pro — Best for 1-5 Truck Residential Shops</h3>
 
@@ -78,7 +78,7 @@ draft: false
 
 <h3>#4 ServiceTitan — Best for Large Multi-Location Shops</h3>
 
-<p>ServiceTitan is enterprise software at an enterprise price. Base pricing typically starts around $398/month, and implementation costs can run $5,000 to $10,000 or more depending on your size. This is not a platform for a 3-truck shop.</p>
+<p>ServiceTitan is enterprise software at an enterprise price. Base pricing typically starts around $398/month, and implementation costs can run $5,000 to $10,000 or more depending on your size. This is not a platform for a 3-truck shop. Smaller high-call shops still use the board tests in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>What you get for that investment: marketing attribution that shows which ad campaigns generate the most booked revenue, technician performance dashboards, call recording with coaching tools, and reporting that can run across multiple locations simultaneously. For a large HVAC or plumbing operation doing $1M-plus a year, those tools pay for themselves.</p>
 

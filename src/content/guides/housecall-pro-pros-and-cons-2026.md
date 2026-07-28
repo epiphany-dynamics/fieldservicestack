@@ -65,7 +65,7 @@ draft: false
 
 <p>Per-user pricing is the first thing that catches people off guard. The Basic plan is $79/month for one user. Essentials runs $189/month for up to five users. Once you're past the included seats, additional users cost extra. By the time you have 8-10 techs actively using the platform, the monthly number is real. It's not unique to HCP, but comparing sticker prices without accounting for your actual headcount leads to surprises.</p>
 
-<p>Reporting is thin. You can pull basic revenue and job count reports without much trouble, but if you want margin by job type, cost per lead by source, or technician-level performance on upsells, you're either exporting to a spreadsheet or bumping up to the MAX plan. Both Service Fusion and ServiceTitan do this better.</p>
+<p>Reporting is thin. You can pull basic revenue and job count reports without much trouble, but if you want margin by job type, cost per lead by source, or technician-level performance on upsells, you're either exporting to a spreadsheet or bumping up to the MAX plan. Both Service Fusion and ServiceTitan do this better. Teams already deep in ServiceTitan often add <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> next.</p>
 
 <p>Job costing is the most significant gap for anyone running a business where material costs vary by job. HCP doesn't track cost against revenue at the job level in a meaningful way. You can add parts and line items to an invoice, but there's no cost-versus-revenue view that tells you whether a job was profitable. For a general contractor or anyone doing more complex project work, this is a real problem.</p>
 

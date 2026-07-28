@@ -25,7 +25,7 @@ The short version: Jobber is faster to start, cheaper upfront, and easier to use
 
 For a solo operator or a team of three, Jobber's scheduling is refreshingly straightforward. You see what's on, drag jobs around, done. No onboarding specialist required.
 
-ServiceTitan's dispatch tools are serious. Route optimization, crew availability at a glance, recurring job management at scale. I've watched dispatchers in larger shops run 20-plus technicians efficiently from that board. But it takes time to learn, and the workflows are stricter. You can't just move a job without understanding how it affects the downstream sequence.
+ServiceTitan's dispatch tools are serious. Route optimization, crew availability at a glance, recurring job management at scale. After go-live many shops still add [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/) for phone intake. I've watched dispatchers in larger shops run 20-plus technicians efficiently from that board. But it takes time to learn, and the workflows are stricter. You can't just move a job without understanding how it affects the downstream sequence.
 
 Small team? Jobber wins on usability. Bigger operation with complex routing needs? ServiceTitan earns its complexity.
 
@@ -131,7 +131,7 @@ There's no shame in picking Jobber if you're not ready for ServiceTitan's comple
 
 ## Automate What Your FSM Software Doesn't Cover
 
-FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Platform pickers still fill intake holes with [Epiphany Dynamics](https://epiphanydynamics.ai) for lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
 
 ## Frequently Asked Questions
 

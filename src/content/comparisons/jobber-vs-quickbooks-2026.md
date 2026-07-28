@@ -35,7 +35,7 @@ draft: false
 
 <h2>Feature Comparison: Jobber vs QuickBooks</h2>
 
-<p><strong>Jobber dominates on every operational feature: scheduling, dispatching, client portal, route optimization, automated follow-ups, and mobile job management. QuickBooks dominates on financials: bank reconciliation, payroll, tax prep, and detailed reporting. The two platforms barely overlap, sharing only invoicing and basic expense tracking.</strong></p>
+<p><strong>Jobber dominates on every operational feature: scheduling, dispatching, client portal, route optimization, automated follow-ups, and mobile job management. Reminder automation outside accounting is walked through in <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">appointment reminder automation</a>. QuickBooks dominates on financials: bank reconciliation, payroll, tax prep, and detailed reporting. The two platforms barely overlap, sharing only invoicing and basic expense tracking.</strong></p>
 
 <table>
   <thead>

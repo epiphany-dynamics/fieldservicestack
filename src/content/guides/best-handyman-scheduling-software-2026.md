@@ -23,9 +23,9 @@ draft: false
 
 <h2>What to Look For in Handyman Scheduling Software</h2>
 
-<p><strong>Good handyman scheduling software needs to do four things well: run reliably on your phone while you're on-site, send automated appointment reminders before jobs, let you collect payment on the spot, and sync to your accounting software without creating extra cleanup work every month. Any platform missing two or more of those is going to cost you time somewhere you didn't plan for.</strong></p>
+<p><strong>Good handyman scheduling software needs to do four things well: run reliably on your phone while you're on-site, send automated appointment reminders before jobs, let you collect payment on the spot, and sync to your accounting software without creating extra cleanup work every month. Deeper reminder design is broken down in <a href="https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/">automated scheduling software</a>. Any platform missing two or more of those is going to cost you time somewhere you didn't plan for.</strong></p>
 
-<p>Handyman work has a specific challenge that HVAC or plumbing doesn't have as much of: the job mix is all over the place. Monday you're fixing a door, Tuesday you're mounting a TV, Wednesday you're patching drywall. You don't have a clean service catalog. The scheduling software you pick needs to handle varied job types and durations without requiring you to build a separate workflow for every service you offer.</p>
+<p>Handyman work has a specific challenge that HVAC or plumbing doesn't have as much of: the job mix is all over the place. Monday you're fixing a door, Tuesday you're mounting a TV, Wednesday you're patching drywall. Variable-scope days still need the board criteria in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. You don't have a clean service catalog. The scheduling software you pick needs to handle varied job types and durations without requiring you to build a separate workflow for every service you offer.</p>
 
 <p>Here's what to actually check before committing to any platform:</p>
 

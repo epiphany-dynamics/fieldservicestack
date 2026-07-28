@@ -20,7 +20,7 @@ But they are built for different businesses, and the pricing model difference is
 
 **Housecall Pro targets small to mid-sized residential service companies that want a polished, all-in-one experience with strong automation and marketing tools. Service Fusion targets growing SMBs and larger field teams that need unlimited-user pricing and heavier dispatch and GPS capabilities. Pick based on team size and which features you actually use daily.**
 
-Housecall Pro's DNA is residential home service. The whole platform feels like it was designed around a 1-8 tech shop running HVAC tune-ups, plumbing calls, and electrician visits. Online booking, automated review requests, pay-by-text, marketing follow-ups. That's the core value prop.
+Housecall Pro's DNA is residential home service. The whole platform feels like it was designed around a 1-8 tech shop running HVAC tune-ups, plumbing calls, and electrician visits. Online booking, automated review requests, pay-by-text, marketing follow-ups. That's the core value prop. Office load past those automations is listed in [best AI tools for service companies](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/).
 
 Service Fusion is built more around the operational side: a large dispatch board, GPS tracking for fleets, route optimization, and inventory tracking. It's not as pretty. The interface shows its age in some areas. But for a shop with 15-20 techs, the unlimited-user flat rate is a massive advantage.
 

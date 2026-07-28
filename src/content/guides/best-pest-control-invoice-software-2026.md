@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>Pest control invoicing has specific needs that generic billing software misses: recurring service agreements, chemical application logs, per-customer treatment history, and the ability to capture a signature on a tablet while standing in someone's backyard. If the software treats every invoice as a one-time transaction, it will slow you down within two weeks.</strong></p>
 
-<p>Most HVAC or plumbing shops can get by with pretty basic invoicing tools. Pest control is different. You're managing subscriptions. Quarterly treatments that auto-invoice without you touching anything. Customers who call six months later asking what you sprayed near their kid's bedroom. That's not standard field service territory, and the software you pick should know the difference.</p>
+<p>Most HVAC or plumbing shops can get by with pretty basic invoicing tools. Pest control is different. You're managing subscriptions. Quarterly treatments that auto-invoice without you touching anything. Route-day board pressure still shows up in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> for high-volume shops. Customers who call six months later asking what you sprayed near their kid's bedroom. That's not standard field service territory, and the software you pick should know the difference.</p>
 
 <p>Here's what actually matters when evaluating options:</p>
 

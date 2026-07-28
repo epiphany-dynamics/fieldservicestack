@@ -30,7 +30,7 @@ draft: false
 
 <p>QuickBooks sync is table stakes at this point. Any tool without it forces double entry, and that's time you don't have. Note that QuickBooks Online integration is far more common than QB Desktop support. If you're still on Desktop, verify compatibility before you sign anything.</p>
 
-<p>Invoicing and same-day payment collection deserve more attention than most contractors give them. The gap between net-30 and day-of payment adds up to real money over a year. Any platform worth considering lets customers pay from their phone when you hand them the invoice on site.</p>
+<p>Invoicing and same-day payment collection deserve more attention than most contractors give them. The gap between net-30 and day-of payment adds up to real money over a year. No-show math outside payments is covered in <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">appointment reminder automation</a>. Any platform worth considering lets customers pay from their phone when you hand them the invoice on site.</p>
 
 <h2>Top Software Picks for Small Contractors in 2026</h2>
 

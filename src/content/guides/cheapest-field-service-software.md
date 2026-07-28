@@ -54,7 +54,7 @@ draft: false
 
 <p>For a solo HVAC tech or independent handyman doing 15-20 jobs a month, the $9 Starter plan is legitimate software. Scheduling, job management, quotes, invoices, and a basic customer portal are all included. The mobile app has solid offline capability, which matters when you're working in a basement or out in a rural area where LTE drops.</p>
 
-<p>The weaknesses are real: ServiceM8 is iOS-first. The Android app has improved but still lags. If your crew is all Android phones, this will create friction that your techs will blame you for. The QuickBooks sync works cleanly on the higher tiers but feels clunky at the Starter level, where some features require workarounds.</p>
+<p>The weaknesses are real: ServiceM8 is iOS-first. The Android app has improved but still lags. If your crew is all Android phones, this will create friction that your techs will blame you for. Low-cost stacks still leave intake gaps listed in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. The QuickBooks sync works cleanly on the higher tiers but feels clunky at the Starter level, where some features require workarounds.</p>
 
 <p><strong>Best for:</strong> Solo electricians, plumbers, HVAC techs, and handymen doing under 50 jobs a month who want real software at a near-zero monthly cost.</p>
 
@@ -222,7 +222,7 @@ draft: false
 
 <h2>Automate What Your FSM Software Doesn't Cover</h2>
 
-<p>Budget FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. <a href="https://epiphanydynamics.ai">Epiphany Dynamics</a> builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.</p>
+<p>Budget FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Low-budget stacks still lean on <a href="https://epiphanydynamics.ai">Epiphany Dynamics</a> for lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.</p>
 
 <h2>Frequently Asked Questions</h2>
 <h3>Q: Do cheap field service software plans charge extra per user, or is it unlimited team members?</h3>

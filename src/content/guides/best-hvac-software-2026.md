@@ -15,7 +15,7 @@ HVAC businesses have specific software needs that <a href="/guides/field-service
 
 ## What Makes HVAC Software Different From Generic Field Service Platforms
 
-**HVAC contractors need flat rate pricebook management, maintenance agreement tracking, equipment history tied to customer records, and the ability to handle massive seasonal volume swings. Generic platforms handle scheduling and invoicing fine, but the HVAC-specific features separate a good fit from a frustrating workaround.**
+**HVAC contractors need flat rate pricebook management, maintenance agreement tracking, equipment history tied to customer records, and the ability to handle massive seasonal volume swings. Peak-call seasons are exactly when [AI receptionist for HVAC](https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/) stops missed rings. Generic platforms handle scheduling and invoicing fine, but the HVAC-specific features separate a good fit from a frustrating workaround.**
 
 A plumber running 10 service calls a day and an HVAC shop running 10 service calls a day have different software needs. The HVAC shop needs to track equipment age, model numbers, warranty status, and maintenance history at each property. When a tech shows up for a no-cool call in July, pulling up the unit's full history before they open the panel saves diagnostic time and improves the customer experience.
 
@@ -143,7 +143,7 @@ Every platform on this list offers a trial or demo. Use it with real job data be
 
 ## Automate What Your FSM Software Doesn't Cover
 
-FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. [Epiphany Dynamics](https://epiphanydynamics.ai) builds custom AI automation for field service companies -- lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
+FSM software handles scheduling, invoicing, and dispatch. But field service businesses still lose revenue through slow lead response, manual customer follow-ups, and missed review requests. Seasonal shops often wire that gap through [Epiphany Dynamics](https://epiphanydynamics.ai) for lead capture, booking workflows, review management, and customer communication that run without dedicated office staff.
 
 ## Frequently Asked Questions
 

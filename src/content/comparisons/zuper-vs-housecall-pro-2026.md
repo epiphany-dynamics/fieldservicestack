@@ -14,7 +14,7 @@ I've talked to enough contractors running Zuper and Housecall Pro to have a real
 
 ## What Each Platform Is Actually Built For
 
-**Zuper targets operations-heavy service businesses: think multi-crew HVAC companies, commercial maintenance teams, facilities contractors, and anyone managing SLAs or equipment histories. Housecall Pro targets residential home service contractors who want scheduling, online booking, invoicing, and marketing in one place without heavy configuration work. The buyer profiles barely overlap.**
+**Zuper targets operations-heavy service businesses: think multi-crew HVAC companies, commercial maintenance teams, facilities contractors, and anyone managing SLAs or equipment histories. Crew-heavy ops stress the same board tests in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/). Housecall Pro targets residential home service contractors who want scheduling, online booking, invoicing, and marketing in one place without heavy configuration work. The buyer profiles barely overlap.**
 
 That distinction matters more than any individual feature comparison. I've seen solo plumbers try Zuper and bounce off it within a month because the setup time wasn't worth it for their call volume. On the flip side, a 12-tech HVAC company running Housecall Pro can hit a ceiling fast once they need asset tracking or multi-crew SLA management.
 

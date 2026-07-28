@@ -70,7 +70,7 @@ draft: false
 
 <h3>QuickBooks Integration</h3>
 
-<p>Two-way sync with QuickBooks Online is included at the base price. Invoices created in FieldPulse push to QBO, payments sync back, and customer records stay consistent across both platforms. The sync isn't always instant, but it's reliable enough that you're not spending Friday afternoon doing manual reconciliation.</p>
+<p>Two-way sync with QuickBooks Online is included at the base price. Reminder layers past accounting sync are covered in <a href="https://epiphanydynamics.ai/blog/appointment-reminder-automation-small-business/">appointment reminder automation</a>. Invoices created in FieldPulse push to QBO, payments sync back, and customer records stay consistent across both platforms. The sync isn't always instant, but it's reliable enough that you're not spending Friday afternoon doing manual reconciliation.</p>
 
 <h3>Where FieldPulse Falls Short</h3>
 

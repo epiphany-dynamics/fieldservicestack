@@ -23,7 +23,7 @@ draft: false
 
 <h2>What to Look For in Carpet Cleaning Invoice Software</h2>
 
-<p><strong>Carpet cleaning has specific billing requirements that generic invoice tools miss entirely: before/after photo documentation, per-room or per-square-foot job costing, recurring client reminders on 6-12 month cycles, and on-site payment collection before you pack up the truck. Software that skips those four things creates more admin work than it saves.</strong></p>
+<p><strong>Carpet cleaning has specific billing requirements that generic invoice tools miss entirely: before/after photo documentation, per-room or per-square-foot job costing, recurring client reminders on 6-12 month cycles, and on-site payment collection before you pack up the truck. Dense stop days still reward the board rules in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. Software that skips those four things creates more admin work than it saves.</strong></p>
 
 <p>The generic "send an invoice and hope they pay" approach does not work well in this trade. Carpet cleaning customers go cold fast. If you're pulling away from the job without collecting payment or a card on file, you're going to spend time chasing invoices you didn't need to chase.</p>
 

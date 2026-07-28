@@ -23,7 +23,7 @@ draft: false
 
 <h2>What to Look For in Pool Service Invoice Software</h2>
 
-<p><strong>Pool service invoice software needs recurring billing for weekly service contracts, a reliable mobile app for 20-plus stop routes, QuickBooks sync, and the ability to invoice for both scheduled service and chemical add-ons. Chemical log tracking and customer service reports separate pool-specific tools from general field service platforms.</strong></p>
+<p><strong>Pool service invoice software needs recurring billing for weekly service contracts, a reliable mobile app for 20-plus stop routes, QuickBooks sync, and the ability to invoice for both scheduled service and chemical add-ons. Dense route days still reward the board rules in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. Chemical log tracking and customer service reports separate pool-specific tools from general field service platforms.</strong></p>
 
 <p>Pool service billing has quirks that catch people off guard when they try to run it through a generic invoicing app. You're dealing with flat-rate weekly service agreements, variable chemical add-ons, one-off equipment repairs, and seasonal work like openings and closings that can run $300 to $600 per job. A tool that handles all of that cleanly saves real time every single week.</p>
 
@@ -48,7 +48,7 @@ draft: false
 
 <p>Jobber is the most polished general-purpose field service invoicing tool in this price range, and it works well for pool service companies past the solo stage. The Core plan at $49/month covers one user with basic invoicing and quoting. The Connect plan at $149/month is where it gets genuinely useful for a 2-4 truck operation, adding team scheduling, automated client reminders, and a proper client manager. The Grow plan at $249/month adds marketing tools and review management on top of that.</p>
 
-<p>Recurring invoices in Jobber work cleanly. You set up a service agreement once and it generates invoices on schedule, emails them automatically, and supports credit card and ACH payment collection out of the box. The two-way QuickBooks Online sync is reliable and cuts out a significant amount of reconciliation time at month end.</p>
+<p>Recurring invoices in Jobber work cleanly. Intake tools outside that billing loop are covered in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. You set up a service agreement once and it generates invoices on schedule, emails them automatically, and supports credit card and ACH payment collection out of the box. The two-way QuickBooks Online sync is reliable and cuts out a significant amount of reconciliation time at month end.</p>
 
 <p>Where Jobber falls short for pool work is chemical tracking. There's no native field for logging pool readings. You can build custom fields to approximate it, but it won't produce the kind of formatted, customer-facing service reports that Skimmer generates. If chemical documentation is central to how you deliver and sell your service, that gap is real and the workaround is annoying.</p>
 
