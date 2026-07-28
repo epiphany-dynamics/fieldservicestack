@@ -29,7 +29,7 @@ networkLinks: []
 
 Picture a Tuesday with four trucks and 22 stops on the board. At 9:40 a homeowner is not home, so a 90 minute slot opens in the north zone. At 10:15 a commercial account calls back on a job you closed Friday, and the warranty visit has to land today. At 2:00 a tech finds a failed control board and needs an estimate approved before he leaves the driveway.
 
-Good dispatch software makes all three of those moves take under a minute. You drag the callback into the open slot, the assigned tech gets a push notification with the original job notes attached, and the estimate goes out from the phone with photos on it. Weak software makes each move a phone call, a text, and a note somebody forgets to write down. That difference is the entire buying decision, and it is why our [field service dispatch software guide](/guides/field-service-dispatch-software/) treats reschedule speed as the primary test rather than feature count.
+Good dispatch software makes all three of those moves take under a minute. Plumbing shops face that same triage pattern in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/). You drag the callback into the open slot, the assigned tech gets a push notification with the original job notes attached, and the estimate goes out from the phone with photos on it. Weak software makes each move a phone call, a text, and a note somebody forgets to write down. That difference is the entire buying decision, and it is why our [field service dispatch software guide](/guides/field-service-dispatch-software/) treats reschedule speed as the primary test rather than feature count.
 
 ## Best service dispatch software compared
 

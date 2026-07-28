@@ -23,7 +23,7 @@ networkLinks: []
 
 **An HVAC answering service is a paid person or system that catches the calls your office misses, mostly after hours and during peak overflow. You have three real routes: hire in-house dispatch staff, contract a live answering service, or deploy an AI voice agent. The right one depends on call volume, emergency dispatch needs, and budget.**
 
-A no-cool call at 9 p.m. in July does not wait for morning. If your phone rolls to voicemail, that homeowner dials the next HVAC company in their search results before you ever hear the message. After-hours and overflow call handling is not a luxury add-on for field service operators. It is the difference between booking the emergency and eating the cost of a missed opportunity.
+A no-cool call at 9 p.m. in July does not wait for morning. If your phone rolls to voicemail, that homeowner dials the next HVAC company in their search results before you ever hear the message. After-hours and overflow call handling is not a luxury add-on for field service operators. It is the difference between booking the emergency and eating the cost of a missed opportunity. Home-services shops can price that same after-hours risk in [answering service for home services](https://epiphanydynamics.ai/blog/answering-service-for-home-services/).
 
 ## What an HVAC answering service actually does
 
@@ -47,7 +47,7 @@ A contracted service picks up when your office cannot, using a script you provid
 
 ### AI voice agent
 
-An AI answering system takes every call at once, never sits on hold, and works a 2 a.m. no-heat call the same as a noon one. It can qualify urgency, collect equipment and address details, and book straight into your calendar. The risk is edge cases. A confusing accent, a panicked caller, or an unusual request can trip a poorly built agent, so the emergency escalation path has to be bulletproof.
+An AI answering system takes every call at once, never sits on hold, and works a 2 a.m. no-heat call the same as a noon one. It can qualify urgency, collect equipment and address details, and book straight into your calendar. The risk is edge cases. A confusing accent, a panicked caller, or an unusual request can trip a poorly built agent, so the emergency escalation path has to be bulletproof. Contractor-specific compare criteria sit in [AI answering service for contractors](https://epiphanydynamics.ai/blog/ai-answering-service-for-contractors/).
 
 | Route | Best for | Main strength | Main weakness |
 |---|---|---|---|

@@ -47,7 +47,7 @@ draft: false
 
 <h3>Core: $49/month (annual) / $79/month (monthly)</h3>
 
-<p>Still one user, but online booking, automated appointment reminders, and job forms are included. This is where Jobber starts to feel worth paying for. A solo plumber doing 8-10 calls a day with someone handling dispatch can run the whole operation from Core. The single-user cap is the hard wall. The moment you need two logins, you're either on Connect or splitting screens in ways that don't actually work.</p>
+<p>Still one user, but online booking, automated appointment reminders, and job forms are included. This is where Jobber starts to feel worth paying for. A solo plumber doing 8-10 calls a day with someone handling dispatch can run the whole operation from Core. That plumber dispatch load is also why <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> matters at Core tier. The single-user cap is the hard wall. The moment you need two logins, you're either on Connect or splitting screens in ways that don't actually work.</p>
 
 <h3>Connect: $149/month (annual) / $199/month (monthly)</h3>
 

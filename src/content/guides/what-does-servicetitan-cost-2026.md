@@ -37,7 +37,7 @@ draft: false
 <li>What are the contract terms? Month-to-month flexibility makes a real difference if you need to switch platforms mid-year.</li>
 </ul>
 
-<p>Also ask during any demo: what does onboarding actually look like and how long before you're fully live? ServiceTitan requires a formal multi-week onboarding process. Several of the lighter tools let you go live over a weekend. That gap matters when you're running jobs every day and can't have your office in transition for six weeks.</p>
+<p>Also ask during any demo: what does onboarding actually look like and how long before you're fully live? ServiceTitan requires a formal multi-week onboarding process. Several of the lighter tools let you go live over a weekend. After that long go-live, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> are how shops reclaim intake hours. That gap matters when you're running jobs every day and can't have your office in transition for six weeks.</p>
 
 <h2>Top Picks: Field Service Software Ranked for 2026</h2>
 

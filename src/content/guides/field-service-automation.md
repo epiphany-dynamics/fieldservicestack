@@ -29,7 +29,7 @@ Most shops that say they "need automation" already own software that does 80 per
 
 **Automation is a trigger plus an action with no human in the middle. A job gets marked complete, so the invoice sends. A customer books online, so the confirmation text fires. It is not artificial intelligence, not a robot dispatcher, and not a replacement for the person who knows which tech handles which panel.**
 
-If you cannot say the trigger out loud in one sentence, it is not ready to automate. "When the tech taps Complete on the mobile app, generate the invoice from the line items and email it to the billing contact" is a trigger. "Handle billing better" is a wish.
+If you cannot say the trigger out loud in one sentence, it is not ready to automate. "When the tech taps Complete on the mobile app, generate the invoice from the line items and email it to the billing contact" is a trigger. "Handle billing better" is a wish. Tooling that turns those triggers on sits in [best AI tools for service companies](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/).
 
 ### The three layers operators tend to blur together
 

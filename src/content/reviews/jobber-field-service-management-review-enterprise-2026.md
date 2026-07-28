@@ -43,7 +43,7 @@ draft: false
 
 <p>For a 10-truck HVAC operation running maintenance routes alongside service calls, the dispatch view handles it. Where it starts to strain is when you've got multiple crew types (install crews, service techs, warranty calls) all running simultaneously and a dispatcher who needs to manage real-time priority changes. The system works, but it is not the same level of sophistication as platforms built specifically for that volume of operational complexity.</p>
 
-<p>What Jobber does particularly well: automated job reminders and en-route notifications go out without anyone touching them. Your customer gets a text when the tech is headed their way. That alone cuts "where is my technician?" calls by a noticeable margin, and your office staff will tell you that within the first week.</p>
+<p>What Jobber does particularly well: automated job reminders and en-route notifications go out without anyone touching them. Beyond native reminders, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a> covers phone and lead layers. Your customer gets a text when the tech is headed their way. That alone cuts "where is my technician?" calls by a noticeable margin, and your office staff will tell you that within the first week.</p>
 
 <h3>Client Communication and the Customer Portal</h3>
 

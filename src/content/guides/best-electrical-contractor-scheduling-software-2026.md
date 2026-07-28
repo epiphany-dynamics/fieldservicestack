@@ -23,7 +23,7 @@ draft: false
 
 <h2>What to Look For in Electrical Contractor Scheduling Software</h2>
 
-<p><strong>Electrical contractors need software that handles permit-driven job timelines, multi-tech dispatch, recurring maintenance agreements, and invoicing that covers both flat-rate and time-and-material work. The non-negotiables: a usable dispatch board, a mobile app that works offline in panels and attics, and QuickBooks sync that does not produce duplicate journal entries.</strong></p>
+<p><strong>Electrical contractors need software that handles permit-driven job timelines, multi-tech dispatch, recurring maintenance agreements, and invoicing that covers both flat-rate and time-and-material work. The non-negotiables: a usable dispatch board, a mobile app that works offline in panels and attics, and QuickBooks sync that does not produce duplicate journal entries. Trade-specific board criteria mirror the checklist in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</strong></p>
 
 <p>Running an electrical business is not like running a cleaning service. You're dealing with permit timelines, material lists that change mid-job, multiple techs on the same commercial site, and customers who expect a two-hour arrival window. Before you demo anything, check for these:</p>
 

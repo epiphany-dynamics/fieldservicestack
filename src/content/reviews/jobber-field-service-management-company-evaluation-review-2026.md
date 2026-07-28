@@ -35,7 +35,7 @@ draft: false
 
 <h2>Key Features: What Jobber Actually Does Well</h2>
 
-<p><strong>Jobber's strongest features are the ones you use every day: scheduling, quoting, invoicing, and automated client communication. The full loop from estimate approval to payment collection is polished and actually works in the field. Where it shows limits is in inventory management, GPS fleet tracking, and deep financial reporting, gaps that matter more at larger scale.</strong></p>
+<p><strong>Jobber's strongest features are the ones you use every day: scheduling, quoting, invoicing, and automated client communication. The full loop from estimate approval to payment collection is polished and actually works in the field. When those daily loops still leave gaps, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a> maps add-on options. Where it shows limits is in inventory management, GPS fleet tracking, and deep financial reporting, gaps that matter more at larger scale.</strong></p>
 
 <h3>Scheduling and Dispatch</h3>
 

@@ -221,7 +221,7 @@ draft: false
 
 <h3>Pick Jobber If...</h3>
 
-<p>You're in HVAC, plumbing, electrical, roofing, or general contracting. Your jobs vary in scope, your schedule isn't a repeating weekly route, and you need something your techs can use on day one. Jobber fits that operating model without asking much of you upfront.</p>
+<p>You're in HVAC, plumbing, electrical, roofing, or general contracting. Your jobs vary in scope, your schedule isn't a repeating weekly route, and you need something your techs can use on day one. Variable-job shops often still need stack choices from <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. Jobber fits that operating model without asking much of you upfront.</p>
 
 <p>Pick Jobber if you're a solo operator or a 2-3 person shop that wants clean, reliable software without overbuilding your tech stack. The Core plan at $49/month gives you scheduling and invoicing that actually work. Upgrade to Connect when you add a second truck and need the online booking and estimate e-sign features.</p>
 

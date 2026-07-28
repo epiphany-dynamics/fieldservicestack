@@ -26,7 +26,7 @@ networkLinks: []
 
 **A missed-call text-back service watches your business phone line and fires an automatic SMS the moment a call goes unanswered or hits voicemail. The caller gets a real text from your number within seconds, can reply in writing, and stays connected to you instead of scrolling to the next contractor while your tech is under a sink.**
 
-The mechanics are simple. When your line rings and nobody picks up, whether the crew is on a roof, the office is at lunch, or it is 9 p.m., the system detects the missed call and texts the caller. Something like: "Hi, this is Ridgeline Plumbing. Sorry we missed you. What can we help with?" The homeowner replies by text, and now you have a live lead in a channel people actually check, instead of a voicemail nobody left.
+The mechanics are simple. When your line rings and nobody picks up, whether the crew is on a roof, the office is at lunch, or it is 9 p.m., the system detects the missed call and texts the caller. Something like: "Hi, this is Ridgeline Plumbing. Sorry we missed you. What can we help with?" The homeowner replies by text, and now you have a live lead in a channel people actually check, instead of a voicemail nobody left. Plumbing shops can stress the same recovery math in [missed call text back for plumbers](https://epiphanydynamics.ai/blog/missed-call-text-back-for-plumbers/).
 
 ## Why missed calls cost field service businesses real money
 
@@ -57,7 +57,7 @@ If even a fraction of that holds for your shop, the monthly recovery dwarfs the 
 4. **Route the replies.** Inbound texts land somewhere a person watches: a shared team inbox, a dispatcher's phone, or your field service software. Speed of the follow-up reply matters as much as the first auto-text.
 5. **Log and hand off.** The conversation should attach to a lead or job record so the caller becomes a scheduled appointment, not a stranded text thread.
 
-If you already run scheduling software, look at how the text-back tool feeds it before you buy. Our roundup of [field service dispatch software](/guides/field-service-dispatch-software/) covers which platforms accept inbound SMS leads cleanly versus which force you to retype everything.
+If you already run scheduling software, look at how the text-back tool feeds it before you buy. Those five setup steps also match the build notes in [missed call text back automation](https://epiphanydynamics.ai/blog/missed-call-text-back-automation/). Our roundup of [field service dispatch software](/guides/field-service-dispatch-software/) covers which platforms accept inbound SMS leads cleanly versus which force you to retype everything.
 
 ## What to put in the auto-text and what to avoid
 

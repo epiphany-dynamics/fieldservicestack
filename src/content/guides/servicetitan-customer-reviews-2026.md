@@ -23,7 +23,7 @@ draft: false
 
 <h2>What ServiceTitan Customers Actually Say in 2026</h2>
 
-<p><strong>Positive reviews cluster around the dispatch board, marketing ROI reporting, and service agreement management. Negative reviews almost always mention three things: cost, the 2-year contract, and onboarding that drags on for months. The software itself earns genuine praise. The sales experience and post-sale support get picked apart regularly.</strong></p>
+<p><strong>Positive reviews cluster around the dispatch board, marketing ROI reporting, and service agreement management. Negative reviews almost always mention three things: cost, the 2-year contract, and onboarding that drags on for months. The software itself earns genuine praise. The sales experience and post-sale support get picked apart regularly. Once live, many shops stack <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> for after-hours intake.</strong></p>
 
 <p>Pull up G2 or Capterra and filter ServiceTitan reviews to one and two stars. The complaints are nearly identical across reviewers: "Cost more than quoted." "Implementation took four months and we felt abandoned after signing." "Customer support is hard to reach when something breaks." None of that means the platform is bad software. It means it's enterprise software sold aggressively to shops that weren't ready for it.</p>
 

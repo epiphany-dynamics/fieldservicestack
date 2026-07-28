@@ -37,7 +37,7 @@ draft: false
 
 <h3>On-Site Invoicing and Payment Collection</h3>
 
-<p>Your tech should be able to close the job and collect payment before leaving the property. That means a mobile app that works offline, generates a clean invoice, and processes a card or sends a payment link on the spot. Chasing invoices after the fact is a cash flow problem you can avoid entirely with the right setup.</p>
+<p>Your tech should be able to close the job and collect payment before leaving the property. That means a mobile app that works offline, generates a clean invoice, and processes a card or sends a payment link on the spot. Same driveway close-out pressure drives <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> for related trades. Chasing invoices after the fact is a cash flow problem you can avoid entirely with the right setup.</p>
 
 <h3>Waste Manifest and Job Documentation</h3>
 

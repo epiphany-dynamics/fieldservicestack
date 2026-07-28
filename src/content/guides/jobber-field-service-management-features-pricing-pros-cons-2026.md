@@ -33,7 +33,7 @@ draft: false
 
 <p>QuickBooks integration matters more than most owners realize until they're staring at two months of manually double-entered invoices. Check whether it's a genuine two-way sync or just an export button with a QuickBooks logo on it. Those are very different things, and the distinction rarely shows up in a demo.</p>
 
-<p>Customer communication tools are what separate the platforms doing real work from glorified scheduling calendars. Automated appointment reminders cut no-shows. Two-way texting keeps jobs moving without your techs fielding calls on their personal phones. A client payment portal moves money faster than chasing checks.</p>
+<p>Customer communication tools are what separate the platforms doing real work from glorified scheduling calendars. Layering intake AI on top of that stack is covered in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. Automated appointment reminders cut no-shows. Two-way texting keeps jobs moving without your techs fielding calls on their personal phones. A client payment portal moves money faster than chasing checks.</p>
 
 <p>Reporting rounds it out. You need to see which jobs are profitable, which techs are closing, and where you're losing hours. Without that visibility, you're running the business on gut feel.</p>
 

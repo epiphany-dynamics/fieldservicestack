@@ -39,7 +39,7 @@ draft: false
 <li>QuickBooks or Xero sync so your bookkeeper isn't manually entering every invoice</li>
 </ul>
 
-<p>Most field service platforms were designed around service calls that start and finish in a few hours. Painting jobs run 3-5 days. If a platform doesn't handle multi-day jobs cleanly, you'll end up creating a new work order every morning for the same project, which is a waste of time and creates a mess in your history. That's one filter to apply before anything else. For a broader look at what separates good field service tools from average ones, the <a href="/guides/field-service-management-buyers-guide">Field Service Management Software Buyer's Guide 2026</a> is worth reading before you go deep on any single platform.</p>
+<p>Most field service platforms were designed around service calls that start and finish in a few hours. Painting jobs run 3-5 days. Hour-based dispatch design is clearest in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>. If a platform doesn't handle multi-day jobs cleanly, you'll end up creating a new work order every morning for the same project, which is a waste of time and creates a mess in your history. That's one filter to apply before anything else. For a broader look at what separates good field service tools from average ones, the <a href="/guides/field-service-management-buyers-guide">Field Service Management Software Buyer's Guide 2026</a> is worth reading before you go deep on any single platform.</p>
 
 <h2>Top 5 Software Picks for Painting Businesses in 2026</h2>
 

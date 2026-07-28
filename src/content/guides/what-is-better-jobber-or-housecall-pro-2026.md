@@ -39,7 +39,7 @@ draft: false
 <li>Built-in marketing versus third-party add-ons you'll have to pay for separately</li>
 </ul>
 
-<p>Trade type shapes this decision more than it does for most software categories. A solo plumber running 8-10 calls a day needs something different from a 10-truck pest control operation managing recurring routes and quarterly agreements. Keep that in mind as we go through each platform.</p>
+<p>Trade type shapes this decision more than it does for most software categories. A solo plumber running 8-10 calls a day needs something different from a 10-truck pest control operation managing recurring routes and quarterly agreements. That high-volume plumber pattern is why <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a> splits by call density. Keep that in mind as we go through each platform.</p>
 
 <h2>Jobber in 2026: What It Does Well and Where It Falls Short</h2>
 

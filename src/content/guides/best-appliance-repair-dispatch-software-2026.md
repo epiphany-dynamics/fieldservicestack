@@ -39,7 +39,7 @@ draft: false
 <li>QuickBooks or Xero integration that doesn't require manual sync babysitting</li>
 </ul>
 
-<p>For a solo appliance tech doing 8-10 calls a day, dispatch optimization matters less than raw speed. You need to create a job, schedule it, close it out, and get paid with as few taps as possible. For a 5-truck shop, you need a real dispatch board, tech locations, and the ability to reassign a call when one guy gets buried on a refrigerant system job that's running two hours over.</p>
+<p>For a solo appliance tech doing 8-10 calls a day, dispatch optimization matters less than raw speed. You need to create a job, schedule it, close it out, and get paid with as few taps as possible. For a 5-truck shop, you need a real dispatch board, tech locations, and the ability to reassign a call when one guy gets buried on a refrigerant system job that's running two hours over. Reassignment under load is the same test used in <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>If you're evaluating platforms beyond just dispatch, the <a href="/guides/scheduling-software-for-service-technicians-2026">scheduling software guide for service technicians</a> covers what to look for across most trades and business sizes.</p>
 

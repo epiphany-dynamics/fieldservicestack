@@ -19,7 +19,7 @@ author: "Patrick Gibbs"
 draft: false
 ---
 
-<p><strong>ServiceTitan is not a traditional CRM. It's a field service management platform with CRM-like features built in: customer history, contact records, follow-up reminders, and marketing automation. It goes well beyond what a CRM does, covering dispatch, invoicing, technician GPS tracking, and pricebook management. Base pricing starts around $398/month.</strong></p>
+<p><strong>ServiceTitan is not a traditional CRM. It's a field service management platform with CRM-like features built in: customer history, contact records, follow-up reminders, and marketing automation. It goes well beyond what a CRM does, covering dispatch, invoicing, technician GPS tracking, and pricebook management. Base pricing starts around $398/month. Beyond the built-in CRM layer, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> extend booking and follow-up.</strong></p>
 
 <p>The question comes up because "CRM" gets used loosely. When people ask whether ServiceTitan is a CRM, they're usually asking: does this thing track my customers, store my job history, and help me follow up with people who haven't called in a while? Yes, it does all of that. But calling it a CRM is like calling a Swiss Army knife a can opener. Technically accurate in one narrow case, and it misses what the tool actually is.</p>
 

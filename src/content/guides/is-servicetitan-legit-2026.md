@@ -42,7 +42,7 @@ draft: false
 
 <h3>What ServiceTitan Actually Delivers Well</h3>
 
-<p>For the right size business, it's genuinely good software. The dispatch board gives you real-time visibility on every tech, every job, every route. Customer history goes deep. You can pull up a homeowner's file and see the tune-up your tech did in 2023, the photos, the invoice, and every interaction since. That context is worth money when you're having a $12,000 HVAC replacement conversation.</p>
+<p>For the right size business, it's genuinely good software. The dispatch board gives you real-time visibility on every tech, every job, every route. After that board is live, <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">AI tools that integrate with ServiceTitan</a> fill after-hours intake. Customer history goes deep. You can pull up a homeowner's file and see the tune-up your tech did in 2023, the photos, the invoice, and every interaction since. That context is worth money when you're having a $12,000 HVAC replacement conversation.</p>
 
 <p>The service agreement management is where ServiceTitan earns its price for large residential HVAC and plumbing companies. Running 400 maintenance agreements manually is a genuine operational nightmare. ServiceTitan automates the scheduling, renewal reminders, and tracking in a way that nothing else in this space handles as completely. Check <a href="/guides/servicetitan-customer-reviews-2026">what real contractors are saying about ServiceTitan in 2026</a> for firsthand accounts of both the wins and the places where it's fallen short.</p>
 

@@ -19,7 +19,7 @@ Every minute a plumber spends on paperwork is a minute they are not on a job sit
 
 ### Scheduling and Emergency Dispatch
 
-Plumbing is not a 9-to-5 business. Emergency calls come in at 11 PM on a Saturday. Your software needs to handle after-hours dispatch without requiring someone to sit at a desktop. The ability to assign emergency jobs from a phone, see which tech is closest and available, and notify the customer with an ETA is baseline functionality for plumbing operations.
+Plumbing is not a 9-to-5 business. Emergency calls come in at 11 PM on a Saturday. Your software needs to handle after-hours dispatch without requiring someone to sit at a desktop. The ability to assign emergency jobs from a phone, see which tech is closest and available, and notify the customer with an ETA is baseline functionality for plumbing operations. Those emergency board moves are broken down further in [plumbing dispatch software evaluation](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 Look for drag-and-drop calendars, technician availability views, and the ability to filter by skill or certification. A sewer camera tech and a general service plumber are not interchangeable. Your dispatch tool should know the difference.
 

@@ -26,7 +26,7 @@ networkLinks: []
 
 **Your answering service decision runs on one number: gross profit per booked job, not ticket price. Pull the last 90 days of closed invoices, subtract materials and technician labor, then divide by job count. That figure is what a rescued call is worth, and it is what every vendor quote gets measured against.**
 
-Most operators skip this step and compare monthly fees to each other instead of to revenue. That is how a $300 service looks expensive and a $150 service looks smart, when neither number means anything without your own job economics.
+Most operators skip this step and compare monthly fees to each other instead of to revenue. That is how a $300 service looks expensive and a $150 service looks smart, when neither number means anything without your own job economics. Vendor compare criteria without vanity pricing live in [AI answering service for contractors](https://epiphanydynamics.ai/blog/ai-answering-service-for-contractors/).
 
 Build the worksheet once. The example column below is illustrative only, meant to show the arithmetic, not to represent your trade:
 

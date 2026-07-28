@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>Garage door companies need software that handles same-day emergency calls without slowing you down. The non-negotiables: fast job creation, GPS-based dispatch, mobile invoicing techs can actually use from a driveway, and QuickBooks sync that doesn't require a manual export every Friday night.</strong></p>
 
-<p>The garage door business runs differently than most field service trades. You've got a mix of half-day installs and 45-minute emergency spring repairs. Customers call at 7am because they can't get their car out. Same-day dispatch isn't a nice-to-have feature. It's the whole job.</p>
+<p>The garage door business runs differently than most field service trades. You've got a mix of half-day installs and 45-minute emergency spring repairs. Customers call at 7am because they can't get their car out. Same-day dispatch isn't a nice-to-have feature. It's the whole job. Emergency same-day board design is also central to <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>Here's what actually matters when picking software for a garage door operation:</p>
 

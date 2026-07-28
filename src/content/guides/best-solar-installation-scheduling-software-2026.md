@@ -25,7 +25,7 @@ draft: false
 
 <p><strong>A standard solar install runs 5-8 stages from site survey to live system, spread over 4-12 weeks. Your scheduling software needs milestone tracking, permit document storage, automated customer status updates, crew and equipment coordination, and clean QuickBooks integration that handles material costs and permit fees without manual data entry.</strong></p>
 
-<p>Solar is not a same-day trade. You sign a residential contract in February and the install crew shows up in April, after the permit cleared, the utility approved the interconnection agreement, and the panels arrived from the distributor. Most FSM tools are optimized for a plumber booking a leak repair and closing it out by 3pm. Using them for solar creates gaps.</p>
+<p>Solar is not a same-day trade. You sign a residential contract in February and the install crew shows up in April, after the permit cleared, the utility approved the interconnection agreement, and the panels arrived from the distributor. Most FSM tools are optimized for a plumber booking a leak repair and closing it out by 3pm. Using them for solar creates gaps. That same-day plumber model is the baseline for <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">plumbing dispatch software evaluation</a>.</p>
 
 <p>The gaps that actually hurt: no permit status tracking, no document storage for utility paperwork, no automated communication during the 6-10 week waiting period, and invoicing that can't separate panel costs from inverter from mounting hardware from permit fees. Customers will call you every other week if you go silent. The right platform solves that without you building a system from scratch in Google Sheets.</p>
 

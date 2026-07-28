@@ -33,7 +33,7 @@ updated: '2026-07-16'
 
 **To automate business processes in a field-service company, audit the dispatch-to-invoice handoff before you shortlist any software. Map how one job moves from call intake through dispatch, technician notes, estimate, and invoice, then find where information gets re-keyed, lost, or delayed. Fix the worst handoff first, not the flashiest feature.**
 
-Most owners get automation backward. They demo three platforms, get sold on features, then discover the tool automated a broken process faster. The busiest day of your week already tells you where the money leaks. This guide shows you how to read that signal and act on it.
+Most owners get automation backward. They demo three platforms, get sold on features, then discover the tool automated a broken process faster. The busiest day of your week already tells you where the money leaks. This guide shows you how to read that signal and act on it. After the audit ranks leaks, [best AI tools for service companies](https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/) helps pick what to buy next.
 
 ## Why a busy Friday is your best diagnostic
 
@@ -45,7 +45,7 @@ Pick a real Friday and shadow one job end to end, plus watch the aggregate flow.
 
 ### What to record while you watch
 
-Track five things for every job: who touched it, what information they needed, where that information lived, how long the handoff took, and whether anything was re-typed. Re-typing is the loudest signal. If a customer address is entered at intake, spoken to dispatch, written on a work order, and typed again into the invoice, you have four chances to introduce an error and four places to automate.
+Track five things for every job: who touched it, what information they needed, where that information lived, how long the handoff took, and whether anything was re-typed. Re-typing is the loudest signal. If a customer address is entered at intake, spoken to dispatch, written on a work order, and typed again into the invoice, you have four chances to introduce an error and four places to automate. Those re-entry loops are the same class of work in [how to automate repetitive tasks](https://epiphanydynamics.ai/blog/automate-repetitive-tasks-small-business/).
 
 ## The dispatch-to-invoice handoff audit
 
