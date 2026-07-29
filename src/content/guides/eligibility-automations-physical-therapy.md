@@ -18,7 +18,19 @@ imageWidth: 1536
 imageHeight: 1024
 draft: false
 affiliateLinks: false
-networkLinks: []
+networkLinks:
+  - site: calc
+    title: Eligibility automation ROI for physical therapy clinics
+    url: https://ai4bizcalculator.online/blog/eligibility-automations-physical-therapy/
+  - site: help
+    title: "Eligibility automations for physical therapy: a beginner path"
+    url: https://epiphany.help/articles/eligibility-automations-physical-therapy
+  - site: hype
+    title: Physical Therapy Eligibility Automation vs the Hype Board
+    url: https://hypebench.buzz/blog/eligibility-automations-physical-therapy/
+  - site: ed
+    title: Best AI Tools for Physical Therapy Practices in 2026
+    url: https://epiphanydynamics.ai/blog/best-ai-tools-for-physical-therapy/
 ---
 
 **Eligibility automation means confirming coverage before work starts. Physical therapy clinics verify insurance benefits before a patient is treated. Field service companies can run the same gate on warranty claims, home warranty authorizations, membership plans, and property manager purchase orders, confirming who pays and what is approved before a technician is ever dispatched.**
