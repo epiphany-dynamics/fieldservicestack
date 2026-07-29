@@ -18,7 +18,19 @@ imageWidth: 1536
 imageHeight: 1024
 draft: false
 affiliateLinks: false
-networkLinks: []
+networkLinks:
+  - site: calc
+    title: "Automated appointment reminders: the break-even math"
+    url: https://ai4bizcalculator.online/blog/automated-appointment-reminders/
+  - site: help
+    title: "Automated appointment reminders: a safe first setup"
+    url: https://epiphany.help/articles/automated-appointment-reminders
+  - site: hype
+    title: "Automated appointment reminders: where model hype stops mattering"
+    url: https://hypebench.buzz/blog/automated-appointment-reminders/
+  - site: ed
+    title: "Automated Appointment Reminders Free: What Actually Works in 2026"
+    url: https://epiphanydynamics.ai/blog/automated-appointment-reminders-free/
 ---
 
 **Automated appointment reminders cut no-show service calls by confirming the customer before a truck rolls. For field service teams, the real win is dispatch: a confirmed stop holds its window, a canceled stop frees two hours, and a reply text reaches the office before the technician wastes a drive.**
