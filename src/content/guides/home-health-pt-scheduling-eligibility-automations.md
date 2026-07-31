@@ -18,7 +18,13 @@ imageWidth: 1536
 imageHeight: 1024
 draft: false
 affiliateLinks: false
-networkLinks: []
+networkLinks:
+  - site: help
+    title: "Eligibility automations for physical therapy: start here"
+    url: https://epiphany.help/articles/eligibility-automations-physical-therapy-getting-started
+  - site: ed
+    title: Best AI Tools for Physical Therapy Practices in 2026
+    url: https://epiphanydynamics.ai/blog/best-ai-tools-for-physical-therapy/
 ---
 
 **Eligibility automations for physical therapy belong in the same workflow as dispatch. Verify coverage before a home health visit is routed, not after the therapist parks in the driveway. That means catching every inbound call, checking benefits while the caller is on the line, and holding the slot until the payer answers.**
