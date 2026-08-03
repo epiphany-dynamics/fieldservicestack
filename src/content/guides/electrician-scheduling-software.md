@@ -27,7 +27,7 @@ networkLinks: []
 
 **Electrical work mixes two job shapes that fight each other on one board: short service calls and multi-day construction phases gated by inspections. Generic tools assume every job is a one-visit appointment, so rough-in, trim, and final inspection get typed in as separate unlinked jobs and the job history disappears.**
 
-A service van doing panel swaps and troubleshooting needs tight same-day routing. A crew on a tenant improvement needs a schedule that spans three weeks, holds four electricians, and pauses when the inspector moves the date. Most platforms are strong at one shape and tolerable at the other. Decide which one carries most of your revenue before you sit through a single demo.
+A service van doing panel swaps and troubleshooting needs tight same-day routing. A crew on a tenant improvement needs a schedule that spans three weeks, holds four electricians, and pauses when the inspector moves the date. Most platforms are strong at one shape and tolerable at the other. Decide which one carries most of your revenue before you sit through a single demo. Same-day routing meets the same tests across trades, laid out in [Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 ### The callback problem
 

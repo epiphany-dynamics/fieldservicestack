@@ -21,7 +21,7 @@ A plumber running 10 service calls a day and an HVAC shop running 10 service cal
 
 Flat rate pricing is the other big differentiator. Most HVAC shops price by the job, not by the hour. A platform that handles flat rate pricebooks natively means your techs quote consistent, margin-protected prices in the field. A platform that forces you into hourly billing or manual workarounds creates pricing chaos that costs you money on every call.
 
-Maintenance agreements are recurring revenue. The platform needs to manage renewals, automate billing, send reminders, and flag upcoming service visits. If your software treats maintenance agreements as an afterthought, your renewal rate will reflect that.
+Maintenance agreements are recurring revenue. The platform needs to manage renewals, automate billing, send reminders, and flag upcoming service visits. If your software treats maintenance agreements as an afterthought, your renewal rate will reflect that. Renewals are one item on the longer list in [How to Automate Your HVAC Business: Stop Losing Calls and Jobs (2026)](https://epiphanydynamics.ai/blog/how-to-automate-your-hvac-business/).
 
 ## The 5 Best HVAC Software Platforms in 2026
 

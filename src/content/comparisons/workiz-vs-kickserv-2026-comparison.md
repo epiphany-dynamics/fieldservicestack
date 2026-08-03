@@ -103,7 +103,7 @@ If you use the full 5-user allotment, your effective per-user cost looks somethi
 * Standard: $275 / 5 ≈ **$55/user/month**
 * Pro: $325 / 5 ≈ **$65/user/month**
 
-That phone/communication add-on can definitely push your total monthly bill up, especially if you have many team members using it.
+That phone/communication add-on can definitely push your total monthly bill up, especially if you have many team members using it. Priced against a standalone alternative, [AI Receptionist for Electricians: Setup, Cost, and Real ROI in 2026](https://epiphanydynamics.ai/blog/ai-receptionist-for-electricians-setup-cost-roi-2026/) shows what the same call coverage costs.
 
 ### Kickserv Pricing (2026)
 

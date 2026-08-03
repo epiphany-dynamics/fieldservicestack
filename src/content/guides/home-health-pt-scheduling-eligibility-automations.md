@@ -83,7 +83,7 @@ A soft hold is the piece most boards are missing. The slot stays reserved and vi
 
 Step six is where a lot of verified visits still evaporate. [Automated Appointment Reminders That Protect Your Dispatch Board](/guides/automated-appointment-reminders/) covers reminder timing and the cancellation window that actually lets you refill a slot.
 
-If you are not sure which of the seven to build first, run an audit of your own dispatch to invoice path before buying anything. [How to Automate Business Processes: Run a Dispatch-to-Invoice Audit First](/guides/how-to-automate-business-processes/) is the starting point, and it will usually tell you the bottleneck is not where you assumed.
+If you are not sure which of the seven to build first, run an audit of your own dispatch to invoice path before buying anything. [How to Automate Business Processes: Run a Dispatch-to-Invoice Audit First](/guides/how-to-automate-business-processes/) is the starting point, and it will usually tell you the bottleneck is not where you assumed. For a slower on-ramp, [Eligibility automations for physical therapy: a beginner path](https://epiphany.help/articles/eligibility-automations-physical-therapy) walks the same ground at a lower technical level.
 
 ## Invoice faster once coverage is confirmed
 

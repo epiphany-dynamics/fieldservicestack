@@ -35,7 +35,7 @@ networkLinks:
 
 **Automated appointment reminders cut no-show service calls by confirming the customer before a truck rolls. For field service teams, the real win is dispatch: a confirmed stop holds its window, a canceled stop frees two hours, and a reply text reaches the office before the technician wastes a drive.**
 
-Most reminder advice is written for dentists and salons, where a missed appointment costs one empty chair. In field service, a no-show costs the drive out, the drive back, the fuel, the technician's hour, and the stop you pushed to tomorrow to make room. The reminder is not a courtesy. It is a scheduling instrument.
+Most reminder advice is written for dentists and salons, where a missed appointment costs one empty chair. In field service, a no-show costs the drive out, the drive back, the fuel, the technician's hour, and the stop you pushed to tomorrow to make room. The reminder is not a courtesy. It is a scheduling instrument. The wider recovery playbook behind that cost sits in [How to Deal with No-Shows: A Real Fix for Service Businesses in 2026](https://epiphanydynamics.ai/blog/how-to-deal-with-no-shows/).
 
 ## What reminders actually protect on a service day
 

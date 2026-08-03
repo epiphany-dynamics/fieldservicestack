@@ -93,7 +93,7 @@ For businesses between roughly 5 and 15 technicians, this is where the decision 
 
 **ServiceTitan was built around HVAC and adjacent trades and remains strongest there. For cleaning businesses, Jobber is the more natural fit. Both platforms serve plumbing and electrical, but ServiceTitan's architecture handles complex, multi-crew field service operations better. Cleaning operations benefit from Jobber's simpler recurring schedule management and lower administrative overhead.**
 
-<a href="/guides/best-hvac-software-2026">HVAC shops</a> should look seriously at ServiceTitan. It was built for that world. The pricebook depth, the dispatch complexity, the equipment history: all of it reflects years of building specifically for HVAC operators.
+<a href="/guides/best-hvac-software-2026">HVAC shops</a> should look seriously at ServiceTitan. It was built for that world. The pricebook depth, the dispatch complexity, the equipment history: all of it reflects years of building specifically for HVAC operators. What AI adds on top of that build is broken down in [ServiceTitan Integration: How AI Completes Your HVAC Workflow](https://epiphanydynamics.ai/blog/servicetitan-ai-integration/).
 
 Cleaning businesses are a different story. I've talked to enough cleaning operators to know that neither platform is perfect for them. Both miss things: proof of service per visit, subscription billing for recurring residential contracts, booking drop-off recovery. But Jobber's simpler workflows and lower cost fit the cleaning business model better.
 

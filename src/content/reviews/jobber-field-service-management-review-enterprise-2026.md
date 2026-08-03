@@ -162,7 +162,7 @@ draft: false
 
 <p>Solo operators and small crews (1-3 users) can start on Core at $49/month and have most of what they need. A solo plumber doing 8-10 calls a day needs scheduling, invoicing, and payment collection. Core handles that without overcomplicating things.</p>
 
-<p>What Jobber is not built for: large multi-division operations with 20-plus technicians across multiple service lines, companies that need custom dispatch logic or complex per-project job costing, or businesses that require dedicated implementation support and a named customer success manager baked into the contract. For those use cases, <a href="/reviews/servicetitan-review-2026">ServiceTitan's platform</a> is the honest comparison to make, even knowing what it costs and how long it takes to stand up.</p>
+<p>What Jobber is not built for: large multi-division operations with 20-plus technicians across multiple service lines, companies that need custom dispatch logic or complex per-project job costing, or businesses that require dedicated implementation support and a named customer success manager baked into the contract. For those use cases, <a href="/reviews/servicetitan-review-2026">ServiceTitan's platform</a> is the honest comparison to make, even knowing what it costs and how long it takes to stand up. Operations that land there often add the phone and intake layer covered in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a>.</p>
 
 <h2>Verdict</h2>
 

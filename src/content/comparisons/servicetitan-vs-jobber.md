@@ -60,7 +60,7 @@ Jobber's scheduling is straightforward. Drag-and-drop calendar, technician views
 
 ServiceTitan's dispatch board is built for scale. Smart dispatch recommendations, capacity planning, zone-based routing, and technician skill matching all help when you are managing 30+ daily jobs across a large service area. The real-time GPS tracking and estimated arrival updates keep customers informed automatically. Enterprise shops on that board often add [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/) for phones.
 
-For a 5-person crew, Jobber's scheduling is more than sufficient. For a 25-person operation, ServiceTitan's dispatch intelligence starts saving real money on drive time and technician utilization. The crossover point where dispatch complexity justifies ServiceTitan's cost is typically around 12 to 15 technicians.
+For a 5-person crew, Jobber's scheduling is more than sufficient. For a 25-person operation, ServiceTitan's dispatch intelligence starts saving real money on drive time and technician utilization. The crossover point where dispatch complexity justifies ServiceTitan's cost is typically around 12 to 15 technicians. A smarter board still leaves the phone unanswered, a gap [ServiceTitan Integration: How AI Completes Your HVAC Workflow](https://epiphanydynamics.ai/blog/servicetitan-ai-integration/) addresses directly.
 
 ## Reporting and Analytics
 

@@ -61,7 +61,7 @@ Renewal tracking is particularly valuable. When 200 maintenance agreements come 
 
 Phone integration records inbound calls, links them to customer records, and scores CSR performance. This creates accountability for how your office team handles calls and reveals conversion rates at the phone stage. Third-party layers on top of that stack are covered in [AI tools that integrate with ServiceTitan](https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/).
 
-Payroll processing, equipment tracking, permit management, and a built-in financing option for customers round out the feature list. The financing option works similarly to Housecall Pro's Wisetack integration, allowing techs to offer payment plans at the door.
+Payroll processing, equipment tracking, permit management, and a built-in financing option for customers round out the feature list. The financing option works similarly to Housecall Pro's Wisetack integration, allowing techs to offer payment plans at the door. The gaps those modules leave are where [ServiceTitan Integration: How AI Completes Your HVAC Workflow](https://epiphanydynamics.ai/blog/servicetitan-ai-integration/) picks up.
 
 Inventory management is built in natively, tracking parts, materials, and truck stock tied to job costing. For trades that manage significant inventory, this eliminates the need for a separate system and prevents the reconciliation headaches that come with managing inventory outside your field service platform.
 

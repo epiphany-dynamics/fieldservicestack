@@ -57,7 +57,7 @@ Your payers are more varied than a clinic's. A home warranty administrator issui
 | Customer responsibility | Who covers the trip fee or deductible, and how much? | Technician has an argument on the doorstep about a fee |
 | Equipment coverage | What is the model, serial, and install date? | Parts are out of warranty and nobody budgeted for them |
 
-The person who answers these matters less than whether they get asked every single time. A dispatcher on the phone, a required field on the web form, and a text reply script all work. Human memory during a busy Monday does not.
+The person who answers these matters less than whether they get asked every single time. A dispatcher on the phone, a required field on the web form, and a text reply script all work. Human memory during a busy Monday does not. Owners standing up their first script can follow [Eligibility automations for physical therapy: start here](https://epiphany.help/articles/eligibility-automations-physical-therapy-getting-started) before touching any software.
 
 ## Build the gate into intake, not into the invoice
 

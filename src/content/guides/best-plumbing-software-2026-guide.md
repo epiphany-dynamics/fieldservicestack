@@ -105,7 +105,7 @@ The multi-user pricing at $30/month per additional user is reasonable for small 
 
 Workiz is built for service businesses with high inbound call volumes and focuses heavily on the lead-to-job conversion pipeline. The built-in phone system tracks every inbound call, records conversations, and ties them to customer records. For plumbing companies that run Google LSA or PPC campaigns and need to know which calls convert to booked jobs, this attribution is valuable.
 
-The online booking widget lets customers schedule service directly from your website, reducing the phone volume that overwhelms small office teams during peak periods. The dispatch board includes drag-and-drop scheduling with technician GPS tracking.
+The online booking widget lets customers schedule service directly from your website, reducing the phone volume that overwhelms small office teams during peak periods. The dispatch board includes drag-and-drop scheduling with technician GPS tracking. Cutting that phone volume without losing bookings is the subject of [Automated Scheduling Software: Cut No-Shows and Admin Time](https://epiphanydynamics.ai/blog/automated-scheduling-software-guide-2026/).
 
 Automated text messaging keeps customers informed throughout the service process. Appointment confirmations, on-my-way notifications, and post-service review requests run without manual effort.
 

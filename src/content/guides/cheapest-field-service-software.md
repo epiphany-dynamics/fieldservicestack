@@ -76,7 +76,7 @@ draft: false
 
 <p><a href="/reviews/jobber-review-2026">Jobber</a> is probably the most widely used field service platform among small contractors in the $75K-$300K revenue range. The Core plan at $49/month gives a solo operator a complete set of tools: scheduling, client management, quoting, invoicing, and online payments. The Connect plan at $129/month adds automation, two-way text messaging, and multi-user access for up to 5 team members.</p>
 
-<p>If you're running a 2-3 person plumbing or landscaping crew, Jobber is where a lot of people land and stay for years. The mobile app is one of the better ones in this price range. Job notes, photos, client history, and signature collection all work cleanly in the field. The dispatch board is clear enough that even a non-technical owner can figure out who's where without a phone call.</p>
+<p>If you're running a 2-3 person plumbing or landscaping crew, Jobber is where a lot of people land and stay for years. The mobile app is one of the better ones in this price range. Job notes, photos, client history, and signature collection all work cleanly in the field. The dispatch board is clear enough that even a non-technical owner can figure out who's where without a phone call. Crews weighing that board against a dispatch-first setup can read <a href="https://epiphanydynamics.ai/blog/plumbing-dispatch-software/">Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It</a>.</p>
 
 <p>QuickBooks Online integration is native and solid on all paid plans. Invoices, customer records, and payments sync without manual intervention. If your bookkeeper reconciles in QuickBooks every week, this alone is worth the subscription cost.</p>
 

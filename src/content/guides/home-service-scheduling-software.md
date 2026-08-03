@@ -46,7 +46,7 @@ These expose real availability to the customer based on rules you set: service t
 
 ### Dispatch-first tools
 
-Here the board is the source of truth and online booking is a request queue that a human confirms. This fits emergency trades, multi-day installs, and anything that needs a site visit before the work is scoped. A panel upgrade or a service change is not a slot you can safely hand to a booking widget, which is why the [2026 electrician scheduling software buying guide](/guides/electrician-scheduling-software/) treats permit and inspection dependencies as scheduling constraints, not afterthoughts.
+Here the board is the source of truth and online booking is a request queue that a human confirms. This fits emergency trades, multi-day installs, and anything that needs a site visit before the work is scoped. A panel upgrade or a service change is not a slot you can safely hand to a booking widget, which is why the [2026 electrician scheduling software buying guide](/guides/electrician-scheduling-software/) treats permit and inspection dependencies as scheduling constraints, not afterthoughts. Emergency plumbing work sharpens that same tradeoff, covered in [Plumbing Dispatch Software in 2026: What It Fixes and How to Evaluate It](https://epiphanydynamics.ai/blog/plumbing-dispatch-software/).
 
 Route-based trades sit in the middle. Density matters more than time of day, so the booking page should offer a day or a window, not a 9:15 a.m. start. That distinction shows up clearly in the [best irrigation service scheduling software picks for 2026](/guides/best-irrigation-service-scheduling-software-2026/), where seasonal batching beats precise appointment times.
 
