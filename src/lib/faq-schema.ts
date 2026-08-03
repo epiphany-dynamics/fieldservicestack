@@ -2,6 +2,55 @@
  * Extracts FAQ Q&A pairs from raw markdown or HTML content and returns
  * a JSON-LD FAQPage schema object, or null if no FAQ section is found.
  */
+
+const HTML_ENTITIES: Record<string, string> = {
+  '&amp;': '&',
+  '&lt;': '<',
+  '&gt;': '>',
+  '&quot;': '"',
+  '&apos;': "'",
+  '&#39;': "'",
+  '&nbsp;': ' ',
+  '&mdash;': '\u2014',
+  '&ndash;': '\u2013',
+  '&hellip;': '\u2026',
+};
+
+/**
+ * Normalizes a markdown/HTML fragment down to the plain prose that belongs in
+ * JSON-LD. Google's FAQPage spec allows a small subset of HTML in answer text,
+ * but plain text is always valid and keeps both extraction paths consistent —
+ * so link markup is reduced to its anchor text rather than carried through.
+ */
+function toPlainText(fragment: string): string {
+  return (
+    fragment
+      // Images: keep the alt text, drop the URL.
+      .replace(/!\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)/g, '$1')
+      // Inline links: keep the anchor text, drop the URL (tolerates one level
+      // of nested parens inside the URL, e.g. Wikipedia-style links).
+      .replace(/\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)/g, '$1')
+      // Bare autolinks: <https://example.com> -> https://example.com
+      .replace(/<(https?:\/\/[^>\s]+)>/g, '$1')
+      // Any remaining HTML markup, including <a href="...">...</a>.
+      .replace(/<[^>]+>/g, '')
+      // Inline code fences.
+      .replace(/`+/g, '')
+      // Emphasis markers.
+      .replace(/\*\*/g, '')
+      .replace(/\*/g, '')
+      // Leading heading markers on any line.
+      .replace(/^#+\s*/gm, '')
+      // Entities, so the schema carries real characters.
+      .replace(/&(?:amp|lt|gt|quot|apos|#39|nbsp|mdash|ndash|hellip);/g, (m) => HTML_ENTITIES[m] ?? m)
+      // Collapse runs of horizontal whitespace, then tidy blank lines.
+      .replace(/[ \t]+/g, ' ')
+      .replace(/[ \t]*\n[ \t]*/g, '\n')
+      .replace(/\n{3,}/g, '\n\n')
+      .trim()
+  );
+}
+
 export function extractFAQSchema(content: string): object | null {
   // HTML path
   const htmlSectionMatch = content.match(
@@ -19,10 +68,10 @@ export function extractFAQSchema(content: string): object | null {
         '@type': 'FAQPage',
         mainEntity: pairs.map((m) => ({
           '@type': 'Question',
-          name: m[1].replace(/<[^>]+>/g, '').trim(),
+          name: toPlainText(m[1]),
           acceptedAnswer: {
             '@type': 'Answer',
-            text: m[2].replace(/<[^>]+>/g, '').trim(),
+            text: toPlainText(m[2]),
           },
         })),
       };
@@ -42,15 +91,8 @@ export function extractFAQSchema(content: string): object | null {
     const pairs = chunks
       .map((chunk) => {
         const lines = chunk.trim().split('\n');
-        const question = lines[0].trim();
-        const answer = lines
-          .slice(1)
-          .join('\n')
-          .trim()
-          .replace(/\*\*/g, '')
-          .replace(/\*/g, '')
-          .replace(/^#+\s*/gm, '')
-          .trim();
+        const question = toPlainText(lines[0]);
+        const answer = toPlainText(lines.slice(1).join('\n'));
         return { question, answer };
       })
       .filter((p) => p.question && p.answer);
