@@ -8,7 +8,7 @@ const postSchema = z.object({
   updated: z.coerce.date().optional(),
   tags: z.array(z.string()),
   rating: z.number().min(1).max(10).optional(),
-  product: z.string().optional(),
+  product: z.string().trim().min(1).optional(),
   image: z.string().optional(),
   imageAlt: z.string().optional(),
   imageWidth: z.number().int().positive().optional(),
@@ -23,6 +23,9 @@ const postSchema = z.object({
     url: z.string().url(),
     site: z.enum(['ed', 'fss', 'calc', 'help', 'hype']),
   })).max(4).optional(),
+}).refine((post) => post.rating === undefined || post.product !== undefined, {
+  message: 'A product is required when a rating is provided',
+  path: ['product'],
 });
 
 const reviews = defineCollection({

@@ -115,6 +115,10 @@ const articleSchema = rating !== undefined
       datePublished: date.toISOString().split('T')[0],
       dateModified: (updated ?? date).toISOString().split('T')[0],
       mainEntityOfPage: { '@type': 'WebPage', '@id': pageURL },
+      itemReviewed: {
+        '@type': sectionSlug === 'gear' ? 'Product' : 'SoftwareApplication',
+        name: product,
+      },
       reviewRating: { '@type': 'Rating', ratingValue: rating, bestRating: 10, worstRating: 0 },
       ...(image ? { image: new URL(image, Astro.site).href } : {}),
     }

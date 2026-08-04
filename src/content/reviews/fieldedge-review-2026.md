@@ -4,6 +4,7 @@ description: "An honest FieldEdge review for 2026. Ratings from 304 Capterra use
 date: 2026-05-14
 tags: ["field service management", "HVAC software", "FieldEdge", "FSM software", "software review"]
 rating: 7
+product: "FieldEdge"
 image: "/images/posts/fieldedge-review-2026.png"
 imageAlt: "FieldEdge Review 2026: Features, Pricing, Pros and Cons"
 seoTitle: "FieldEdge Review 2026: Is It Worth It?"

@@ -4,6 +4,7 @@ description: "Honest Housecall Pro review for 2026. Real pricing ($59-$299/month
 date: 2026-04-16
 tags: ["Housecall Pro", "field service management", "FSM software", "HVAC software", "software review"]
 rating: 7.5
+product: "Housecall Pro"
 image: "/images/posts/housecall-pro-review-2026.png"
 imageAlt: "Housecall Pro Review 2026: Is It Worth the Price?"
 seoTitle: "Housecall Pro Review 2026: Is It Worth It?"

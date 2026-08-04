@@ -4,6 +4,7 @@ description: "Housecall Pro 2026 pricing breakdown: all three plans, true annual
 date: 2026-05-05
 tags: ["housecall pro", "field service software", "home service software", "hvac software", "field service management"]
 rating: 7
+product: "Housecall Pro"
 image: "/images/posts/housecall-pro-pricing-2026.png"
 imageAlt: "Housecall Pro Pricing 2026: Full Cost Breakdown"
 seoTitle: "Housecall Pro Pricing 2026: Full Cost Breakdown"
