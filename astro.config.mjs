@@ -3,6 +3,51 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import vercel from '@astrojs/vercel';
 import sitemap from '@astrojs/sitemap';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+// Build a map of URL pathname -> real content date, read straight off each post's
+// frontmatter, so the sitemap can emit a genuine lastmod per post instead of build
+// time. Collection dir name -> the URL segment its pages render under.
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const collectionUrlSegments = {
+  reviews: 'reviews',
+  comparisons: 'compare',
+  guides: 'guides',
+  gear: 'gear',
+};
+
+function parseFrontmatterDate(raw, key) {
+  const match = raw.match(new RegExp(`^${key}:\\s*"?([0-9]{4}-[0-9]{2}-[0-9]{2})"?\\s*$`, 'm'));
+  return match ? match[1] : null;
+}
+
+function buildLastmodMap() {
+  /** @type {Map<string, string>} */
+  const map = new Map();
+  for (const [collectionDir, urlSegment] of Object.entries(collectionUrlSegments)) {
+    const dir = path.join(__dirname, 'src', 'content', collectionDir);
+    if (!fs.existsSync(dir)) continue;
+    for (const file of fs.readdirSync(dir)) {
+      if (!file.endsWith('.md')) continue;
+      const slug = file.replace(/\.md$/, '');
+      const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
+      const frontmatterMatch = raw.match(/^---\n([\s\S]*?)\n---/);
+      if (!frontmatterMatch) continue;
+      const frontmatter = frontmatterMatch[1];
+      const updated = parseFrontmatterDate(frontmatter, 'updated');
+      const date = parseFrontmatterDate(frontmatter, 'date');
+      const lastmod = updated || date;
+      if (lastmod) {
+        map.set(`/${urlSegment}/${slug}/`, lastmod);
+      }
+    }
+  }
+  return map;
+}
+
+const lastmodByPath = buildLastmodMap();
 
 // Permanent (301) redirects for dead WordPress-era URLs still reported by Google
 // Search Console.
@@ -54,7 +99,18 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   adapter: vercel(),
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      serialize(item) {
+        const pathname = new URL(item.url).pathname;
+        const lastmod = lastmodByPath.get(pathname);
+        if (lastmod) {
+          return { ...item, lastmod };
+        }
+        return item;
+      },
+    }),
+  ],
   markdown: {
     shikiConfig: {
       theme: 'github-dark',
