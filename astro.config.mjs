@@ -19,13 +19,16 @@ const collectionUrlSegments = {
 };
 
 function parseFrontmatterDate(raw, key) {
-  const match = raw.match(new RegExp(`^${key}:\\s*"?([0-9]{4}-[0-9]{2}-[0-9]{2})"?\\s*$`, 'm'));
+  const match = raw.match(new RegExp(`^${key}:\\s*["']?([0-9]{4}-[0-9]{2}-[0-9]{2})["']?\\s*$`, 'm'));
   return match ? match[1] : null;
 }
 
 function buildLastmodMap() {
   /** @type {Map<string, string>} */
   const map = new Map();
+  /** @type {Map<string, string>} */
+  const latestByCollection = new Map();
+  let latestOverall = null;
   for (const [collectionDir, urlSegment] of Object.entries(collectionUrlSegments)) {
     const dir = path.join(__dirname, 'src', 'content', collectionDir);
     if (!fs.existsSync(dir)) continue;
@@ -41,8 +44,22 @@ function buildLastmodMap() {
       const lastmod = updated || date;
       if (lastmod) {
         map.set(`/${urlSegment}/${slug}/`, lastmod);
+        if (!latestByCollection.has(collectionDir) || lastmod > latestByCollection.get(collectionDir)) {
+          latestByCollection.set(collectionDir, lastmod);
+        }
+        if (!latestOverall || lastmod > latestOverall) {
+          latestOverall = lastmod;
+        }
       }
     }
+  }
+  for (const [collectionDir, urlSegment] of Object.entries(collectionUrlSegments)) {
+    const latest = latestByCollection.get(collectionDir);
+    if (latest) map.set(`/${urlSegment}/`, latest);
+  }
+  if (latestOverall) {
+    map.set('/', latestOverall);
+    map.set('/about/', latestOverall);
   }
   return map;
 }
