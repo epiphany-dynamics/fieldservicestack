@@ -1,43 +1,63 @@
-# Astro Starter Kit: Minimal
+# Field Service Stack
 
-```sh
-npm create astro@latest -- --template minimal
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+An independent review site covering field service management software and job site gear, with head to head comparisons and buyer guides for contractors.
+
+Live at [fieldservicestack.com](https://fieldservicestack.com).
+
+## Why this exists
+
+Software reviews in the trades are often funded by the vendors being reviewed, which makes the ranking hard to trust. This site publishes comparisons and guides written to stay independent of affiliate bias, and its robots policy allows AI search and citation crawlers while blocking training crawlers.
+
+## Quickstart
+
+Requires Node 22.12 or newer, as declared in `package.json`.
+
+```bash
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Open <http://localhost:4321>. The homepage lists the newest guides, reviews, and comparisons, and any single post renders under its collection path, for example `/guides/<slug>/`. Reaching a finished page takes under a minute because every post is static markdown.
 
-## 🚀 Project Structure
+Other commands:
 
-Inside of your Astro project, you'll see the following folders and files:
+| Command | Action |
+| --- | --- |
+| `npm run build` | Production build. `prebuild` regenerates `public/llms.txt`, `postbuild` writes trailing slash redirects. |
+| `npm run preview` | Serve the build locally. |
+| `npm run gen:llms` | Regenerate `public/llms.txt` on its own. |
+| `npm run astro -- --help` | Astro CLI, including `astro check`. |
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+## How it works
+
+The site is an Astro build over four content collections, with a single schema and generated routes per collection.
+
+- Content lives under `src/content`: 107 guides, 20 comparisons, 9 reviews, and 3 gear posts.
+- `src/content.config.ts` defines one zod schema for all four collections. It requires title, description, date, tags, `seoTitle`, and `focusKeyword`, and it rejects a rating that does not name the product being rated.
+- Each collection has an index page plus a `[...slug]` page that renders the post through `src/layouts/Post.astro`, so adding a markdown file is enough to publish a page.
+- `src/pages/search.json.ts` emits a search index that `src/components/SearchPalette.astro` reads in the browser, and `src/pages/rss.xml.ts` emits the feed.
+- `astro.config.mjs` reads each post's frontmatter date so the sitemap carries a real `lastmod` rather than the build time, and `scripts/gen-llms-txt.mjs` builds `public/llms.txt` from the collections on every build.
+
+`vercel.json` redirects the `www` host to the apex domain and sets `X-Content-Type-Options`, `Referrer-Policy`, and `Permissions-Policy` headers. `public/robots.txt` allows search and citation crawlers and disallows training crawlers.
+
+## Tests
+
+Tests: none yet. The repo has no test script and no test file. The current check is the build:
+
+```bash
+npm run build
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+The content schema is what catches malformed posts, since every markdown file is validated at build time.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Roadmap and known limits
 
-Any static assets, like images, can be placed in the `public/` directory.
+- No automated tests or continuous checks beyond the build itself.
+- The schema requires `seoTitle` and `focusKeyword` on every post, so new content must supply both.
+- Images are referenced by path from frontmatter and nothing verifies that a referenced file exists.
 
-## 🧞 Commands
+## License
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+MIT (see LICENSE).
