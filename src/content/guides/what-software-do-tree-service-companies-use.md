@@ -35,11 +35,23 @@ Four things: crews with certifications, equipment like chippers and bucket truck
 
 ### When is a tree-specific platform worth the cost?
 
-When you dispatch multiple crews against shared equipment or a meaningful share of revenue comes from recurring commercial contracts. Above roughly 30 percent recurring contract work, property-history tracking pays for itself. Below two to three crews, a general tool with strong invoicing is usually the better fit.
+When you dispatch multiple crews against shared equipment or a meaningful share of revenue comes from recurring commercial contracts. Above roughly 30 percent recurring contract work, property-history tracking pays for itself. Below two to three crews, a general tool with strong invoicing is usually the better fit — the added cost of tree-specific features mainly pays off when you're coordinating multiple crews against shared assets like chippers or cranes, or managing dozens of recurring commercial properties.
 
 ### Can one tool handle both scheduling and invoicing for tree work?
 
-Yes. General field service tools like Jobber and Housecall Pro handle scheduling, invoicing, and customer communication well. The gap is equipment and certification tracking, which many small tree companies cover manually with notes or a spreadsheet until crew count grows.
+Yes. General field service tools like Jobber and Housecall Pro handle scheduling, invoicing, and customer communication well. The gap is equipment conflicts and certification requirements, which general tools don't model as distinct objects — many small tree companies cover that manually with notes or a shared spreadsheet until crew count grows.
+
+### How much does tree service management software cost?
+
+Pricing varies by vendor and crew count, and any specific figure here would be illustrative rather than sourced. Ask vendors for current per-user or per-crew pricing directly, and confirm whether equipment scheduling and property records are included or sold as add-ons before comparing totals.
+
+### Do tree companies need separate software just for chipper and equipment tracking?
+
+Not necessarily separate software, but you do need equipment as a schedulable object inside whatever platform you use, not just a note field. If your current tool can't show equipment availability alongside crew availability on the same screen, that's the workaround to fix first, either through a tree-specific platform or an equipment-tracking add-on.
+
+### How is tree service software different from lawn care or landscaping software?
+
+Tree work centers on hazard assessment, aerial and rigging equipment, and certification-dependent crew assignments, while general lawn care software centers on route density and recurring visit cadence. The lawn care accounting software guide covers a job-costing model built around routes rather than individual hazardous-tree scope, which is the key structural difference.
 
 ## What tree service software actually needs to track
 
@@ -90,31 +102,5 @@ For a side-by-side on how these tradeoffs play out in adjacent trades, the [gara
 **Switching software mid-season is risky if your crews are already hitting deadlines with a workaround that functions, even imperfectly. Migrating property records, equipment schedules, and open quotes takes real office hours, and a rushed switch during peak trimming season can cause more missed jobs than the old system's inefficiencies ever did.**
 
 If your current setup is a spreadsheet plus a shared calendar and it's genuinely causing missed equipment conflicts or lost change orders, that's worth fixing. But if the pain is mostly "the software feels dated" without concrete lost revenue, wait for your off-season to migrate. Compare vendors and pull pricing during slower months using a resource like [software comparisons](/compare/), then move data over before the next busy season starts, not in the middle of it.
-
-## Frequently asked questions
-
-### What software do most tree service companies use for scheduling?
-
-It depends on crew count. Small operations (one to two crews) commonly use general field service tools like Jobber or Housecall Pro. Companies running three or more crews with recurring commercial contracts more often use tree- or landscape-specific platforms such as SingleOps or Arborgold, which track equipment and property history natively.
-
-### Is a tree-specific platform worth it for a small crew?
-
-Usually not below two to three crews. The added cost of equipment scheduling and property-history features mainly pays off when you're coordinating multiple crews against shared assets like chippers or cranes, or managing dozens of recurring commercial properties.
-
-### Can general field service software like Jobber handle tree work?
-
-Yes, for scheduling, invoicing, and customer communication, it works well. The gap is equipment conflicts and certification requirements, which general tools don't model as distinct objects. Many small tree companies handle that gap manually with notes or a shared spreadsheet until crew count grows.
-
-### How much does tree service management software cost?
-
-Pricing varies by vendor and crew count, and any specific figure here would be illustrative rather than sourced. Ask vendors for current per-user or per-crew pricing directly, and confirm whether equipment scheduling and property records are included or sold as add-ons before comparing totals.
-
-### Do tree companies need separate software just for chipper and equipment tracking?
-
-Not necessarily separate software, but you do need equipment as a schedulable object inside whatever platform you use, not just a note field. If your current tool can't show equipment availability alongside crew availability on the same screen, that's the workaround to fix first, either through a tree-specific platform or an equipment-tracking add-on.
-
-### How is tree service software different from lawn care or landscaping software?
-
-Tree work centers on hazard assessment, aerial and rigging equipment, and certification-dependent crew assignments, while general lawn care software centers on route density and recurring visit cadence. The lawn care accounting software guide covers a job-costing model built around routes rather than individual hazardous-tree scope, which is the key structural difference.
 
 If you're comparing specific tree service platforms against your current stack, start with [field service software comparisons](/compare/) to line up equipment tracking, property records, and pricing side by side before you commit to a switch.
