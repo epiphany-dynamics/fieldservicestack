@@ -23,6 +23,24 @@ networkLinks: []
 
 **Tree service companies typically run a stack built around four objects: crew and equipment scheduling, chipper and truck logistics, property records per job site, and fast field estimating. Generic calendar-based scheduling tools miss chipper conflicts and crew certifications. This guide breaks down which software categories cover each object and how to pick a stack that fits your crew size and job mix.**
 
+## Frequently Asked Questions
+
+### What software do most tree service companies use?
+
+Small operations with one or two crews commonly run general field service tools like Jobber or Housecall Pro. Companies running three or more crews with recurring commercial contracts more often use tree- or landscape-specific platforms like SingleOps or Arborgold, which track equipment and property history natively.
+
+### What does tree service software need to track that generic scheduling tools miss?
+
+Four things: crews with certifications, equipment like chippers and bucket trucks as schedulable objects, property records with tree inventory and hazard notes, and itemized quotes tied to specific trees. Generic calendar tools treat jobs as interchangeable appointments, so they cannot flag equipment double-booking or certification conflicts.
+
+### When is a tree-specific platform worth the cost?
+
+When you dispatch multiple crews against shared equipment or a meaningful share of revenue comes from recurring commercial contracts. Above roughly 30 percent recurring contract work, property-history tracking pays for itself. Below two to three crews, a general tool with strong invoicing is usually the better fit.
+
+### Can one tool handle both scheduling and invoicing for tree work?
+
+Yes. General field service tools like Jobber and Housecall Pro handle scheduling, invoicing, and customer communication well. The gap is equipment and certification tracking, which many small tree companies cover manually with notes or a spreadsheet until crew count grows.
+
 ## What tree service software actually needs to track
 
 **Tree work software has to model four core objects: crews (with certifications like ISA arborist credentials or aerial rescue training), equipment (chippers, stump grinders, bucket trucks, cranes), property records (tree inventory, hazard notes, utility lines, access constraints), and quotes tied to specific trees or removal scope. A tool built for cleaning or lawn crews rarely handles all four correctly.**

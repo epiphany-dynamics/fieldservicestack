@@ -6,11 +6,31 @@ import { getCollection } from 'astro:content';
 
 const allGuides = (await getCollection('guides', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const siteUrl = 'https://fieldservicestack.com';
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: "Buyer's Guides - Field Service Stack",
+  description:
+    'Curated software recommendations by trade. Find the best tools for HVAC, plumbing, electrical, landscaping, and general field service businesses.',
+  url: `${siteUrl}/guides/`,
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: allGuides.map((post, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${siteUrl}/guides/${post.id}/`,
+      name: post.data.title,
+    })),
+  },
+};
 ---
 
 <Base
   title="Buyer's Guides - Field Service Stack"
   description="Curated software recommendations by trade. Find the best tools for HVAC, plumbing, electrical, landscaping, and general field service businesses."
+  schema={collectionSchema}
 >
   <section class="pt-12 pb-14 md:pt-16 md:pb-20">
     <div class="max-w-[65ch] mb-10">
