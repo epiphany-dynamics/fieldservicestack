@@ -14,8 +14,6 @@ const externalLinks = [
   { label: 'AI Automation', href: 'https://epiphanydynamics.ai' },
 ];
 
-const shopUrl = 'https://shop.fieldservicestack.com';
-
 function isActive(href: string): boolean {
   if (href === '/') return pathname === '/';
   return pathname.startsWith(href);
@@ -88,19 +86,6 @@ function isActive(href: string): boolean {
         </svg>
         <kbd class="search-kbd hidden md:inline">⌘K</kbd>
       </button>
-
-      <a
-        href={shopUrl}
-        class="shop-link shrink-0 inline-flex items-center gap-2 rounded-full border border-border-strong px-4 py-1.5 text-sm font-body font-medium text-cream"
-        data-magnetic
-        aria-label="Shop Field Service Stack gear"
-      >
-        Shop
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="M6 7h12l-1 13H7L6 7Z" />
-          <path d="M9 9V5a3 3 0 0 1 6 0v4" />
-        </svg>
-      </a>
     </div>
   </div>
 </header>
@@ -196,18 +181,5 @@ function isActive(href: string): boolean {
     font-family: var(--font-mono);
     font-size: 0.65rem;
     letter-spacing: 0.05em;
-  }
-
-  /* Shop — outline pill, fills on hover. No permanent highlight. */
-  .shop-link {
-    transition:
-      background-color 0.25s var(--ease-out-expo),
-      border-color 0.25s var(--ease-out-expo),
-      color 0.25s var(--ease-out-expo);
-  }
-  .shop-link:hover {
-    background: var(--color-accent);
-    border-color: var(--color-accent);
-    color: #050505;
   }
 </style>
