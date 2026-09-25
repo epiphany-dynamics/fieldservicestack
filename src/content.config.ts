@@ -23,6 +23,19 @@ const postSchema = z.object({
     url: z.string().url(),
     site: z.enum(['ed', 'fss', 'calc', 'help', 'hype']),
   })).max(4).optional(),
+  editorial: z.object({
+    kind: z.enum(['guide', 'comparison', 'research']),
+    takeaways: z.tuple([z.string().trim().min(1), z.string().trim().min(1), z.string().trim().min(1)]),
+    stats: z.array(z.object({
+      value: z.string().trim().min(1),
+      label: z.string().trim().min(1),
+      sourceName: z.string().trim().min(1),
+      sourceUrl: z.string().url().refine((url) => /^https?:\/\//i.test(url)),
+      sourceDate: z.string().trim().min(1),
+    })).optional(),
+    methodology: z.string().trim().min(1).optional(),
+    verifiedAt: z.string().trim().min(1).optional(),
+  }).optional(),
 }).refine((post) => post.rating === undefined || post.product !== undefined, {
   message: 'A product is required when a rating is provided',
   path: ['product'],
