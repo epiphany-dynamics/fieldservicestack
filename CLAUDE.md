@@ -1,0 +1,3 @@
+# Field Service Stack session record
+
+2026-09-25: In an isolated worktree from `origin/main`, added optional Gravity editorial metadata, three takeaways, heading-derived contents links, cited statistics, methodology and scoped editorial prose styling. All 144 existing published articles built. A temporary research fixture rendered with distinct duplicate-heading anchors and working links; it was removed after verification. The site build passed; `astro check` reports 16 existing errors in the untouched `astro.config.mjs` and pre-existing lightbox script. The feature branch awaits independent SHA review and merge. No post was published.
