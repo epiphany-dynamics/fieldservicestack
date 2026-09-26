@@ -7,4 +7,4 @@
 
 ## Codex Resume
 
-2026-09-25: `codex/2026-09-25-gravity-editorial` adds optional editorial frontmatter and branded cards, anchor navigation, citations and methodology across four article routes. The fixture build and rendered HTML checks passed; existing content rendered. `astro check` still reports 16 pre-existing type errors in `astro.config.mjs` and the legacy lightbox script. Independent exact-SHA review is pending before a protected-branch merge.
+2026-09-25: `codex/2026-09-25-wide-editorial` widens all four article routes through the shared Post layout. The header, image, tables, and media use a 72rem canvas; paragraphs use a 75ch measure. The description appears before optional summary modules, and contents sit beside takeaways on desktop. Exact-SHA review and release are pending; no post was published. The previous resume is preserved in `CLAUDE.md`.

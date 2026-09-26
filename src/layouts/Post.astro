@@ -166,7 +166,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
 <Base title={seoTitle} description={description} ogImage={image} ogImageWidth={imageWidth} ogImageHeight={imageHeight} schema={schemas}>
   <article class="pt-10 pb-4 md:pt-16">
     <!-- Post Header -->
-    <header class="max-w-[65ch] mx-auto mb-10 md:mb-14">
+    <header class="post-header mx-auto mb-10 md:mb-14">
       <!-- Tags -->
       {tags.length > 0 && (
         <div class="rise rise-1 flex flex-wrap gap-2 mb-6">
@@ -179,6 +179,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       )}
 
       <h1 class="rise rise-2 post-title mb-5">{title}</h1>
+      <p class="rise rise-3 post-dek mb-6">{description}</p>
 
       {product && (
         <p class="rise rise-3 text-muted text-lg mb-5 font-body">{product}</p>
@@ -265,7 +266,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
     )}
 
     <!-- Article Body -->
-    <div class:list={['prose mx-auto', { 'editorial-prose': editorial }]}>
+    <div class:list={['prose article-prose mx-auto', { 'editorial-prose': editorial }]}>
       <slot />
     </div>
 
@@ -302,8 +303,11 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
 </Base>
 
 <style>
-  .editorial-intro, .editorial-method { max-width: 65ch; }
-  .editorial-intro { margin-bottom: 2.75rem; }
+  .post-header, .editorial-intro { max-width: 72rem; }
+  .post-header h1 { max-width: 25ch; }
+  .post-dek { max-width: 75ch; color: var(--color-cream-dim); font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.55; }
+  .editorial-intro { display: grid; gap: 1.25rem; align-items: start; margin-bottom: 2.75rem; }
+  .editorial-method { max-width: 75ch; }
   .editorial-panel, .editorial-toc, .editorial-stats, .editorial-method {
     border: 1px solid var(--color-border-strong);
     border-radius: 1rem;
@@ -311,6 +315,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
     padding: clamp(1.25rem, 4vw, 2rem);
     margin-bottom: 1.25rem;
   }
+  .editorial-panel, .editorial-toc { margin-bottom: 0; }
   .editorial-eyebrow {
     color: var(--color-accent);
     font: 600 .7rem var(--font-mono);
@@ -321,9 +326,10 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
   .editorial-heading { font-size: clamp(1.35rem, 3vw, 1.8rem); margin-bottom: 1.25rem; }
   .takeaway-grid, .stats-grid { display: grid; gap: .8rem; }
   .takeaway-grid { list-style: none; padding: 0; }
-  .takeaway-card, .stat-card { min-width: 0; border: 1px solid var(--color-border); border-radius: .7rem; background: var(--color-raised); padding: 1rem; }
-  .takeaway-card span { display: block; color: var(--color-accent); font: 600 .75rem var(--font-mono); margin-bottom: .55rem; }
+  .takeaway-card { display: flex; gap: 1rem; min-width: 0; padding: .8rem 0; border-top: 1px solid var(--color-border); }
+  .takeaway-card span { flex: none; color: var(--color-accent); font: 600 .75rem var(--font-mono); padding-top: .25rem; }
   .takeaway-card p { line-height: 1.55; }
+  .stat-card { min-width: 0; border: 1px solid var(--color-border); border-radius: .7rem; background: var(--color-raised); padding: 1rem; }
   .editorial-toc ol { display: grid; gap: .7rem; padding-left: 1.2rem; }
   .editorial-toc li::marker { color: var(--color-accent); }
   .editorial-toc a { color: var(--color-cream); text-decoration: underline; text-decoration-color: var(--color-border-strong); text-underline-offset: .2em; }
@@ -340,12 +346,16 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
   :global(.editorial-prose table) { white-space: normal; }
   :global(.editorial-prose th), :global(.editorial-prose td) { min-width: 9rem; vertical-align: top; }
   :global(.editorial-prose li) { padding-left: .2rem; }
+  @media (min-width: 900px) {
+    .editorial-intro:has(.editorial-toc) { grid-template-columns: minmax(0, 2.4fr) minmax(14rem, 1fr); }
+    .editorial-toc { position: sticky; top: 5rem; }
+    .editorial-stats { grid-column: 1 / -1; }
+  }
   @media (min-width: 640px) {
-    .takeaway-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
     .stats-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   .post-title {
-    font-size: clamp(2rem, 5vw, 3.25rem);
+    font-size: clamp(2.4rem, 5vw, 4.5rem);
     line-height: 1.08;
   }
 

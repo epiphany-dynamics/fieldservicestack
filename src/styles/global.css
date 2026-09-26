@@ -231,6 +231,35 @@ a:hover {
 .prose {
   max-width: 65ch;
 }
+.article-prose {
+  width: 100%;
+  max-width: 72rem;
+}
+.article-prose > :is(p, h2, h3, h4, h5, h6, ul, ol, blockquote, pre) {
+  max-width: 75ch;
+}
+.article-prose > :is(figure, picture, img, table) {
+  width: 100%;
+  max-width: 100%;
+  margin-block: 2rem;
+}
+.article-prose > p:has(> img) {
+  width: 100%;
+  max-width: 100%;
+  margin-block: 2rem;
+}
+.article-prose > :is(figure, picture, img) img {
+  width: 100%;
+  height: auto;
+}
+.article-prose h2 {
+  font-size: clamp(1.65rem, 2.5vw, 2.35rem);
+  line-height: 1.18;
+}
+.article-prose h3 {
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+  line-height: 1.25;
+}
 .prose p {
   margin-bottom: 1.25rem;
   line-height: 1.75;
