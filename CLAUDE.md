@@ -7,3 +7,11 @@
 ### Archived Codex Resume from earlier September 25 work
 
 2026-09-25: `codex/2026-09-25-gravity-editorial` adds optional editorial frontmatter and branded cards, anchor navigation, citations and methodology across four article routes. The fixture build and rendered HTML checks passed; existing content rendered. `astro check` still reports 16 pre-existing type errors in `astro.config.mjs` and the legacy lightbox script. Independent exact-SHA review is pending before a protected-branch merge.
+
+### Archived Codex Resume from September 25 wide layout
+
+2026-09-25: `codex/2026-09-25-wide-editorial` widens all four article routes through the shared Post layout. The header, image, tables, and media use a 72rem canvas; paragraphs use a 75ch measure. The description appears before optional summary modules, and contents sit beside takeaways on desktop. Exact-SHA review and release are pending; no post was published. The previous resume is preserved in `CLAUDE.md`.
+
+## 2026-09-29 — Gravity article presentation
+
+The shared Post layout now gives articles dated August 1, 2026 or later full-width prose within a 96rem article canvas and a sticky right reading guide drawn from rendered H2 anchors. The guide is inside the article-body grid, so it ends before methodology, author, network links, and CTA. Earlier posts retain their previous design; existing takeaways, statistics, schema, and metadata remain. `npm run build` passed with 154 pages. Local browser inspection at 1280px and 390px confirmed the guide's position and no horizontal overflow. No drafts were published. The branch awaits independent exact-SHA review and release.
