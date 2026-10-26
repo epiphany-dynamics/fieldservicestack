@@ -127,7 +127,7 @@ draft: false
 
 <p>The review automation gap is worth calling out. Housecall Pro sends automatic review requests after a job closes. If you're a 5-truck HVAC company trying to build up Google reviews without manually texting every customer after every call, that feature alone can justify the subscription cost. Missed summer rings for that trade are broken down in <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-hvac-breakdown-2026/">AI receptionist for HVAC</a>. FieldPulse doesn't have native review automation, and adding a third-party tool to fill the gap costs extra money and extra setup time.</p>
 
-<p>On the flip side, FieldPulse's custom forms are genuinely useful for trades with documentation requirements. Pest control with treatment records, HVAC with equipment inspection checklists, roofing with damage assessments. The ability to build those forms inside the job record and have techs fill them on-site is better than anything Housecall Pro offers natively. If you're also cross-shopping Jobber, the <a href="/comparisons/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse 2026 comparison</a> is worth your time before you land on either of these two.</p>
+<p>On the flip side, FieldPulse's custom forms are genuinely useful for trades with documentation requirements. Pest control with treatment records, HVAC with equipment inspection checklists, roofing with damage assessments. The ability to build those forms inside the job record and have techs fill them on-site is better than anything Housecall Pro offers natively. If you're also cross-shopping Jobber, the <a href="/compare/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse 2026 comparison</a> is worth your time before you land on either of these two.</p>
 
 <h2>Pricing Comparison</h2>
 

@@ -29,7 +29,7 @@ draft: false
 
 <p>The word "enterprise" gets used loosely in this industry. In field service, it usually means one of two things: you're running 20-plus technicians across multiple divisions, or you need deep reporting, custom integrations, and dedicated support that a standard subscription doesn't include. Jobber answers yes to some of those needs and no to others.</p>
 
-<p>If you're running an 8-truck plumbing crew and you want solid dispatch, automated client follow-ups, and invoicing that doesn't require chasing down payments every week, Jobber's Grow plan covers most of that. But if you're at 25 trucks with multiple supervisors, a dedicated CSR team, and specific reporting requirements for your controller, you'll hit the edges of what Jobber does within the first few months. We cover <a href="/comparisons/servicetitan-vs-jobber-2026">how that comparison plays out between Jobber and ServiceTitan</a> separately, but the short version is: ServiceTitan goes further at scale and you pay for it in both dollars and implementation complexity.</p>
+<p>If you're running an 8-truck plumbing crew and you want solid dispatch, automated client follow-ups, and invoicing that doesn't require chasing down payments every week, Jobber's Grow plan covers most of that. But if you're at 25 trucks with multiple supervisors, a dedicated CSR team, and specific reporting requirements for your controller, you'll hit the edges of what Jobber does within the first few months. We cover <a href="/compare/servicetitan-vs-jobber-2026">how that comparison plays out between Jobber and ServiceTitan</a> separately, but the short version is: ServiceTitan goes further at scale and you pay for it in both dollars and implementation complexity.</p>
 
 <p>This review focuses specifically on whether Jobber's feature set, pricing, and limitations fit operations that have genuinely outgrown basic software but aren't ready to commit to a platform with a $700-plus monthly price tag and a months-long onboarding process.</p>
 
@@ -172,7 +172,7 @@ draft: false
 
 <p>The $249/month Grow plan is competitive for what it delivers. Jobber offers a 14-day free trial, which makes it low risk to test your actual workflow against it before committing. Given how much time most contractors are losing to manual job management or disconnected tools, the payback period on Grow is typically fast if your billing is anywhere near consistent.</p>
 
-<p>For the 5-15 user range, Jobber is the right answer more often than not. For anything significantly larger, the ceiling becomes a factor worth weighing seriously, and <a href="/comparisons/servicetitan-vs-jobber">comparing Jobber against ServiceTitan side by side</a> is the exercise worth completing before you make a commitment either way.</p>
+<p>For the 5-15 user range, Jobber is the right answer more often than not. For anything significantly larger, the ceiling becomes a factor worth weighing seriously, and <a href="/compare/servicetitan-vs-jobber">comparing Jobber against ServiceTitan side by side</a> is the exercise worth completing before you make a commitment either way.</p>
 <h2>Frequently Asked Questions</h2>
 
 <h3>Q: What fleet size is Jobber Field Service Management actually designed to handle?</h3>

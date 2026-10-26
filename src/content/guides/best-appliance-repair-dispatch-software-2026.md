@@ -57,7 +57,7 @@ draft: false
 
 <p><strong>What's not:</strong> The free plan is essentially a demo. The jump to paid stings if you're a one-truck shop watching margins. QuickBooks integration works, but it occasionally needs a manual sync nudge to stay clean. And the pricing structure can get complicated once you start adding team members at different tiers.</p>
 
-<p>If you're already comparing Workiz to similar tools, the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs. Jobber breakdown</a> goes deeper on where each one pulls ahead.</p>
+<p>If you're already comparing Workiz to similar tools, the <a href="/compare/workiz-vs-jobber-2026">Workiz vs. Jobber breakdown</a> goes deeper on where each one pulls ahead.</p>
 
 <h3>2. Jobber</h3>
 
@@ -81,7 +81,7 @@ draft: false
 
 <p><strong>What's not:</strong> At $79/month for one user, it's priced higher than Jobber's $49 Core plan with less to show for it at the entry tier. The Basic plan doesn't include route optimization, which matters when you're running 8 stops across a metro area. Reporting is thin until you get to higher-tier plans. Like Jobber, there are no appliance-specific fields built in by default.</p>
 
-<p>There's a head-to-head <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs. Housecall Pro comparison</a> that maps out exactly where each platform wins, including pricing math for different team sizes.</p>
+<p>There's a head-to-head <a href="/compare/jobber-vs-housecall-pro">Jobber vs. Housecall Pro comparison</a> that maps out exactly where each platform wins, including pricing math for different team sizes.</p>
 
 <h3>4. Service Fusion</h3>
 

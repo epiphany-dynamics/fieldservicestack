@@ -29,7 +29,7 @@ draft: false
 
 <p>Jobber is a step up in almost every category. The mobile app is one of the better ones in this space. The client hub, where customers can approve quotes, pay invoices, and message you online without picking up the phone, is genuinely useful for HVAC and plumbing companies tired of playing phone tag all day. Gaps past that hub are mapped in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. Automations let you send follow-up emails and job reminders without manually touching anything. None of that comes on a free plan, because Jobber does not have one.</p>
 
-<p>If you have already looked at Kickserv against other mid-market tools, the <a href="/comparisons/workiz-vs-kickserv-2026-comparison">Workiz vs Kickserv comparison</a> is worth reading as additional context on how Kickserv stacks up across the field.</p>
+<p>If you have already looked at Kickserv against other mid-market tools, the <a href="/compare/workiz-vs-kickserv-2026-comparison">Workiz vs Kickserv comparison</a> is worth reading as additional context on how Kickserv stacks up across the field.</p>
 
 <h2>Feature Comparison</h2>
 
@@ -181,7 +181,7 @@ draft: false
 
 <p>The edge Jobber has here is QuickBooks Desktop support. A lot of established HVAC and plumbing businesses are still on the Desktop version, particularly if their accountant set it up years ago and nobody has had a reason to migrate. Kickserv dropped Desktop support, which creates a real headache if your bookkeeper is not interested in switching platforms on your timeline.</p>
 
-<p>If you are trying to understand the overlap between your FSM software and your accounting setup more broadly, the <a href="/comparisons/jobber-vs-quickbooks-2026">Jobber vs QuickBooks comparison</a> breaks down where field service software ends and accounting software begins.</p>
+<p>If you are trying to understand the overlap between your FSM software and your accounting setup more broadly, the <a href="/compare/jobber-vs-quickbooks-2026">Jobber vs QuickBooks comparison</a> breaks down where field service software ends and accounting software begins.</p>
 
 <h2>Who Should Pick Kickserv</h2>
 

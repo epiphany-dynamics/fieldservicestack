@@ -87,7 +87,7 @@ draft: false
 
 <p>The invoicing module handles recurring billing, custom line items, and payment processing. QuickBooks integration is available. It's not the most sophisticated invoicing setup in this category, but it covers the essentials. The real strength is the full workflow from booking through to payment collection, especially for operations that deal with a high volume of inbound requests from commercial property management companies.</p>
 
-<p>Our <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> goes into more detail on where each platform wins if you're deciding between the two.</p>
+<p>Our <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> goes into more detail on where each platform wins if you're deciding between the two.</p>
 
 <p>Pricing: Starter plans around $65/month; Growth around $110/month; Scale is custom. Confirm current pricing directly as it changes periodically.</p>
 

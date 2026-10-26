@@ -59,7 +59,7 @@ draft: false
 
 <p>The platform earns its price for the right shop. The dispatch board is the best available in any FSM software. Marketing attribution reporting shows you exactly which campaigns generate revenue, not just calls. CSR scripting and call recording are built for shops with dedicated office staff. Service agreements, equipment history, and preventive maintenance scheduling all work cleanly together.</p>
 
-<p>If you're debating whether the jump from a simpler platform is worth it, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 comparison</a> lays out the exact tradeoffs by company size and makes the decision a lot easier.</p>
+<p>If you're debating whether the jump from a simpler platform is worth it, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 comparison</a> lays out the exact tradeoffs by company size and makes the decision a lot easier.</p>
 
 <p><em>Best for: HVAC, plumbing, and electrical operations with 10 or more techs and at least $1M in annual revenue who are ready to invest in proper onboarding and have office staff to actually run the platform.</em></p>
 

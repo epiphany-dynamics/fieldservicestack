@@ -184,7 +184,7 @@ draft: false
 
 <p>If you're a solo operator or running 2-3 techs, Jobber's Connect plan at $149/month covers everything you need. Spending $400/month on ServiceTitan at this stage is just burning money that should be going toward trucks, tools, or marketing.</p>
 
-<p>At the 5-15 tech range, Housecall Pro or Service Fusion is where I'd look first. You get real dispatching capability, solid customer communication, and enough reporting to run the business without hiring someone just to manage the software. A lot of people in this range get pushed toward ServiceTitan before they're ready for it. The <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs. Jobber breakdown for 2026</a> is worth reading before anyone from either company's sales team gets to you.</p>
+<p>At the 5-15 tech range, Housecall Pro or Service Fusion is where I'd look first. You get real dispatching capability, solid customer communication, and enough reporting to run the business without hiring someone just to manage the software. A lot of people in this range get pushed toward ServiceTitan before they're ready for it. The <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs. Jobber breakdown for 2026</a> is worth reading before anyone from either company's sales team gets to you.</p>
 
 <p>Twenty or more techs with dedicated office staff is where ServiceTitan becomes worth seriously evaluating. The ROI from flat-rate pricing consistency, automated follow-up sequences, and dispatching efficiency is real at that scale. Go in clear on total cost though: your first-year bill will likely run 30-40% higher than the base quoted price once onboarding, training time, and bundled add-ons are included.</p>
 

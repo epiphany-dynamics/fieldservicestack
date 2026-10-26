@@ -43,7 +43,7 @@ draft: false
 
 <p>Jobber's mobile app is a genuine strength. Techs pull up their daily schedule, navigate to jobs, check job details, take before/after photos, collect signatures, and close out invoices from the truck. No paper, no calls back to the office asking for the address. For a 3-truck HVAC crew doing residential service, that alone justifies the subscription.</p>
 
-<p>The platform has broad trade coverage. HVAC, plumbing, electrical, landscaping, cleaning, and pest control businesses all use it because the workflow fits how those jobs actually run. It's worth knowing there are several capable competitors in this space, which is why the <a href="/comparisons/zuper-vs-jobber-2026">Zuper vs Jobber comparison</a> is worth a read if you want to see how Jobber holds up against a close rival before committing.</p>
+<p>The platform has broad trade coverage. HVAC, plumbing, electrical, landscaping, cleaning, and pest control businesses all use it because the workflow fits how those jobs actually run. It's worth knowing there are several capable competitors in this space, which is why the <a href="/compare/zuper-vs-jobber-2026">Zuper vs Jobber comparison</a> is worth a read if you want to see how Jobber holds up against a close rival before committing.</p>
 
 <h2>Feature-by-Feature Comparison</h2>
 
@@ -215,7 +215,7 @@ draft: false
 
 <p>FieldHive connects to QuickBooks as well, but users have reported more inconsistency in the sync, particularly around invoice matching and payment status updates. It works, but it warrants more periodic checking. For a commercial maintenance company with a dedicated bookkeeper, that's manageable overhead. For a solo HVAC owner doing their own books at 10 PM on Sundays, it's one more thing to catch.</p>
 
-<p>Accounting integration comes up frequently when contractors are evaluating multiple platforms at once. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> covers how both of those platforms handle QuickBooks sync, which is useful context if you're still deciding between more than two options.</p>
+<p>Accounting integration comes up frequently when contractors are evaluating multiple platforms at once. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> covers how both of those platforms handle QuickBooks sync, which is useful context if you're still deciding between more than two options.</p>
 
 <h2>Who Should Use FieldHive?</h2>
 

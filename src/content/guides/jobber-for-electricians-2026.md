@@ -61,7 +61,7 @@ draft: false
 
 <p>The customer-facing side is strong too. Automated review requests after job completion, two-way text with customers, and a clean customer portal all come standard on paid plans. Missed ring recovery for the trade is mapped in <a href="https://epiphanydynamics.ai/blog/ai-receptionist-for-electricians-setup-cost-roi-2026/">AI receptionist for electricians</a>. If you're competing with larger, more established electrical contractors in your market and want to look more polished than your current setup, Housecall Pro helps close that gap.</p>
 
-<p>Pricing sits at $59/month for one user and $149/month for up to five users, which is comparable to Jobber at the same crew size. The deciding factor between them usually comes down to your billing model. Hourly and time-and-materials shops tend to prefer Jobber's flexibility. Shops that have moved to flat-rate pricing lean toward Housecall Pro. The full head-to-head is in our <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026: Which One Wins?</a> comparison if you want to dig into the specifics before making a call.</p>
+<p>Pricing sits at $59/month for one user and $149/month for up to five users, which is comparable to Jobber at the same crew size. The deciding factor between them usually comes down to your billing model. Hourly and time-and-materials shops tend to prefer Jobber's flexibility. Shops that have moved to flat-rate pricing lean toward Housecall Pro. The full head-to-head is in our <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026: Which One Wins?</a> comparison if you want to dig into the specifics before making a call.</p>
 
 <p>Best for residential electrical operations doing repeatable service work where flat-rate pricing is already (or should be) the standard billing method.</p>
 
@@ -71,7 +71,7 @@ draft: false
 
 <p>The cost is the real obstacle. Pricing typically starts around $400/month and climbs based on users and the modules you add. Implementation is a multi-month process, not a two-week trial. You don't log in on Monday and start dispatching jobs on Tuesday.</p>
 
-<p>For a shop at 12-15 techs currently running on a whiteboard and QuickBooks, ServiceTitan might be the right call. For a five-tech shop turning $700k a year, it's almost certainly overkill. The <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026: Which One Fits Your Business?</a> comparison lays out exactly where that line falls.</p>
+<p>For a shop at 12-15 techs currently running on a whiteboard and QuickBooks, ServiceTitan might be the right call. For a five-tech shop turning $700k a year, it's almost certainly overkill. The <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026: Which One Fits Your Business?</a> comparison lays out exactly where that line falls.</p>
 
 <p>Best for electrical contractors with 10 or more technicians, significant commercial work, and a realistic budget to support the investment.</p>
 

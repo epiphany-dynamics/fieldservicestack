@@ -92,7 +92,7 @@ draft: false
 
 <p>Pricing starts around $398/month and goes up based on features and user count. Custom quotes are standard above the entry tier. The onboarding takes months and requires a real internal commitment from whoever is managing the implementation. This is not something you set up over a weekend and start using Monday morning.</p>
 
-<p>For smaller operations, the cost is genuinely painful and the complexity is real overkill. The question of whether you've actually reached the point where it pays for itself is worth thinking through carefully. The <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison for 2026</a> breaks down where that crossover actually happens, which is more useful than guessing at a revenue threshold.</p>
+<p>For smaller operations, the cost is genuinely painful and the complexity is real overkill. The question of whether you've actually reached the point where it pays for itself is worth thinking through carefully. The <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison for 2026</a> breaks down where that crossover actually happens, which is more useful than guessing at a revenue threshold.</p>
 
 <ul>
   <li>Starting price: ~$398/month (custom above that)</li>
@@ -109,7 +109,7 @@ draft: false
 
 <p>You get quotes, invoices, job scheduling, customer management, and QuickBooks integration. Photo attachments work fine. The mobile app is lightweight in a good way. There's no call tracking, no GPS fleet management, no advanced job costing. For a one-truck operation, that's fine, because you don't need any of that yet.</p>
 
-<p>The ecosystem is smaller than Jobber's, and above 5 employees you'll start feeling the limits. Getting started on FieldPulse and switching to Jobber when you outgrow it is a legitimate path. The <a href="/comparisons/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse comparison</a> maps out exactly where FieldPulse starts falling short so you're not surprised by it mid-growth.</p>
+<p>The ecosystem is smaller than Jobber's, and above 5 employees you'll start feeling the limits. Getting started on FieldPulse and switching to Jobber when you outgrow it is a legitimate path. The <a href="/compare/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse comparison</a> maps out exactly where FieldPulse starts falling short so you're not surprised by it mid-growth.</p>
 
 <ul>
   <li>Starting price: $79/month (Solo)</li>

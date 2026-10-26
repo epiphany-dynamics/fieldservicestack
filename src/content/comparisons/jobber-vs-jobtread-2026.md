@@ -195,7 +195,7 @@ draft: false
 
 <p>If you're running a 3-truck HVAC crew doing preventive maintenance contracts plus emergency calls, Jobber keeps you from losing jobs to scheduling gaps and late invoices. The automated follow-up sequences alone can recover revenue that would otherwise walk out the door. Call recovery past those sequences is listed in <a href="https://epiphanydynamics.ai/blog/best-ai-tools-for-service-companies/">best AI tools for service companies</a>. A tech finishes a job, the customer gets an invoice with a payment link before the truck leaves the driveway. That's the whole pitch, and it works.</p>
 
-<p>For a solo plumber doing 8-10 calls a day, the Core plan at $49/month covers everything you actually need. The jump to Connect makes sense once you want customers booking online without calling you. If you're also considering Workiz for its communication features, the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> breaks down where those two platforms split.</p>
+<p>For a solo plumber doing 8-10 calls a day, the Core plan at $49/month covers everything you actually need. The jump to Connect makes sense once you want customers booking online without calling you. If you're also considering Workiz for its communication features, the <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> breaks down where those two platforms split.</p>
 
 <p>Jobber is also a natural fit for cleaning companies and landscaping businesses where the job list is long, margin is thin, and operational efficiency is what keeps you in the black. Route optimization on the Grow plan is basic, but it works well enough for most operations.</p>
 
@@ -221,7 +221,7 @@ draft: false
 
 <p>For most people landing on this page, the answer is Jobber. It's cheaper, faster to learn, and purpose-built for the service call workflow that most field service businesses actually run on. But if your business lives on project budgets and you keep finding out you lost money on a job after the fact, JobTread is worth the higher price. Both platforms offer free trials. Test them on real work before you commit to either one.</p>
 
-<p>If you're still sizing up the full range of options and wondering where enterprise software fits in, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> is worth reading as you scale.</p>
+<p>If you're still sizing up the full range of options and wondering where enterprise software fits in, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> is worth reading as you scale.</p>
 <h2>Frequently Asked Questions</h2>
 <h3>Q: What's the total monthly cost difference between Jobber and JobTread for a small contracting business?</h3>
 <p>Jobber starts at $49/month for core features, while JobTread starts around $149/month—a $100/month gap that compounds annually to $1,200. For a 5-person HVAC crew doing 20–30 jobs monthly, Jobber's pricing often stays under $100/month total, whereas JobTread's add-ons (full job costing, subcontractor management) typically push you to $200–300/month for complete project tracking.</p>

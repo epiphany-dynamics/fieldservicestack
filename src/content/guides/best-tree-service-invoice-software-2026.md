@@ -89,7 +89,7 @@ draft: false
 
 <p>The payment feature that justifies the subscription cost on its own: you can send a payment link via text message directly from the job site. The customer pays on their phone, money goes into your account, job closed. For residential tree work where you want to collect before you pack up the chipper and pull off the property, that workflow alone changes how fast cash comes in. Some companies report cutting average payment time from 18-21 days down to same-day after switching.</p>
 
-<p>Housecall Pro's weakness for tree services is the quoting side. You can build custom line items and price lists, but there's no tiered proposal builder and no plant health records. It's a general-purpose platform, and that generality is obvious when you're trying to build complex multi-service quotes. For a direct look at how it stacks up against the most popular alternative, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> covers the differences in detail. Short version: Housecall Pro is simpler and better at payments; Jobber has more depth for scheduling and client management.</p>
+<p>Housecall Pro's weakness for tree services is the quoting side. You can build custom line items and price lists, but there's no tiered proposal builder and no plant health records. It's a general-purpose platform, and that generality is obvious when you're trying to build complex multi-service quotes. For a direct look at how it stacks up against the most popular alternative, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> covers the differences in detail. Short version: Housecall Pro is simpler and better at payments; Jobber has more depth for scheduling and client management.</p>
 
 <h3>5. Service Fusion: Best Budget Option for Growing Crews</h3>
 
@@ -164,7 +164,7 @@ draft: false
 
 <p>A few scenarios that cover most situations:</p>
 
-<p>If you're a solo operator doing 6-8 jobs a week, mostly residential, start with Jobber Core at $49/month. You get quoting, scheduling, invoicing, and payment collection without paying for features you won't use for a year. If billing alone isn't your main pain point and you already use QuickBooks for accounting, it's worth reading through the <a href="/comparisons/jobber-vs-quickbooks-2026">Jobber vs QuickBooks breakdown</a> before committing to a full FSM subscription. Sometimes the answer really is just QuickBooks with better invoicing habits.</p>
+<p>If you're a solo operator doing 6-8 jobs a week, mostly residential, start with Jobber Core at $49/month. You get quoting, scheduling, invoicing, and payment collection without paying for features you won't use for a year. If billing alone isn't your main pain point and you already use QuickBooks for accounting, it's worth reading through the <a href="/compare/jobber-vs-quickbooks-2026">Jobber vs QuickBooks breakdown</a> before committing to a full FSM subscription. Sometimes the answer really is just QuickBooks with better invoicing habits.</p>
 
 <p>If you're running a 3-truck crew with a mix of removals, cleanups, and some recurring HOA accounts, Jobber Connect at $129/month is the realistic minimum. The multi-user dispatching and automated customer follow-ups matter at that scale. If you're doing any multi-year plant health contracts, price out SingleOps before committing. The higher cost may be worth it once recurring work is a real part of your revenue.</p>
 
