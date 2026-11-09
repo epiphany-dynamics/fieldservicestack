@@ -18,6 +18,7 @@ const collectionUrlSegments = {
   gear: 'gear',
 };
 
+/** @param {string} raw @param {string} key */
 function parseFrontmatterDate(raw, key) {
   const match = raw.match(new RegExp(`^${key}:\\s*["']?([0-9]{4}-[0-9]{2}-[0-9]{2})["']?\\s*$`, 'm'));
   return match ? match[1] : null;
@@ -44,7 +45,7 @@ function buildLastmodMap() {
       const lastmod = updated || date;
       if (lastmod) {
         map.set(`/${urlSegment}/${slug}/`, lastmod);
-        if (!latestByCollection.has(collectionDir) || lastmod > latestByCollection.get(collectionDir)) {
+        if (lastmod > (latestByCollection.get(collectionDir) ?? '')) {
           latestByCollection.set(collectionDir, lastmod);
         }
         if (!latestOverall || lastmod > latestOverall) {
