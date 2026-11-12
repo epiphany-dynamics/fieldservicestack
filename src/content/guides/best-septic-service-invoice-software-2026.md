@@ -81,7 +81,7 @@ draft: false
   <li><strong>Best for:</strong> Operators focused on customer experience and online reputation</li>
 </ul>
 
-<p>The QuickBooks limitation is real. If you're on QuickBooks Desktop, Housecall Pro's native integration doesn't cover it and you'll need a workaround. For a detailed look at where each platform beats the other on features and pricing, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> breaks it down side by side.</p>
+<p>The QuickBooks limitation is real. If you're on QuickBooks Desktop, Housecall Pro's native integration doesn't cover it and you'll need a workaround. For a detailed look at where each platform beats the other on features and pricing, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> breaks it down side by side.</p>
 
 <h3>3. FieldPulse: Best Value for Smaller Shops</h3>
 

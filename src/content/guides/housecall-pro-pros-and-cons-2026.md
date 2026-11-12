@@ -79,7 +79,7 @@ draft: false
 
 <h3>Jobber (From $69/Month)</h3>
 
-<p>Jobber is Housecall Pro's closest head-to-head competitor. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs. Housecall Pro 2026 comparison</a> gets into the details, but here's the short version: Jobber has better reporting at lower price points and a cleaner quoting workflow. Housecall Pro wins on customer communication automation and the flat-rate pricing catalog. For landscaping companies and general contractors, Jobber tends to edge out. For HVAC and plumbing shops where automated review collection drives real revenue, HCP usually wins.</p>
+<p>Jobber is Housecall Pro's closest head-to-head competitor. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs. Housecall Pro 2026 comparison</a> gets into the details, but here's the short version: Jobber has better reporting at lower price points and a cleaner quoting workflow. Housecall Pro wins on customer communication automation and the flat-rate pricing catalog. For landscaping companies and general contractors, Jobber tends to edge out. For HVAC and plumbing shops where automated review collection drives real revenue, HCP usually wins.</p>
 
 <p>Jobber pricing: Core at $69/month (1 user), Connect at $169/month (up to 5 users), Grow at $349/month (up to 15 users).</p>
 
@@ -93,7 +93,7 @@ draft: false
 
 <h3>Service Fusion (From ~$192/Month)</h3>
 
-<p>Service Fusion sits in an interesting spot in the market. It's priced in the same range as HCP's Essentials tier but includes better job costing, more flexible reporting, and unlimited users on the base plan. The interface is older-looking and the mobile app isn't as clean as HCP's. If your priority is margin tracking over customer-facing features, Service Fusion earns a real comparison. The <a href="/comparisons/service-fusion-vs-housecall-pro-2026">Service Fusion vs. Housecall Pro 2026 breakdown</a> is worth reading if you're deciding between these two specifically.</p>
+<p>Service Fusion sits in an interesting spot in the market. It's priced in the same range as HCP's Essentials tier but includes better job costing, more flexible reporting, and unlimited users on the base plan. The interface is older-looking and the mobile app isn't as clean as HCP's. If your priority is margin tracking over customer-facing features, Service Fusion earns a real comparison. The <a href="/compare/service-fusion-vs-housecall-pro-2026">Service Fusion vs. Housecall Pro 2026 breakdown</a> is worth reading if you're deciding between these two specifically.</p>
 
 <p>ServiceTitan gets the same honest treatment in <a href="/guides/is-servicetitan-legit-2026/">Is ServiceTitan Legit in 2026? What Contractors Need to Know</a>.</p>
 

@@ -57,7 +57,7 @@ draft: false
 
 <p>Where it falls short: reporting is less robust than Jobber at the same price tier, and some users find the dispatching board cluttered when you're juggling more than 8-10 jobs at once on mobile. For commercial work with more complex job requirements, it doesn't scale as smoothly as Jobber's Grow tier.</p>
 
-<p>For a head-to-head look at both platforms in everyday use, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> runs through the real differences. The short version: if Jobber Connect at $149/month is where you'd land, Housecall Pro Essentials at $189/month is the equivalent. Different interface, comparable price, real tradeoffs in both directions.</p>
+<p>For a head-to-head look at both platforms in everyday use, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> runs through the real differences. The short version: if Jobber Connect at $149/month is where you'd land, Housecall Pro Essentials at $189/month is the equivalent. Different interface, comparable price, real tradeoffs in both directions.</p>
 
 <p><em>Best for:</em> Residential service businesses (HVAC, plumbing, cleaning, pest control) with 1-8 techs focused on homeowner clients.</p>
 
@@ -77,7 +77,7 @@ draft: false
 
 <p>Pricing starts with a limited free plan and scales up through team tiers that run roughly $150-$225/month depending on features and users. Entry-level pricing is generally lower than Jobber's Connect plan, though the upper tiers are competitive rather than dramatically cheaper.</p>
 
-<p>The <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> covers where each platform wins. The short version: Workiz wins on communication tools and lower cost of entry. Jobber wins on polished client-facing workflows and a more complete overall experience for businesses that have moved beyond heavy phone dispatch.</p>
+<p>The <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> covers where each platform wins. The short version: Workiz wins on communication tools and lower cost of entry. Jobber wins on polished client-facing workflows and a more complete overall experience for businesses that have moved beyond heavy phone dispatch.</p>
 
 <p><em>Best for:</em> High-call-volume service businesses including locksmith, garage door, appliance repair, and cleaning companies that book heavily by phone.</p>
 

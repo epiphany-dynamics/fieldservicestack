@@ -65,7 +65,7 @@ draft: false
 
 <p>Two-way sync with QuickBooks Online. Invoices, payments, and client records flow between both platforms. You'll want to map your chart of accounts carefully during initial setup, but once it's configured it runs in the background without constant babysitting. QuickBooks Desktop users get a worse experience: more manual export/import work and less reliable sync. If you're still on Desktop, that's worth factoring into your decision before you commit.</p>
 
-<p>If you're trying to figure out whether to run Jobber alongside QuickBooks or consolidate, the <a href="/comparisons/jobber-vs-quickbooks-2026">Jobber vs QuickBooks comparison for 2026</a> breaks down which tasks each handles better and where the overlap becomes redundancy.</p>
+<p>If you're trying to figure out whether to run Jobber alongside QuickBooks or consolidate, the <a href="/compare/jobber-vs-quickbooks-2026">Jobber vs QuickBooks comparison for 2026</a> breaks down which tasks each handles better and where the overlap becomes redundancy.</p>
 
 <h2>Jobber Pricing in 2026</h2>
 
@@ -146,7 +146,7 @@ draft: false
 
 <p>Running 3-8 trucks with a dispatch board that's a mess and invoice cycles that drag out past two weeks: Connect is where you land. Route optimization, two-way texting, and QuickBooks sync are the features that change day-to-day operations at that scale. Those aren't checkbox features. They solve the actual problems that eat time at a 5-truck operation.</p>
 
-<p>If your operation runs 20 or more field techs, needs real inventory management, or requires detailed service agreement tracking, Jobber will start showing its ceiling. The <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison for 2026</a> walks through exactly where each platform wins and which type of operation belongs on which tool. The price difference is substantial, so that decision deserves a clear-eyed look at what you actually need versus what looks good in a demo. Companies that move up usually extend the platform further, and <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a> covers what actually connects.</p>
+<p>If your operation runs 20 or more field techs, needs real inventory management, or requires detailed service agreement tracking, Jobber will start showing its ceiling. The <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison for 2026</a> walks through exactly where each platform wins and which type of operation belongs on which tool. The price difference is substantial, so that decision deserves a clear-eyed look at what you actually need versus what looks good in a demo. Companies that move up usually extend the platform further, and <a href="https://epiphanydynamics.ai/blog/best-ai-tools-that-integrate-with-servicetitan/">Best AI Tools That Integrate with ServiceTitan in 2026</a> covers what actually connects.</p>
 
 <h2>Verdict: Is Jobber Worth It in 2026?</h2>
 
@@ -154,7 +154,7 @@ draft: false
 
 <p>What keeps Jobber competitive isn't any single feature. Other platforms have better reporting. Some have deeper inventory tools. A few have cheaper entry points. What Jobber does better than most is keep the whole loop tight: quote, schedule, communicate, complete the job, invoice, collect payment. That sequence is polished. The mobile app holds up on actual job sites. Support picks up the phone. That combination is less common in this price range than it should be.</p>
 
-<p>Run the 14-day trial with real jobs, real client names, and at least one actual payment. Don't just click through the demo environment. Put your actual workflow in and see where it bends. If it fits after two weeks of real use, you'll know. If you want a direct comparison before committing, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> covers the closest head-to-head in this category. For most service businesses under 15 people, the decision usually comes down to those two platforms anyway.</p>
+<p>Run the 14-day trial with real jobs, real client names, and at least one actual payment. Don't just click through the demo environment. Put your actual workflow in and see where it bends. If it fits after two weeks of real use, you'll know. If you want a direct comparison before committing, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro breakdown</a> covers the closest head-to-head in this category. For most service businesses under 15 people, the decision usually comes down to those two platforms anyway.</p>
 <h2>Frequently Asked Questions</h2>
 <h3>Q: How much does Jobber cost per month for a small team?</h3>
 <p>Jobber's team plan is $249/month when billed annually and covers up to 15 technicians—roughly $200 per user per year. Solo operators start at $49/month, making it accessible for one-person operations and scalable as you grow.</p>

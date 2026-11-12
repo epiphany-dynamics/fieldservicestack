@@ -240,7 +240,7 @@ draft: false
 
 <p><strong>10+ trucks, multiple service lines:</strong> ServiceTitan is probably the right answer. The reporting depth, dispatch optimization, and service agreement management at scale are features the other platforms on this list don't match. Budget the onboarding fee, plan for a 3-month implementation runway, and make sure someone on your team owns the setup process internally. That last point is the one most companies skip and then regret.</p>
 
-<p>If the decision is specifically between ServiceTitan and Jobber, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 breakdown</a> goes deep on which wins at each business size and trade type.</p>
+<p>If the decision is specifically between ServiceTitan and Jobber, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 breakdown</a> goes deep on which wins at each business size and trade type.</p>
 
 <h2>Our Recommendation</h2>
 

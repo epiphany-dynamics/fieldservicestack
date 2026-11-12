@@ -126,4 +126,4 @@ Jobber provides phone, email, and chat support across all paid plans with consis
 
 ### Is there a middle ground between Jobber and ServiceTitan?
 
-Yes. <a href="/comparisons/jobber-vs-housecall-pro">Housecall Pro</a> ($79-$189/month) and FieldPulse ($99/month + per-user fees) both sit between Jobber's simplicity and ServiceTitan's enterprise depth. Housecall Pro adds marketing tools and customer financing. FieldPulse adds flat rate pricebooks and job cost reporting. For businesses in the 8 to 15 technician range that have outgrown Jobber but are not ready for ServiceTitan's cost and complexity, these platforms fill the gap.
+Yes. <a href="/compare/jobber-vs-housecall-pro">Housecall Pro</a> ($79-$189/month) and FieldPulse ($99/month + per-user fees) both sit between Jobber's simplicity and ServiceTitan's enterprise depth. Housecall Pro adds marketing tools and customer financing. FieldPulse adds flat rate pricebooks and job cost reporting. For businesses in the 8 to 15 technician range that have outgrown Jobber but are not ready for ServiceTitan's cost and complexity, these platforms fill the gap.

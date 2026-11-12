@@ -189,7 +189,7 @@ draft: false
 
 <p>The honest version: most garage door shops don't need everything these platforms offer. You need fast dispatch, tech location tracking, clean invoicing, and payment collection on-site. Workiz does all of that well at a price that works for single-location operations, and the learning curve is low enough that most office staff are comfortable within a few days.</p>
 
-<p>The comparison that comes up most often for shops in the 2-5 truck range is Workiz versus Jobber. The <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs. Jobber breakdown</a> is worth reading if you're sitting on that decision. Short version: if dispatch speed is your bottleneck, Workiz. If ease of use and simplicity matter more than raw speed, Jobber.</p>
+<p>The comparison that comes up most often for shops in the 2-5 truck range is Workiz versus Jobber. The <a href="/compare/workiz-vs-jobber-2026">Workiz vs. Jobber breakdown</a> is worth reading if you're sitting on that decision. Short version: if dispatch speed is your bottleneck, Workiz. If ease of use and simplicity matter more than raw speed, Jobber.</p>
 
 <p>Whatever you pick, run a real trial with your actual call volume before paying for anything. Demo videos show the best case. Your busiest Friday morning shows the truth. That gap between the two is where most of these buying decisions go sideways.</p>
 <h2>Frequently Asked Questions</h2>

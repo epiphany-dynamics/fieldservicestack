@@ -227,7 +227,7 @@ draft: false
 
 <p>Jobber also wins on the client-facing side. The client portal and booking page look professional on mobile. That matters when you're trying to convert leads who are comparing you to a competitor. The first impression from your software isn't nothing.</p>
 
-<p>If you're trying to understand how Jobber fits into the broader competitive picture at scale, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> is useful context for where Jobber sits relative to enterprise-level FSM tools, which helps you anticipate whether you'd eventually outgrow it.</p>
+<p>If you're trying to understand how Jobber fits into the broader competitive picture at scale, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> is useful context for where Jobber sits relative to enterprise-level FSM tools, which helps you anticipate whether you'd eventually outgrow it.</p>
 
 <p>A companion breakdown for tree crews sits in <a href="/guides/jobber-for-tree-service-2026/">Jobber for Tree Service in 2026: Is It the Right Software?</a>.</p>
 
