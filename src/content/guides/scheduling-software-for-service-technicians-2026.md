@@ -83,7 +83,7 @@ draft: false
 
 <p>The pricing structure is friendlier at the entry level than most competitors in this space. If you're transitioning off pen-and-paper dispatching and want something that works without a large monthly commitment while you're still figuring out your process, Workiz is worth testing first.</p>
 
-<p>Where it falls short: reporting and analytics are basic, and the QuickBooks integration has been inconsistent based on feedback from shops actively using it. If your bookkeeper is going to rely on that sync, put it through real tests before you commit to an annual plan. For a head-to-head evaluation, the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber breakdown</a> covers the tradeoffs between the two directly.</p>
+<p>Where it falls short: reporting and analytics are basic, and the QuickBooks integration has been inconsistent based on feedback from shops actively using it. If your bookkeeper is going to rely on that sync, put it through real tests before you commit to an annual plan. For a head-to-head evaluation, the <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber breakdown</a> covers the tradeoffs between the two directly.</p>
 
 <h3>5. Service Fusion — Best Mid-Market Value</h3>
 

@@ -154,7 +154,7 @@ Yes. The Core plan at $49/month covers scheduling, quoting, invoicing, and the C
 
 ### How does Jobber compare to Housecall Pro?
 
-Jobber is cheaper at every tier and wins on scheduling simplicity, invoicing speed, and mobile app performance. Housecall Pro wins on GPS dispatch, customer financing (Wisetack), built-in marketing tools, and richer mobile features. Choose Jobber if cost and simplicity are priorities. Choose Housecall Pro if financing and marketing matter more. For a detailed comparison, see our <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro</a> article.
+Jobber is cheaper at every tier and wins on scheduling simplicity, invoicing speed, and mobile app performance. Housecall Pro wins on GPS dispatch, customer financing (Wisetack), built-in marketing tools, and richer mobile features. Choose Jobber if cost and simplicity are priorities. Choose Housecall Pro if financing and marketing matter more. For a detailed comparison, see our <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro</a> article.
 
 ### Does Jobber work for HVAC businesses?
 

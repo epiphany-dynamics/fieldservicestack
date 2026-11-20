@@ -88,7 +88,7 @@ draft: false
 
 <p>Pricing: Basic starts at $79/month (1 user), Essentials at $189/month (up to 5 users), and the MAX tier requires a conversation with their sales team. QuickBooks integration is solid on both Online and Desktop versions. The mobile app ranks among the better ones available in field service software right now.</p>
 
-<p>For a direct head-to-head on features and pricing between these two platforms, <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro</a> lays out exactly where each one wins.</p>
+<p>For a direct head-to-head on features and pricing between these two platforms, <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro</a> lays out exactly where each one wins.</p>
 
 <p><em>Best for: Residential landscaping and lawn care businesses that want strong customer-facing tools without operational complexity.</em></p>
 

@@ -168,7 +168,7 @@ Prioritize the four core functions first: scheduling, invoicing, client manageme
 
 ### Can I switch FSM software later if I outgrow my current platform?
 
-Yes, but plan for friction. Migration involves exporting and importing customer data, reconfiguring pricing, retraining your team, and accepting a productivity dip during transition. Simple migrations (<a href="/comparisons/jobber-vs-housecall-pro">Jobber to Housecall Pro</a>) take a few days. Enterprise migrations (anything to ServiceTitan) take 8 to 12 weeks with dedicated support. The best strategy is to choose a platform that fits your current size with room to grow for 2 to 3 years, then migrate when the operational limitations are costing you measurable money.
+Yes, but plan for friction. Migration involves exporting and importing customer data, reconfiguring pricing, retraining your team, and accepting a productivity dip during transition. Simple migrations (<a href="/compare/jobber-vs-housecall-pro">Jobber to Housecall Pro</a>) take a few days. Enterprise migrations (anything to ServiceTitan) take 8 to 12 weeks with dedicated support. The best strategy is to choose a platform that fits your current size with room to grow for 2 to 3 years, then migrate when the operational limitations are costing you measurable money.
 
 ### Is free field service software worth using?
 

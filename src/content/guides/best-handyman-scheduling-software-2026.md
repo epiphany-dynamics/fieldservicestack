@@ -62,7 +62,7 @@ draft: false
 
 <p>The Essentials plan at $189/month (up to 5 users) adds GPS tracking, job costing, time tracking, and better reporting. The GPS layer is genuinely useful when you're managing two or three people and need to understand why one truck is running an hour behind by 2 PM.</p>
 
-<p>Where Housecall Pro sometimes gets frustrating is on the invoice and quote customization side. If you need flexible quoting for jobs that mix labor and materials at varying margins, Jobber gives you more control. The overall setup is slightly more involved than Jobber's onboarding, though still manageable for a non-technical owner. For a direct feature-by-feature breakdown, <a href="/comparisons/jobber-vs-housecall-pro">the Jobber vs. Housecall Pro comparison</a> goes through both platforms in detail.</p>
+<p>Where Housecall Pro sometimes gets frustrating is on the invoice and quote customization side. If you need flexible quoting for jobs that mix labor and materials at varying margins, Jobber gives you more control. The overall setup is slightly more involved than Jobber's onboarding, though still manageable for a non-technical owner. For a direct feature-by-feature breakdown, <a href="/compare/jobber-vs-housecall-pro">the Jobber vs. Housecall Pro comparison</a> goes through both platforms in detail.</p>
 
 <p><strong>Pricing:</strong> Basic $79/month, Essentials $189/month, Max is custom<br>
 <strong>QuickBooks Integration:</strong> Yes<br>

@@ -75,7 +75,7 @@ draft: false
 
 <p>Why does anyone use it? Because nothing else touches it for reporting, multi-location management, or integration depth at scale. If you're running 15 trucks, tracking technician performance metrics, and trying to optimize your close rate on new door installs, ServiceTitan gives you data no other platform on this list can match.</p>
 
-<p>For a garage door company doing under $2M in annual revenue, ServiceTitan is overkill in both cost and complexity. For one pushing $5M+ with multiple crews and a real sales process, it's worth the friction of implementation. The <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> frames the scale question well if you're trying to figure out which side of that line you're on.</p>
+<p>For a garage door company doing under $2M in annual revenue, ServiceTitan is overkill in both cost and complexity. For one pushing $5M+ with multiple crews and a real sales process, it's worth the friction of implementation. The <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber comparison</a> frames the scale question well if you're trying to figure out which side of that line you're on.</p>
 
 <h3>5. Service Fusion - Best Flat-Rate Pricing for Multi-Tech Shops</h3>
 

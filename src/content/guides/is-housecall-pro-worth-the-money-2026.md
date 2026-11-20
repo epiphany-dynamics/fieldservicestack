@@ -66,7 +66,7 @@ draft: false
 
 <p>Jobber's main differentiator is the client hub, where customers can review and approve quotes, make payments, and request new work through a self-service portal. That's more polished than what Housecall Pro offers at a comparable price, and it matters a lot in trades where you're sending estimates before you ever book the job. General contractors, landscapers, and fence companies tend to get more value from Jobber for this reason.</p>
 
-<p>Housecall Pro has a better mobile app experience and a faster payment flow in the field. Jobber has better reporting and a cleaner quote-to-invoice workflow. The <a href="/comparisons/jobber-vs-housecall-pro">full Jobber vs Housecall Pro comparison</a> breaks down which scenarios favor each platform specifically.</p>
+<p>Housecall Pro has a better mobile app experience and a faster payment flow in the field. Jobber has better reporting and a cleaner quote-to-invoice workflow. The <a href="/compare/jobber-vs-housecall-pro">full Jobber vs Housecall Pro comparison</a> breaks down which scenarios favor each platform specifically.</p>
 
 <h3>#3 Service Fusion — Best for Mid-Size Operations</h3>
 

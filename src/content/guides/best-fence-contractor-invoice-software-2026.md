@@ -56,7 +56,7 @@ draft: false
 
 <p>The mobile app is genuinely good. Not perfect (the job notes search is clunky and the loading screens add up over a long day), but it's fast, stable, and the technician-facing view is simple enough that guys who hate using their phones can figure it out without a training session. That matters more than any feature list when you're trying to get a four-person crew to actually adopt new software.</p>
 
-<p>The knock on Jobber is the pricing jump between tiers. Going from Core to Connect doubles the monthly cost, and that stings if you're a two-person operation that only needs a couple of Connect features. If you're comparing Jobber to Housecall Pro at a similar budget, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs. Housecall Pro 2026 breakdown</a> is worth reviewing before you commit.</p>
+<p>The knock on Jobber is the pricing jump between tiers. Going from Core to Connect doubles the monthly cost, and that stings if you're a two-person operation that only needs a couple of Connect features. If you're comparing Jobber to Housecall Pro at a similar budget, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs. Housecall Pro 2026 breakdown</a> is worth reviewing before you commit.</p>
 
 <h3>2. Housecall Pro - Best for Mid-Size Fence Companies</h3>
 

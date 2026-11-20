@@ -49,7 +49,7 @@ draft: false
 
 <p>Quotes are clean and professional. You can build a product and services price book so your techs aren't manually typing line items on every call. Send the quote by email or text. The customer approves it with one click. That approved quote converts to a job automatically, and when the job closes, one button turns it into an invoice.</p>
 
-<p>The customer-facing experience is good enough that people don't get confused, which matters more than owners usually think. A confused customer is a delayed payment. If you're weighing whether to just use <a href="/comparisons/jobber-vs-quickbooks-2026">QuickBooks for everything instead of Jobber</a>, the short answer is that Jobber handles the field workflow better while QuickBooks handles the accounting better. You probably want both talking to each other, which brings up integrations.</p>
+<p>The customer-facing experience is good enough that people don't get confused, which matters more than owners usually think. A confused customer is a delayed payment. If you're weighing whether to just use <a href="/compare/jobber-vs-quickbooks-2026">QuickBooks for everything instead of Jobber</a>, the short answer is that Jobber handles the field workflow better while QuickBooks handles the accounting better. You probably want both talking to each other, which brings up integrations.</p>
 
 <h3>Client Hub and Online Booking</h3>
 
@@ -100,7 +100,7 @@ draft: false
 
 <p>For a solo plumber doing 8 to 10 service calls a day, Core at $49/month is enough to start. You get scheduling, quoting, and invoicing. The limit hits when you want two-way text messaging or the client portal, both of which are Connect features. Most operators end up on Connect within 90 days because the SMS reminders alone justify the jump from $49 to $149.</p>
 
-<p>If you're running a 10-tech landscaping crew and want job costing per job or automated review requests going out after job completion, you need Grow. At $249/month for up to 15 users, that works out to under $17 per user. <a href="/comparisons/jobber-vs-housecall-pro">When you compare Jobber against Housecall Pro at a similar team size</a>, Jobber often comes out slightly cheaper, though the feature sets diverge in a few areas worth reading through before you decide.</p>
+<p>If you're running a 10-tech landscaping crew and want job costing per job or automated review requests going out after job completion, you need Grow. At $249/month for up to 15 users, that works out to under $17 per user. <a href="/compare/jobber-vs-housecall-pro">When you compare Jobber against Housecall Pro at a similar team size</a>, Jobber often comes out slightly cheaper, though the feature sets diverge in a few areas worth reading through before you decide.</p>
 
 <p>One pricing detail that catches people: if you grow past 15 users on the Grow plan, Jobber charges per-user fees on top of the base price. Get that number confirmed before you sign up if you're near that ceiling.</p>
 
@@ -147,7 +147,7 @@ draft: false
 
 <h3>Jobber Is Not a Good Fit If...</h3>
 
-<p>You're running 20-plus technicians across multiple locations. You need real-time GPS fleet tracking independent of the mobile app. You do heavy commercial work where tracking materials and labor margins per job phase is a requirement. Those needs push you toward a more enterprise-level platform. <a href="/comparisons/servicetitan-vs-jobber-2026">The comparison between ServiceTitan and Jobber</a> breaks down the tradeoffs in detail: ServiceTitan does significantly more but costs significantly more and takes months rather than days to implement.</p>
+<p>You're running 20-plus technicians across multiple locations. You need real-time GPS fleet tracking independent of the mobile app. You do heavy commercial work where tracking materials and labor margins per job phase is a requirement. Those needs push you toward a more enterprise-level platform. <a href="/compare/servicetitan-vs-jobber-2026">The comparison between ServiceTitan and Jobber</a> breaks down the tradeoffs in detail: ServiceTitan does significantly more but costs significantly more and takes months rather than days to implement.</p>
 
 <p>General contractors running subcontractors, multi-phase projects, and milestone billing also need something built for project management rather than service calls. Jobber isn't that product and doesn't claim to be.</p>
 

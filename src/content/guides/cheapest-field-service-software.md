@@ -201,7 +201,7 @@ draft: false
 
 <p>At this crew size, you're looking at Jobber Grow at $249/month or Housecall Pro Essentials at $189/month. The features that separate the platforms at this level are the ones that matter: GPS fleet visibility, automated follow-up campaigns, in-depth job cost reporting, and reliable QuickBooks sync that doesn't require a weekly manual reconciliation.</p>
 
-<p><a href="/comparisons/jobber-vs-housecall-pro">Housecall Pro wins on mobile experience and the quality of customer-facing tools</a> like online booking and review requests. Jobber wins on ease of initial setup and QuickBooks reliability. Pick based on which workflow is more broken for you right now: in-field operations or back-office admin.</p>
+<p><a href="/compare/jobber-vs-housecall-pro">Housecall Pro wins on mobile experience and the quality of customer-facing tools</a> like online booking and review requests. Jobber wins on ease of initial setup and QuickBooks reliability. Pick based on which workflow is more broken for you right now: in-field operations or back-office admin.</p>
 
 <h3>Pest Control and Recurring Service Routes</h3>
 

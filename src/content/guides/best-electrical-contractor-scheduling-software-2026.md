@@ -70,7 +70,7 @@ draft: false
 
 <p>The customer experience features are where it earns its price. Automated text sequences (booking confirmation, tech en route, review request after job close) run without anyone in your office managing them. Consistently getting Google reviews is one of the highest-leverage things a residential electrical shop can do, and Housecall Pro automates that process better than most platforms on this list.</p>
 
-<p>The built-in consumer financing integration is underrated. For big residential jobs like panel replacements or whole-home rewires ($5,000-$15,000+), having financing in the proposal closes jobs that would otherwise stall. The scheduling board handles 3-5 tech residential operations well, but for complex commercial dispatch or multi-stage jobs, it runs into real limits. If you're deciding between Housecall Pro and Jobber, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> lays out the differences without the marketing spin. Best for residential shops with 1-8 techs.</p>
+<p>The built-in consumer financing integration is underrated. For big residential jobs like panel replacements or whole-home rewires ($5,000-$15,000+), having financing in the proposal closes jobs that would otherwise stall. The scheduling board handles 3-5 tech residential operations well, but for complex commercial dispatch or multi-stage jobs, it runs into real limits. If you're deciding between Housecall Pro and Jobber, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> lays out the differences without the marketing spin. Best for residential shops with 1-8 techs.</p>
 
 <h3>5. FieldPulse: Best Flat-Rate Option for Small Shops</h3>
 
@@ -147,7 +147,7 @@ draft: false
 
 <p>Two things that specifically trip up electrical contractors when switching software: First, verify whether the platform supports QuickBooks Desktop or only QuickBooks Online. If you're on QBD, migrating to QBO is a real project you'll need to plan separately, and some shops have gotten stuck mid-transition. Second, evaluate the platform based on what a new hire with basic computer skills could learn in two weeks. Software that only your veteran office manager understands is a liability when you're growing and onboarding new people.</p>
 
-<p>If you're still deciding between the two most common options at the 5-15 tech range, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 comparison</a> breaks down exactly where each platform wins and loses by company size and job type.</p>
+<p>If you're still deciding between the two most common options at the 5-15 tech range, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber 2026 comparison</a> breaks down exactly where each platform wins and loses by company size and job type.</p>
 
 <h2>Our Recommendation</h2>
 

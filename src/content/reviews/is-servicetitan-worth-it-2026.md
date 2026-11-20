@@ -135,7 +135,7 @@ draft: false
 
 <p>HVAC businesses tend to get the most out of ServiceTitan because the platform was built around HVAC workflows first. For a broader look at where it stacks up against the alternatives in that trade specifically, the <a href="/guides/best-hvac-software-2026">best HVAC software guide for 2026</a> breaks down the field in detail.</p>
 
-<p>If you're unsure whether ServiceTitan or a simpler platform is the right call for your current stage, <a href="/comparisons/servicetitan-vs-jobber-2026">the ServiceTitan vs. Jobber comparison for 2026</a> walks through the decision by business size, which is usually the clearest way to frame it before you waste time on a demo for the wrong product.</p>
+<p>If you're unsure whether ServiceTitan or a simpler platform is the right call for your current stage, <a href="/compare/servicetitan-vs-jobber-2026">the ServiceTitan vs. Jobber comparison for 2026</a> walks through the decision by business size, which is usually the clearest way to frame it before you waste time on a demo for the wrong product.</p>
 
 <h2>The Verdict: Is ServiceTitan Worth It?</h2>
 

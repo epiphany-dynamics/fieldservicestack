@@ -88,7 +88,7 @@ draft: false
 
 <p>Jobber is the default recommendation for most small service businesses, and the reason is simple: the interface is the cleanest in the field, the mobile app performance is excellent, and the feature set covers everything a 1-10 tech operation needs. Pricing runs from $69/month (Core, 1 user) to $349/month (Grow, full team features with marketing automations included).</p>
 
-<p>Where Jobber beats FieldPulse: overall UX, customer communication tools, and adoption speed for new techs. Where it falls short: at the higher tiers, the price adds up faster than FieldPulse, and some contractors find FieldPulse's flat-rate pricing catalog more flexible for their quoting workflow. The <a href="/comparisons/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse 2026 comparison</a> goes deep on the feature-by-feature differences if you're deciding between these two specifically.</p>
+<p>Where Jobber beats FieldPulse: overall UX, customer communication tools, and adoption speed for new techs. Where it falls short: at the higher tiers, the price adds up faster than FieldPulse, and some contractors find FieldPulse's flat-rate pricing catalog more flexible for their quoting workflow. The <a href="/compare/jobber-vs-fieldpulse-2026">Jobber vs FieldPulse 2026 comparison</a> goes deep on the feature-by-feature differences if you're deciding between these two specifically.</p>
 
 <h3>Housecall Pro</h3>
 

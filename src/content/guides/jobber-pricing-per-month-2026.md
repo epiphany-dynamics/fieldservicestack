@@ -71,11 +71,11 @@ draft: false
 
 <p>The closest match to Jobber, tier for tier. Basic at $49 includes QuickBooks integration right out of the gate, where Jobber makes you step up to Connect ($149/month) for that same capability. Essentials at $129 covers up to 5 users and hits most of the feature set Jobber puts on Connect. Growth at $299 is unlimited users, which Jobber doesn't offer at any price point.</p>
 
-<p>The mobile app is strong, the customer-facing experience is polished, and the onboarding is comparable to Jobber's. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> goes deeper on where each one actually wins, but if QuickBooks integration is your first requirement, Housecall Pro gets you there cheaper.</p>
+<p>The mobile app is strong, the customer-facing experience is polished, and the onboarding is comparable to Jobber's. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> goes deeper on where each one actually wins, but if QuickBooks integration is your first requirement, Housecall Pro gets you there cheaper.</p>
 
 <h3>2. Workiz: $45 / $95 / $195 per month</h3>
 
-<p>Workiz runs cheaper at every comparable tier. Two users at $45, five users at $95, ten users at $195. The interface isn't as polished as Jobber's, but the core functionality is solid: scheduling, dispatch, invoicing, and customer communications. For a small electrical or pest control operation focused on job throughput over client-portal presentation, Workiz holds its own. The <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber breakdown</a> covers where the feature gaps actually show up in day-to-day use.</p>
+<p>Workiz runs cheaper at every comparable tier. Two users at $45, five users at $95, ten users at $195. The interface isn't as polished as Jobber's, but the core functionality is solid: scheduling, dispatch, invoicing, and customer communications. For a small electrical or pest control operation focused on job throughput over client-portal presentation, Workiz holds its own. The <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber breakdown</a> covers where the feature gaps actually show up in day-to-day use.</p>
 
 <h3>3. FieldPulse: $99 / $199 per month</h3>
 

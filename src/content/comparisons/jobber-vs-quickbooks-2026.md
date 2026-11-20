@@ -288,11 +288,11 @@ draft: false
 
 <p>This is where Jobber becomes mandatory. Dispatching a multi-truck crew without real scheduling software is how you miss jobs, double-book techs, and lose customers to whoever answers faster. Jobber Connect ($129/mo) plus QuickBooks Essentials ($65/mo) is $194/mo total. That's less than one lost job per month for most trades. The math is easy.</p>
 
-<p>At this stage, it's also worth looking at how Jobber compares to the other FSM options. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> covers both platforms in depth if you want to verify you're picking the right FSM tool before locking in.</p>
+<p>At this stage, it's also worth looking at how Jobber compares to the other FSM options. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> covers both platforms in depth if you want to verify you're picking the right FSM tool before locking in.</p>
 
 <h3>Established Operation Over $500k Revenue</h3>
 
-<p>At this scale, Jobber Grow plus QuickBooks Plus likely still handles everything you need. Some businesses start looking at ServiceTitan, but that's a significant price jump and a months-long implementation project. Unless you're hitting specific walls in Jobber, like complex multi-location work or advanced revenue tracking by individual technician, there's no reason to move. For a clear look at what that migration actually involves, <a href="/comparisons/servicetitan-vs-jobber-2026">the ServiceTitan vs Jobber breakdown for 2026</a> lays out the full tradeoff without sugarcoating the cost.</p>
+<p>At this scale, Jobber Grow plus QuickBooks Plus likely still handles everything you need. Some businesses start looking at ServiceTitan, but that's a significant price jump and a months-long implementation project. Unless you're hitting specific walls in Jobber, like complex multi-location work or advanced revenue tracking by individual technician, there's no reason to move. For a clear look at what that migration actually involves, <a href="/compare/servicetitan-vs-jobber-2026">the ServiceTitan vs Jobber breakdown for 2026</a> lays out the full tradeoff without sugarcoating the cost.</p>
 
 <h3>If You Absolutely Must Pick One</h3>
 

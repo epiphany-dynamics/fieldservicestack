@@ -76,7 +76,7 @@ draft: false
 
 <p>Invoicing is clean and the price book works similarly to Jobber's. Where Workiz lags is the learning curve. The platform has more options and the initial setup takes longer. It's not the right tool for someone who wants to get invoicing running in an afternoon.</p>
 
-<p>The Starter plan at $65/month (one user) is competitive. The Team plan at $169/month covers up to three users and unlocks QuickBooks sync. A detailed side-by-side is in the <a href="/comparisons/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> if you're already deciding between the two.</p>
+<p>The Starter plan at $65/month (one user) is competitive. The Team plan at $169/month covers up to three users and unlocks QuickBooks sync. A detailed side-by-side is in the <a href="/compare/workiz-vs-jobber-2026">Workiz vs Jobber comparison</a> if you're already deciding between the two.</p>
 
 <p><strong>Starting price:</strong> $65/mo (Starter), $169/mo (Team), $299/mo (Business)</p>
 <p><strong>QuickBooks sync:</strong> Team and above</p>

@@ -75,7 +75,7 @@ draft: false
 
 <p>Housecall Pro runs directly alongside Jobber for most core features. Scheduling, dispatch, and invoicing are comparable. Where it pulls ahead is the marketing layer: automated review requests, customer campaign tools, and a consumer-facing booking experience that's cleaner than Jobber's. For a residential service business where repeat customers and word-of-mouth drive growth, that's a real advantage.</p>
 
-<p>The downside: the Basic plan is more restrictive than Jobber's equivalent, and customer support has a spotty reputation on third-party review forums. Pricing climbs fast once you're adding users past five. For a direct feature-by-feature breakdown, <a href="/comparisons/jobber-vs-housecall-pro">the Jobber vs Housecall Pro comparison</a> covers every major difference.</p>
+<p>The downside: the Basic plan is more restrictive than Jobber's equivalent, and customer support has a spotty reputation on third-party review forums. Pricing climbs fast once you're adding users past five. For a direct feature-by-feature breakdown, <a href="/compare/jobber-vs-housecall-pro">the Jobber vs Housecall Pro comparison</a> covers every major difference.</p>
 
 <p>Best for: Residential HVAC, cleaning, and pest control companies focused on customer retention and building an online review profile.</p>
 
@@ -95,7 +95,7 @@ draft: false
 
 <p>Workiz is the pick if budget is the primary constraint. The Pro plan at $95/month covers scheduling, invoicing, payments, and a functional mobile app. QuickBooks integration works. The interface isn't as polished as Jobber and there's more friction in the mobile app, but for a small crew keeping costs tight, Workiz does the job without the overhead.</p>
 
-<p>The free plan is genuinely useful for a solo operator testing the waters, which Jobber doesn't offer at all. That alone makes it worth a serious look before committing to a paid Jobber plan. <a href="/comparisons/workiz-vs-jobber-2026">The Workiz vs Jobber comparison</a> runs through the pricing difference and where each platform wins in practical use.</p>
+<p>The free plan is genuinely useful for a solo operator testing the waters, which Jobber doesn't offer at all. That alone makes it worth a serious look before committing to a paid Jobber plan. <a href="/compare/workiz-vs-jobber-2026">The Workiz vs Jobber comparison</a> runs through the pricing difference and where each platform wins in practical use.</p>
 
 <p>Best for: Solo operators or crews of 2-4 who need core scheduling and invoicing covered for under $100/month.</p>
 

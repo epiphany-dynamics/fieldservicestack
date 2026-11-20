@@ -232,7 +232,7 @@ draft: false
 
 <p>Kickserv also makes sense if you're migrating off something older and want a low-risk transition. It's not complicated to set up. You're not going to spend a week building out workflows before you can book your first job. The free plan in particular is one of the few free FSM options that's actually usable in production and not just a lead-capture tool with a job-count wall.</p>
 
-<p>If you're weighing Kickserv against other budget-tier options before you commit, our <a href="/comparisons/workiz-vs-kickserv-2026-comparison">Workiz vs Kickserv comparison</a> covers how those two specifically stack up for small-to-mid operations.</p>
+<p>If you're weighing Kickserv against other budget-tier options before you commit, our <a href="/compare/workiz-vs-kickserv-2026-comparison">Workiz vs Kickserv comparison</a> covers how those two specifically stack up for small-to-mid operations.</p>
 
 <h2>Who Should Pick Housecall Pro</h2>
 
@@ -242,7 +242,7 @@ draft: false
 
 <p>The online booking widget is also worth taking seriously for any residential service business with a web presence. Customers book, it drops into your schedule, you get a notification. No phone tag, no back-and-forth. That kind of frictionless booking is what residential customers have come to expect, and if your competitors offer it and you don't, you're losing jobs you never even knew about.</p>
 
-<p>Housecall Pro is also the safer bet if you're adding techs in the next 12 months. The platform scales without getting clunky, and you won't hit a feature wall when you go from 3 to 6 users. For a side-by-side look at how it compares to the other major platform at this tier, the <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> is worth reading before you make a final call.</p>
+<p>Housecall Pro is also the safer bet if you're adding techs in the next 12 months. The platform scales without getting clunky, and you won't hit a feature wall when you go from 3 to 6 users. For a side-by-side look at how it compares to the other major platform at this tier, the <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro comparison</a> is worth reading before you make a final call.</p>
 
 <p><a href="/compare/kickserv-vs-jobber-2026/">Kickserv vs Jobber 2026: Best Kickserv Alternative Compared</a> takes the same Kickserv question from the Jobber angle.</p>
 

@@ -211,7 +211,7 @@ draft: false
 
 <p>QuickBooks integration is one of those things you don't think about until payroll week. Then it's the only thing you think about.</p>
 
-<p>Jobber has been connected to QuickBooks Online for years and the sync is reliable. Invoices, payments, and customer records flow between the two platforms with minimal friction. Your bookkeeper can stay in QuickBooks while your team works in Jobber. If you're on the fence about whether to run them side by side or use one over the other entirely, this comparison of <a href="/comparisons/jobber-vs-quickbooks-2026">Jobber versus QuickBooks for field service businesses</a> lays that out clearly.</p>
+<p>Jobber has been connected to QuickBooks Online for years and the sync is reliable. Invoices, payments, and customer records flow between the two platforms with minimal friction. Your bookkeeper can stay in QuickBooks while your team works in Jobber. If you're on the fence about whether to run them side by side or use one over the other entirely, this comparison of <a href="/compare/jobber-vs-quickbooks-2026">Jobber versus QuickBooks for field service businesses</a> lays that out clearly.</p>
 
 <p>FieldPulse also connects to QuickBooks Online and the integration works. Some users report needing more time to configure the field mapping correctly on the FieldPulse side before things sync cleanly. If you have someone technical helping with setup, this isn't a dealbreaker. If you're doing it alone on a Saturday afternoon with a deadline, Jobber's setup is more forgiving.</p>
 

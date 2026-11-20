@@ -63,7 +63,7 @@ draft: false
 
 <p>Pricing runs $59/month for Basic (1 user), $149/month for Essentials (up to 5 users), and $299/month for Max (unlimited users). The Max plan is where Housecall Pro gets interesting for painting businesses that are scaling up, because you're not paying per seat anymore. If you have 15 painters and a dispatcher, the per-user model on competitors adds up fast. At $299/month flat for unlimited users, the math starts working in Housecall Pro's favor at around the 6-7 user mark compared to Jobber's Grow plan.</p>
 
-<p>The customer-facing experience is polished. Clients get automated booking confirmations, arrival notifications, and a post-job review request. For a painting business trying to build Google reviews consistently, that automated follow-up is worth real money. The <a href="/comparisons/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> gets into the head-to-head detail if you want a direct feature breakdown between the two platforms.</p>
+<p>The customer-facing experience is polished. Clients get automated booking confirmations, arrival notifications, and a post-job review request. For a painting business trying to build Google reviews consistently, that automated follow-up is worth real money. The <a href="/compare/jobber-vs-housecall-pro">Jobber vs Housecall Pro 2026 comparison</a> gets into the head-to-head detail if you want a direct feature breakdown between the two platforms.</p>
 
 <p>Pricing: Basic $59/mo (1 user), Essentials $149/mo (up to 5 users), Max $299/mo (unlimited users). QuickBooks sync available on all plans. Mobile app rated 4.6/5.</p>
 

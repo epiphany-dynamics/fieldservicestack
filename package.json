@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prebuild": "node scripts/gen-llms-txt.mjs",
+    "prebuild": "node --test tests/content-links.test.mjs && node scripts/gen-llms-txt.mjs",
     "postbuild": "node scripts/add-trailing-slash-redirects.mjs",
     "gen:llms": "node scripts/gen-llms-txt.mjs"
   },

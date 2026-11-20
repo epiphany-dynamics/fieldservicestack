@@ -55,7 +55,7 @@ draft: false
 
 <p>QuickBooks integration is native and bidirectional. Invoices, payments, and expense items move automatically. It is one of the cleaner integrations on this list and one less headache at month-end.</p>
 
-<p>Weak spots: no native permit tracking, no HOA workflow, and no utility interconnection scheduling. At 60+ installs a month the custom field workarounds start feeling like real limitations. For a direct look at how Jobber stacks up against the enterprise alternative at scale, the <a href="/comparisons/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber breakdown</a> lays out where each one pulls ahead.</p>
+<p>Weak spots: no native permit tracking, no HOA workflow, and no utility interconnection scheduling. At 60+ installs a month the custom field workarounds start feeling like real limitations. For a direct look at how Jobber stacks up against the enterprise alternative at scale, the <a href="/compare/servicetitan-vs-jobber-2026">ServiceTitan vs Jobber breakdown</a> lays out where each one pulls ahead.</p>
 
 <h3>2. ServiceTitan: Best for Larger Solar Operations</h3>
 

@@ -466,9 +466,9 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
     const lightboxImg = document.getElementById('lightbox-img');
     if (!lightbox || !lightboxImg) return;
 
-    let lastFocused = null;
+    let lastFocused: Element | null = null;
 
-    function open(src, alt) {
+    const open = (src: string, alt: string | null) => {
       lightboxImg.setAttribute('src', src);
       lightboxImg.setAttribute('alt', alt || '');
       lightbox.classList.add('is-open');
@@ -477,7 +477,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       lastFocused = document.activeElement;
     }
 
-    function close() {
+    const close = () => {
       if (!lightbox.classList.contains('is-open')) return;
       lightbox.classList.remove('is-open');
       lightbox.setAttribute('aria-hidden', 'true');
@@ -485,7 +485,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       window.setTimeout(() => {
         if (!lightbox.classList.contains('is-open')) lightboxImg.setAttribute('src', '');
       }, 350);
-      if (lastFocused && typeof lastFocused.focus === 'function') lastFocused.focus();
+      if (lastFocused instanceof HTMLElement || lastFocused instanceof SVGElement) lastFocused.focus();
     }
 
     // (Re)bind triggers on every init — the post images are page-specific.
